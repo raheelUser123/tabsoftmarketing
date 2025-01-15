@@ -15,7 +15,7 @@
                         <div class="col-lg-7">
                             <div class="hero-sec-content">
                                 <p>Dominate Your Industry With</p>
-                                <h1> <b>Tabsoft Marketing’s </b> Digital Marketing Services </h1>
+                                <h1> <b>Tabsoft </b> Digital Marketing Services </h1>
                                 <p>
                                 Trusted by top brands worldwide, we help businesses of every size prosper online <br>
                                  with result-driven ad management and <b>Digital Marketing services</b>
