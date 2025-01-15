@@ -122,7 +122,7 @@ curl_setopt_array($curl, array(
 <html lang="en-US">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>TabSoft Marketing Secure Payment</title>
+  <title>Tabsoft Marketing Secure Payment</title>
     <meta name="description" content=""> 
    
  
@@ -295,7 +295,7 @@ curl_setopt_array($curl, array(
 				<div class="cardInfo">
 					<div class="card myCardPay" >
 						<div class="card-header text-center text-black">
-							<p class="card-heading" style="color:black;">Invoice from TabSoft Marketing</p>
+							<p class="card-heading" style="color:black;">Invoice from Tabsoft Marketing</p>
 							<p style="color:black;">Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
 						</div>
 					

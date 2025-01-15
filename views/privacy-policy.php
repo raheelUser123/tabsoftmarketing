@@ -17,7 +17,7 @@
     <section class="paragraph py-4 policy">
         <div class="container">
             <div class="row">
-                <p><strong>TabSoft Marketing!</strong> Your privacy is important to us, and this policy outlines how we collect, use, and protect your information when you visit our website, tabsoftmarketing.com, or engage with our services.</p>
+                <p><strong>Tabsoft Marketing!</strong> Your privacy is important to us, and this policy outlines how we collect, use, and protect your information when you visit our website, Tabsoftmarketing.com, or engage with our services.</p>
                 <h3>Information We Collect</h3>
                 <p>We may collect and process the following types of personal information:</p>
                 <ul class="policy-list">
@@ -61,7 +61,7 @@
                 <div class="link-div">
                 <ul class="policy-list">
                     <li class="d-flex align-items-center">
-                        <span><strong>Email: </strong></span><a href="mailto:query@tabsoftmarketing.com"> query@tabsoftmarketing.com</a>
+                        <span><strong>Email: </strong></span><a href="mailto:query@Tabsoftmarketing.com"> query@Tabsoftmarketing.com</a>
                     </li>
                     <li class="d-flex align-items-center">
                         <span><strong>Phone: </strong></span><a href="tel:+18882052301"> +1 (888) 205-2301</a>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "About Us | Who Are We? | TabSoft Marketing";
-$metaDescription = "TabSoft is a digital marketing agency that helps businesses grow with tailored strategies, innovative solutions, and expert insights.";
+$metaTitle = "About Us | Who Are We? | Tabsoft Marketing";
+$metaDescription = "Tabsoft is a digital marketing agency that helps businesses grow with tailored strategies, innovative solutions, and expert insights.";
 include_once("includes/head.php");
 ?>
 
@@ -12,7 +12,7 @@ include_once("includes/head.php");
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h1>TabSoft Marketing</h1>
+                    <h1>Tabsoft Marketing</h1>
                     <p>
                     A full-service digital marketing agency where creativity meets strategy to deliver exceptional marketing and ad management services, helping businesses of all sizes achieve the results they dreamed of.
                 </p>
@@ -30,7 +30,7 @@ include_once("includes/head.php");
                 <p> RESULTS > PROMISES</p>
                 <h2>Your Success is Measured, Optimized, and Delivered.</h2>
                 <p>We aim for outcomes, not just outputs.</p>
-                <p>TabSoft is your brand’s secret weapon for digital domination that drives tangible results.</p>
+                <p>Tabsoft is your brand’s secret weapon for digital domination that drives tangible results.</p>
                 <div class="request-quote">
                     <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
                 </div>
@@ -218,7 +218,7 @@ include_once("includes/head.php");
                     <p class="dna"><span>Marketing is our Passion</span></p>
                     <h2>Our story</h2>
                     <p>
-                    Every great brand has an origin story, and ours is no different. TabSoft was born from a shared vision to redefine how businesses connect with their audiences. What started as a small team of dreamers and doers has grown into a powerhouse of marketing innovators, pushing boundaries and delivering excellence every step of the way.
+                    Every great brand has an origin story, and ours is no different. Tabsoft was born from a shared vision to redefine how businesses connect with their audiences. What started as a small team of dreamers and doers has grown into a powerhouse of marketing innovators, pushing boundaries and delivering excellence every step of the way.
                 </p>
                     <div class="our-story-button">
                         <a href="/get-proposal/"> <button class="button2 ">Work With Us</button></a>
@@ -234,7 +234,7 @@ include_once("includes/head.php");
                     <p class="experience-para"><span>10+ Years of Experience</span></p>
                     <h2>A Proven Track Record of Success                    </h2>
                         <p>
-                        At TabSoftAgency, we don’t just talk about results; we deliver them. Our team boasts a proven track record of success across various industries and campaign types. We're not afraid to think outside the box and explore innovative solutions to help you achieve your marketing goals. Join the growing list of businesses partnered with us to achieve digital marketing success.
+                        At TabsoftAgency, we don’t just talk about results; we deliver them. Our team boasts a proven track record of success across various industries and campaign types. We're not afraid to think outside the box and explore innovative solutions to help you achieve your marketing goals. Join the growing list of businesses partnered with us to achieve digital marketing success.
                     </p>
                 </div>
                 <div class="col-lg-4">
@@ -519,7 +519,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "TabSoft has been instrumental in growing our online store. Their data-driven approach to ecommerce marketing, from website optimization to targeted email campaigns, has substantially increased customer conversions and overall revenue. We're incredibly pleased with the results!"
+                            "Tabsoft has been instrumental in growing our online store. Their data-driven approach to ecommerce marketing, from website optimization to targeted email campaigns, has substantially increased customer conversions and overall revenue. We're incredibly pleased with the results!"
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">

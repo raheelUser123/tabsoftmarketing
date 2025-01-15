@@ -1,4 +1,4 @@
-var domainName = 'https://www.tabsoftmarketing.com/';
+var domainName = 'https://www.Tabsoftmarketing.com/';
 $.get('https://crm.tealslab.com/api/accountkey', { brandurl: domainName }, function(msg, status) {
     if (status == "success") {
         // console.log(msg[0]['publishable_key']);

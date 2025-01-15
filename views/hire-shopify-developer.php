@@ -9,8 +9,8 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="shopify-slider">
-                        <div><img src="../assets/images/shopify-tabsoft-images.jpg" alt="Shop Image 1"></div>
-                        <div><img src="../assets/images/shopify-tabsoft-image-2.jpg" alt="Shop Image 1"></div>
+                        <div><img src="../assets/images/shopify-Tabsoft-images.jpg" alt="Shop Image 1"></div>
+                        <div><img src="../assets/images/shopify-Tabsoft-image-2.jpg" alt="Shop Image 1"></div>
                     </div>
 
                 </div>
@@ -102,7 +102,7 @@
                             </fieldset>
 
                             <input type="hidden" name="route" value="hire-shopify-developer/" />
-                            <input type="hidden" name="brand" value="TabSoft Marketing" />
+                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -420,7 +420,7 @@
                                 </div>
                                 <div class="shopify-slider-text">
                                     <p>
-                                        The experience with the TabSoft Marketing has been fantastic thus far Anna my web developer is very informative and keeps me up-to-date on every project that she’s implementing…
+                                        The experience with the Tabsoft Marketing has been fantastic thus far Anna my web developer is very informative and keeps me up-to-date on every project that she’s implementing…
                                     </p>
                                 </div>
                             </div>

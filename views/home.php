@@ -15,7 +15,7 @@
                         <div class="col-lg-7">
                             <div class="hero-sec-content">
                                 <p>Dominate Your Industry With</p>
-                                <h1> <b>TabSoft Marketing’s </b> Digital Marketing Services </h1>
+                                <h1> <b>Tabsoft Marketing’s </b> Digital Marketing Services </h1>
                                 <p>
                                 Trusted by top brands worldwide, we help businesses of every size prosper online <br>
                                  with result-driven ad management and <b>Digital Marketing services</b>
@@ -681,13 +681,13 @@
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            What digital marketing services does TabSoft Marketing offer?
+                            What digital marketing services does Tabsoft Marketing offer?
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            TabSoft Marketing provides a comprehensive suite of digital marketing services, including Ad
+                            Tabsoft Marketing provides a comprehensive suite of digital marketing services, including Ad
                             Management for platforms like Instagram, YouTube, TikTok, Snapchat, and Twitter, Amazon
                             Marketing, Ecommerce Marketing, Email Marketing, Search Engine Optimization (SEO), and
                             Social Media Marketing.
@@ -732,7 +732,7 @@
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            Can TabSoft Marketing help with my business's SEO needs?
+                            Can Tabsoft Marketing help with my business's SEO needs?
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -816,13 +816,13 @@
                     <h2 class="accordion-header" id="headingNine">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            Why should I choose TabSoft Marketing over other digital marketing firms?
+                            Why should I choose Tabsoft Marketing over other digital marketing firms?
                         </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            TabSoft Marketing stands out due to our customized approach, where each strategy is tailored to
+                            Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to
                             the client's specific goals. Our team of experts leverages the latest digital marketing
                             tools and analytics to ensure optimal performance and results. Plus, our commitment to
                             transparency and client communication ensures you are always informed and in control.
@@ -833,13 +833,13 @@
                     <h2 class="accordion-header" id="headingTen">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            How can I get started with TabSoft Marketing?
+                            How can I get started with Tabsoft Marketing?
                         </button>
                     </h2>
                     <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Getting started with TabSoft Marketing is easy! Simply contact us via our website, email, or
+                            Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or
                             phone. We'll arrange an initial consultation to discuss your needs and objectives and then
                             propose a tailored strategy to help your business succeed in the digital world.
                         </div>

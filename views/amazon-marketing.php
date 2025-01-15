@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Professional Amazon Marketing Services  | TabSoft Marketing";
+$metaTitle = "Professional Amazon Marketing Services  | Tabsoft Marketing";
 $metaDescription = "Elevate your brand with professional Amazon marketing services. Maximize visibility, increase sales, and grow your business with expert solutions.";
 include_once("includes/head.php");
 ?>
@@ -18,7 +18,7 @@ include_once("includes/head.php");
                     </h1>
                     <p>
 
-                    Tired of watching your Amazon sales plateau? TabSoft Marketing offers comprehensive solutions to maximize your brand’s visibility and revenue on the world’s largest online marketplace.
+                    Tired of watching your Amazon sales plateau? Tabsoft Marketing offers comprehensive solutions to maximize your brand’s visibility and revenue on the world’s largest online marketplace.
                     </p>
 
                     <div class="service-button">
@@ -377,7 +377,7 @@ include_once("includes/head.php");
         </div>
         <div class="cli-seo-content">
             <p>
-            Since partnering with TabSoft Marketing, we've seen a significant increase in our Amazon sales. Their expertise in PPC advertising and listing optimization has been invaluable.
+            Since partnering with Tabsoft Marketing, we've seen a significant increase in our Amazon sales. Their expertise in PPC advertising and listing optimization has been invaluable.
             John Smith,<span> Marketing Director</span>, Acme Products <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -553,7 +553,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat/" />
-                            <input type="hidden" name="brand" value="TabSoft Marketing" />
+                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -575,7 +575,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "TabSoft Marketing has completely transformed our Amazon PPC campaigns. Their expertise in keyword
+                            "Tabsoft Marketing has completely transformed our Amazon PPC campaigns. Their expertise in keyword
                             research and bid optimization has significantly reduced our ACoS and increased our sales.
                             extremely impressed with their results."
                             </p>
@@ -597,7 +597,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "Before working with TabSoft Marketing, our product listings were underperforming. They optimized our
+                            "Before working with Tabsoft Marketing, our product listings were underperforming. They optimized our
                             titles, descriptions, and images, resulting in a dramatic increase in organic traffic and conversions. We
                             highly recommend their listing optimization services."
                             </p>
@@ -618,7 +618,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "TabSoft Marketing played a crucial role in the successful launch of our new product on Amazon. Their pre-
+                            "Tabsoft Marketing played a crucial role in the successful launch of our new product on Amazon. Their pre-
                 launch marketing strategy and promotional campaigns generated significant buzz and drove strong
 initial sales. Were grateful for their expertise and support."
                             </p>
@@ -639,7 +639,7 @@ initial sales. Were grateful for their expertise and support."
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "TabSoft Marketing provides invaluable strategic guidance on all aspects of Amazon marketing. Their team
+                            "Tabsoft Marketing provides invaluable strategic guidance on all aspects of Amazon marketing. Their team
 is highly knowledgeable, responsive, and dedicated to our success. They've helped us develop a
 comprehensive strategy thats driving consistent growth for our business."
                             </p>
@@ -799,13 +799,13 @@ objectives.
                     <h2 class="accordion-header" id="headingNine">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            Why should I choose TabSoft Marketing over other digital marketing firms?
+                            Why should I choose Tabsoft Marketing over other digital marketing firms?
                         </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            TabSoft Marketing stands out due to our customized approach, where each strategy is tailored to
+                            Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to
                             the client's specific goals. Our team of experts leverages the latest digital marketing
                             tools and analytics to ensure optimal performance and results. Plus, our commitment to
                             transparency and client communication ensures you are always informed and in control.
@@ -816,13 +816,13 @@ objectives.
                     <h2 class="accordion-header" id="headingTen">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            How can I get started with TabSoft Marketing?
+                            How can I get started with Tabsoft Marketing?
                         </button>
                     </h2>
                     <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Getting started with TabSoft Marketing is easy! Simply contact us via our website, email, or
+                            Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or
                             phone. We'll arrange an initial consultation to discuss your needs and objectives and then
                             propose a tailored strategy to help your business succeed in the digital world.
                         </div>

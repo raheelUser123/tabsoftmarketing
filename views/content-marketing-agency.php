@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Top Ecommerce Marketing Services |TabSoft Marketing|";
+$metaTitle = "Top Ecommerce Marketing Services |Tabsoft Marketing|";
 $metaDescription = "Grow your sales with our top ecommerce marketing services. Tailored strategies to increase visibility, drive traffic, and maximize conversions.";
 include_once("includes/head.php");
 ?>
@@ -93,7 +93,7 @@ include_once("includes/head.php");
                     <strong>If you run an online store, you want more sales and money.</strong> There are lots of ways to do this, but you need experts who know which methods work best for your business. It's essential to understand how different online marketing channels (like search engines and social media) work together.
                     </p>
                     <p>
-                    TabSoft Marketing has years of experience finding those customers and bringing them to your website to buy your products. In the online selling world, that is a long time! Our award-winning marketing strategies get results. We'll work with you to understand your products and your industry and create a marketing plan that gets you the best return on your investment.
+                    Tabsoft Marketing has years of experience finding those customers and bringing them to your website to buy your products. In the online selling world, that is a long time! Our award-winning marketing strategies get results. We'll work with you to understand your products and your industry and create a marketing plan that gets you the best return on your investment.
                     </p>
                     <div class="personalized-button">
                         <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
@@ -552,7 +552,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat/" />
-                            <input type="hidden" name="brand" value="TabSoft Marketing" />
+                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -574,7 +574,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "TabSoft Marketing completely transformed our online presence. Their eCommerce marketing strategies were spot-on, driving significant traffic and boosting our sales. Their team is highly professional and responsive, and they truly understand the nuances of the online market. Highly recommend!"
+                            "Tabsoft Marketing completely transformed our online presence. Their eCommerce marketing strategies were spot-on, driving significant traffic and boosting our sales. Their team is highly professional and responsive, and they truly understand the nuances of the online market. Highly recommend!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -594,7 +594,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "We partnered with TabSoft Marketing for a complete website overhaul and ongoing SEO management. The results have been outstanding. Our website is now modern, user-friendly, and ranks much higher in search results. They are a reliable and results-driven agency."
+                            "We partnered with Tabsoft Marketing for a complete website overhaul and ongoing SEO management. The results have been outstanding. Our website is now modern, user-friendly, and ranks much higher in search results. They are a reliable and results-driven agency."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -614,7 +614,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "As a small business owner, I was hesitant to invest in digital marketing, but TabSoft Marketing made the process easy and affordable. They developed a social media strategy that perfectly targeted our local audience, leading to a noticeable increase in foot traffic and online orders. I'm so grateful for their expertise!"
+                            "As a small business owner, I was hesitant to invest in digital marketing, but Tabsoft Marketing made the process easy and affordable. They developed a social media strategy that perfectly targeted our local audience, leading to a noticeable increase in foot traffic and online orders. I'm so grateful for their expertise!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -635,7 +635,7 @@ include_once("includes/head.php");
                             <p class="test-p">
 
 
-                            "TabSoft Marketing's expertise in omnichannel marketing has been invaluable to our business. They seamlessly integrated our online and offline channels, creating a cohesive and engaging customer experience. Their strategic approach and data-driven insights have significantly improved our ROI."
+                            "Tabsoft Marketing's expertise in omnichannel marketing has been invaluable to our business. They seamlessly integrated our online and offline channels, creating a cohesive and engaging customer experience. Their strategic approach and data-driven insights have significantly improved our ROI."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -665,13 +665,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            What services does TabSoft Marketing offer?
+                            What services does Tabsoft Marketing offer?
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        TabSoft Marketing offers a comprehensive range of digital marketing services, including eCommerce marketing, SEO, website design and development, social media marketing, PPC advertising, and omnichannel marketing strategies.
+                        Tabsoft Marketing offers a comprehensive range of digital marketing services, including eCommerce marketing, SEO, website design and development, social media marketing, PPC advertising, and omnichannel marketing strategies.
                         </div>
                     </div>
                 </div>
@@ -707,7 +707,7 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            How much does it cost to work with TabSoft Marketing?
+                            How much does it cost to work with Tabsoft Marketing?
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
@@ -735,7 +735,7 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingSix">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            How can I get started with TabSoft Marketing?
+                            How can I get started with Tabsoft Marketing?
                         </button>
                     </h2>
                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
@@ -782,13 +782,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingNine">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            Why should I choose TabSoft Marketing over other digital marketing firms?
+                            Why should I choose Tabsoft Marketing over other digital marketing firms?
                         </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            TabSoft Marketing stands out due to our customized approach, where each strategy is tailored to
+                            Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to
                             the client's specific goals. Our team of experts leverages the latest digital marketing
                             tools and analytics to ensure optimal performance and results. Plus, our commitment to
                             transparency and client communication ensures you are always informed and in control.
@@ -799,13 +799,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingTen">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            How can I get started with TabSoft Marketing?
+                            How can I get started with Tabsoft Marketing?
                         </button>
                     </h2>
                     <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Getting started with TabSoft Marketing is easy! Simply contact us via our website, email, or
+                            Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or
                             phone. We'll arrange an initial consultation to discuss your needs and objectives and then
                             propose a tailored strategy to help your business succeed in the digital world.
                         </div>

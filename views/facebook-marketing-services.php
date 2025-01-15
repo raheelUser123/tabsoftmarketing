@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Facebook Ad Management Services | TabSoft Marketing |";
+$metaTitle = "Facebook Ad Management Services | Tabsoft Marketing |";
 $metaDescription = "Maximize your business growth with expert Facebook ad management services and reach the right audience.";
 include_once("includes/head.php");
 ?>
@@ -514,7 +514,7 @@ Our goal is to make your business shine on Facebook. We handle everything from <
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat/" />
-                            <input type="hidden" name="brand" value="TabSoft Marketing" />
+                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />

@@ -126,7 +126,7 @@
     </fieldset>
     <input type="hidden" name="url" value="/get-a-quote/">
     <input type="hidden" name="route" value="get-proposal/">
-    <input type="hidden" name="brand" value="TabSoft Marketing">
+    <input type="hidden" name="brand" value="Tabsoft Marketing">
     <input type="hidden" name="token" value="<?= $token; ?>">
     <input type="hidden" name="tag" value="sidepanel form in landing-page">
     <input type="hidden" name="price" value="null">
@@ -178,7 +178,7 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                TabSoft Marketing has delivered exceptional ROI on our paid campaigns. Their deep expertise in B2B SaaS and Cybersecurity is evident in the engaging content and high-performing landing pages they’ve created for us. They consistently excel across all our campaigns!
+                                Tabsoft Marketing has delivered exceptional ROI on our paid campaigns. Their deep expertise in B2B SaaS and Cybersecurity is evident in the engaging content and high-performing landing pages they’ve created for us. They consistently excel across all our campaigns!
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -198,7 +198,7 @@
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                After experiencing limited success with larger agencies, we have been absolutely impressed by what TabSoft Marketing has accomplished for us. Over the past 7+ years, they have consistently driven rapid and profitable growth. They are a trusted partner and an integral extension of our team.
+                                After experiencing limited success with larger agencies, we have been absolutely impressed by what Tabsoft Marketing has accomplished for us. Over the past 7+ years, they have consistently driven rapid and profitable growth. They are a trusted partner and an integral extension of our team.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -218,7 +218,7 @@
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                Collaborating with TabSoft Marketing produced results that greatly surpassed our expectations. We achieved a 50% reduction in cost per lead, a 100% increase in the sales-qualified pipeline from paid search, and a 4X improvement in landing page conversions. TabSoft Marketing consistently exceeded every quarterly goal ahead of schedule and was an absolute pleasure to work with.
+                                Collaborating with Tabsoft Marketing produced results that greatly surpassed our expectations. We achieved a 50% reduction in cost per lead, a 100% increase in the sales-qualified pipeline from paid search, and a 4X improvement in landing page conversions. Tabsoft Marketing consistently exceeded every quarterly goal ahead of schedule and was an absolute pleasure to work with.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -239,7 +239,7 @@
                             <p class="test-p">
 
 
-                                The TabSoft Marketing team has been instrumental in helping us achieve our revenue goals through a highly effective paid search program. They utilized our existing tools, such as HubSpot and Salesforce, to provide comprehensive visibility and employed a strategic test-and-adjust methodology that consistently delivered results. I highly recommend TabSoft Marketing to any company looking to transform a struggling PPC program into a thriving profit center.
+                                The Tabsoft Marketing team has been instrumental in helping us achieve our revenue goals through a highly effective paid search program. They utilized our existing tools, such as HubSpot and Salesforce, to provide comprehensive visibility and employed a strategic test-and-adjust methodology that consistently delivered results. I highly recommend Tabsoft Marketing to any company looking to transform a struggling PPC program into a thriving profit center.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">

@@ -34,7 +34,7 @@ No generic templates here—our team creates custom-designed, conversion-focused
                         An effectively crafted landing page demonstrates why your product or service is the ideal solution for visitors' needs, fostering trust and credibility while driving them to take action. Achieving this requires seamless collaboration between design, copy, and key elements to deliver an engaging user experience. When done right, it leads to a wealth of highly qualified sales leads. If not, you risk losing out on your ideal customers.
                     </p>
                     <p>
-                    At TabSoft Marketing, we are dedicated to crafting the ideal, mobile-responsive landing page tailored to your business needs. We achieve this by continually A/B testing design and copy elements to identify the highest-performing combination for optimal conversion rates.
+                    At Tabsoft Marketing, we are dedicated to crafting the ideal, mobile-responsive landing page tailored to your business needs. We achieve this by continually A/B testing design and copy elements to identify the highest-performing combination for optimal conversion rates.
                     </p>
 
                 </div>

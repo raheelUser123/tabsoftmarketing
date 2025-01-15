@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Twitter (X) Ad Management Services | TabSoft Marketing";
+$metaTitle = "Twitter (X) Ad Management Services | Tabsoft Marketing";
 $metaDescription = "Advertise your brand with our tailored Twitter (X) ad management services, delivering creative, data-driven campaigns that reach the right audience.";
 include_once("includes/head.php");
 ?>
@@ -491,7 +491,7 @@ We cover it all! From strategy to execution, we optimize every part of your Twit
                             </fieldset>
 
                             <input type="hidden" name="route" value="twitter/" />
-                            <input type="hidden" name="brand" value="TabSoft Marketing" />
+                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />

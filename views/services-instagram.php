@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Instagram Ad Management to Boost Your Brand | TabSoft Marketing";
+$metaTitle = "Instagram Ad Management to Boost Your Brand | Tabsoft Marketing";
 $metaDescription = "Transform your brand with tailored Instagram ad management services. Our team helps you engage, convert, and grow on Instagram.";
 include_once("includes/head.php");
 ?>
@@ -509,7 +509,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="instaggram/" />
-                            <input type="hidden" name="brand" value="TabSoft Marketing" />
+                            <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />

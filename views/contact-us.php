@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Contact Us for A Free Proposal | TabSoft Marketing";
-$metaDescription = "Get in touch with TabSoft Marketing for a free proposal and see how our expert team can help your business and deliver exceptional results.";
+$metaTitle = "Contact Us for A Free Proposal | Tabsoft Marketing";
+$metaDescription = "Get in touch with Tabsoft Marketing for a free proposal and see how our expert team can help your business and deliver exceptional results.";
 include_once("includes/head.php");
 ?>
 
@@ -13,7 +13,7 @@ include_once("includes/head.php");
       <div class="row">
         <div class="col-lg-6">
           <h1>
-          Ready to Outsource Your Project to <span>TabSoft Marketing?</span></span>
+          Ready to Outsource Your Project to <span>Tabsoft Marketing?</span></span>
           </h1>
           <p>
           Reach out to us for a free, no-obligation proposal. We’re excited to show you how our proven methods can help you achieve your goals and exceed expectations.
@@ -87,7 +87,7 @@ include_once("includes/head.php");
               </fieldset>
 
               <input type="hidden" name="route" value="contact-us/" />
-              <input type="hidden" name="brand" value="TabSoft Marketing" />
+              <input type="hidden" name="brand" value="Tabsoft Marketing" />
               <input type="hidden" name="token" value="<?= $token; ?>" />
               <input type="hidden" name="tag" value="sidepanel form in landing-page" />
               <input type="hidden" name="price" value="null" />
@@ -109,20 +109,20 @@ include_once("includes/head.php");
               <hr>
               <p><a href="tel:(561) 473-4214"><i class="fas fa-phone me-3"></i> (561) 473-4214</a></p>
               <p>
-              <a href="mailto:query@tabsoftmarketing.com">
+              <a href="mailto:query@Tabsoftmarketing.com">
                   <i class="fas fa-envelope me-3"></i>
-                  query@tabsoftmarketing.com
+                  query@Tabsoftmarketing.com
                 </a>
               </p>
             </div>
             <div class="contact-us-links">
-            <a href="https://www.facebook.com/tabsoftagency/" target="_blank">
+            <a href="https://www.facebook.com/Tabsoftagency/" target="_blank">
               <i class="bi bi-facebook"></i>
             </a>
-            <a href="https://www.instagram.com/tabsoftagency/">
+            <a href="https://www.instagram.com/Tabsoftagency/">
               <i class="bi bi-instagram"></i>
             </a>
-            <a href="https://www.linkedin.com/company/tabsoftagency/">
+            <a href="https://www.linkedin.com/company/Tabsoftagency/">
               <i class="bi bi-linkedin"></i>
             </a>
             <!-- <a href="">

@@ -31,7 +31,7 @@
                     </p>
                     <p>
 
-                        That’s where TabSoft Marketing steps in. We’re passionate experts dedicated to helping our clients thrive. Check out our case studies below to see how we’ve assisted various businesses in maximizing profits and growing their brands. Reach out to us today to discover how we can do the same for your company!
+                        That’s where Tabsoft Marketing steps in. We’re passionate experts dedicated to helping our clients thrive. Check out our case studies below to see how we’ve assisted various businesses in maximizing profits and growing their brands. Reach out to us today to discover how we can do the same for your company!
                     </p>
                 </div>
             </div>
