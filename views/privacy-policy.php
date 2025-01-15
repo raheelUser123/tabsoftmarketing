@@ -61,7 +61,7 @@
                 <div class="link-div">
                 <ul class="policy-list">
                     <li class="d-flex align-items-center">
-                        <span><strong>Email: </strong></span><a href="mailto:query@Tabsoftmarketing.com"> query@Tabsoftmarketing.com</a>
+                        <span><strong>Email: </strong></span><a href="mailto:query@tabsoftmarketing.com"> query@tabsoftmarketing.com</a>
                     </li>
                     <li class="d-flex align-items-center">
                         <span><strong>Phone: </strong></span><a href="tel:+18882052301"> +1 (888) 205-2301</a>

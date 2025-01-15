@@ -109,9 +109,9 @@ include_once("includes/head.php");
               <hr>
               <p><a href="tel:(561) 473-4214"><i class="fas fa-phone me-3"></i> (561) 473-4214</a></p>
               <p>
-              <a href="mailto:query@Tabsoftmarketing.com">
+              <a href="mailto:query@tabsoftmarketing.com">
                   <i class="fas fa-envelope me-3"></i>
-                  query@Tabsoftmarketing.com
+                  query@tabsoftmarketing.com
                 </a>
               </p>
             </div>

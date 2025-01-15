@@ -114,9 +114,9 @@
               <h6 class="text-uppercase fw-bold mb-4">Contact Information</h6>
               <p><i class="fas fa-home me-3"></i>4952 10th Ave N Greenacres FL 33463</p>
               <p>
-                <a href="mailto:query@Tabsoftmarketing.com">
+                <a href="mailto:query@tabsoftmarketing.com">
                   <i class="fas fa-envelope me-3"></i>
-                  query@Tabsoftmarketing.com
+                  query@tabsoftmarketing.com
                 </a>
               </p>
               <p><a href="tel:(888) 205-2301"><i class="fas fa-phone me-3"></i> (888) 205-2301</a></p>
