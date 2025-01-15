@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = " Best Social Media Marketing Services| TabSoft Agency";
+$metaTitle = " Best Social Media Marketing Services| TabSoft Marketing";
 $metaDescription = "Elevate your online presence with our expert social media marketing services. Drive growth, engagement, and results for your brand across platforms.";
 include_once("includes/head.php");
 ?>
@@ -92,7 +92,7 @@ include_once("includes/head.php");
                     Building a powerful brand and becoming profitable requires a dedicated strategy and consistent execution. Partner with us, and we'll provide the creative social media marketing ideas and data-driven approach needed to position your brand at the top.
                     </p>
                     <p>
-                    TabSoft Agency offers comprehensive social media marketing services based on proven best practices. We work closely with you to understand your unique business needs and develop a customized strategy that delivers results. Ready to partner for social media success? 
+                    TabSoft Marketing offers comprehensive social media marketing services based on proven best practices. We work closely with you to understand your unique business needs and develop a customized strategy that delivers results. Ready to partner for social media success? 
                     </p>
                     <div class="personalized-button">
                         <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
@@ -194,7 +194,7 @@ include_once("includes/head.php");
                     <h2>Effective Social Media Marketing Services<br> That Cut Through The Clutter And Make A Real Impact
                     </h2>
                     <p>
-                    Social media marketing (SMM) is essential for businesses looking to increase brand awareness, generate leads, and drive sales. TabSoft Agency offers proven social media marketing solutions that deliver exceptional results. Our refined and unique methods have a consistent track record of success.
+                    Social media marketing (SMM) is essential for businesses looking to increase brand awareness, generate leads, and drive sales. TabSoft Marketing offers proven social media marketing solutions that deliver exceptional results. Our refined and unique methods have a consistent track record of success.
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
@@ -214,7 +214,7 @@ include_once("includes/head.php");
             <div class="tried-heading-sec text-center">
                 <h2>Battling <span>Social Media Challenges?</span></h2>
                 <p>
-                If these pain points hit home, TabSoft Agency is here for you. We’ve worked with a diverse range of <br>clients to address these very issues and help them thrive.
+                If these pain points hit home, TabSoft Marketing is here for you. We’ve worked with a diverse range of <br>clients to address these very issues and help them thrive.
                 </p>
             </div>
             <div class="row">
@@ -374,7 +374,7 @@ include_once("includes/head.php");
         </div>
         <div class="cli-seo-content">
             <p>
-            As a creative professional myself, I'm always impressed by TabSoft Agency's innovative and out-of-the-box thinking. They don't just follow trends; they set them. Their campaigns are visually stunning, engaging, and perfectly aligned with our brand identity.
+            As a creative professional myself, I'm always impressed by TabSoft Marketing's innovative and out-of-the-box thinking. They don't just follow trends; they set them. Their campaigns are visually stunning, engaging, and perfectly aligned with our brand identity.
             David Rodrigue,<span> CEO of CreativeSpark Studios.</span> <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -555,7 +555,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat/" />
-                            <input type="hidden" name="brand" value="Tabsoft Agency" />
+                            <input type="hidden" name="brand" value="TabSoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -577,7 +577,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "TabSoft Agency completely revamped our social media strategy. Their content is engaging, and their team is incredibly responsive. We've seen a significant increase in engagement and leads since partnering with them."
+                            "TabSoft Marketing completely revamped our social media strategy. Their content is engaging, and their team is incredibly responsive. We've seen a significant increase in engagement and leads since partnering with them."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -597,7 +597,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "As a small business owner, I didn't have the time or expertise to manage my social media effectively. TabSoft Agency took the reins and transformed our online presence. I highly recommend their services."
+                            "As a small business owner, I didn't have the time or expertise to manage my social media effectively. TabSoft Marketing took the reins and transformed our online presence. I highly recommend their services."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -617,7 +617,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "We needed a social media campaign that would generate buzz for our new product launch. TabSoft Agency delivered beyond our expectations. Their creative approach and strategic execution resulted in a highly successful campaign."
+                            "We needed a social media campaign that would generate buzz for our new product launch. TabSoft Marketing delivered beyond our expectations. Their creative approach and strategic execution resulted in a highly successful campaign."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -638,7 +638,7 @@ include_once("includes/head.php");
                             <p class="test-p">
 
 
-                            "TabSoft Agency has been instrumental in helping us build a strong brand identity on social media. Their team is professional, knowledgeable, and genuinely invested in our success."
+                            "TabSoft Marketing has been instrumental in helping us build a strong brand identity on social media. Their team is professional, knowledgeable, and genuinely invested in our success."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -724,7 +724,7 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingFive">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            How do I get started with TabSoft Agency?
+                            How do I get started with TabSoft Marketing?
                         </button>
                     </h2>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"

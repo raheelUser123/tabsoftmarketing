@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Snapchat Ad Management Services | TabSoft Agency ";
+$metaTitle = "Snapchat Ad Management Services | TabSoft Marketing ";
 $metaDescription = " From targeted campaigns to creative designs, we help your brand reach the right audience with Snapchat ad management services.";
 include_once("includes/head.php");
 ?>
@@ -515,7 +515,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat/" />
-                            <input type="hidden" name="brand" value="Tabsoft Agency" />
+                            <input type="hidden" name="brand" value="TabSoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />

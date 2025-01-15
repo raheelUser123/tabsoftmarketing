@@ -207,7 +207,7 @@
                             <h4>
                             Ecommerce Conversion Optimization</h4>
                             <p>
-                            Any marketing team that claims to create the perfect landing page on the first try, every time, is exaggerating. We don’t believe a "perfect" landing page exists—there's always room for improvement. Our ecommerce landing page optimization services involve continuously monitoring performance to see how your pages are performing. If something isn't working as planned, we'll fix it; if it's working well, we'll find ways to make it even better. At Tabsoft Agency, our promise is not "set and forget," but "test, improve, and optimize."                            
+                            Any marketing team that claims to create the perfect landing page on the first try, every time, is exaggerating. We don’t believe a "perfect" landing page exists—there's always room for improvement. Our ecommerce landing page optimization services involve continuously monitoring performance to see how your pages are performing. If something isn't working as planned, we'll fix it; if it's working well, we'll find ways to make it even better. At TabSoft Marketing, our promise is not "set and forget," but "test, improve, and optimize."                            
                         </p>
                         </div>
                     </div>
@@ -223,7 +223,7 @@
                             <h4>
                             Ecommerce A/B Testing</h4>
                             <p>
-                            Ecommerce landing page optimization relies on data, and knowing what improvements to make can sometimes feel uncertain. With Tabsoft Agency' landing page design services, we don't just guess what might work—we build multiple options and test them live to determine the most effective approach. Once we find the best-performing option, our work doesn’t stop there. We continuously track metrics and perform A/B tests, making iterative improvements to maximize the effectiveness of your landing pages and get the most out of every dollar spent.                            
+                            Ecommerce landing page optimization relies on data, and knowing what improvements to make can sometimes feel uncertain. With TabSoft Marketing' landing page design services, we don't just guess what might work—we build multiple options and test them live to determine the most effective approach. Once we find the best-performing option, our work doesn’t stop there. We continuously track metrics and perform A/B tests, making iterative improvements to maximize the effectiveness of your landing pages and get the most out of every dollar spent.                            
                         </p>
                         </div>
                     </div>

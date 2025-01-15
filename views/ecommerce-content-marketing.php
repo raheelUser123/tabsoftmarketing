@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Top Ecommerce Marketing Services |TabSoft Agency|";
+$metaTitle = "Top Ecommerce Marketing Services |TabSoft Marketing|";
 $metaDescription = "Grow your sales with our top ecommerce marketing services. Tailored strategies to increase visibility, drive traffic, and maximize conversions.";
 include_once("includes/head.php");
 ?>
@@ -227,7 +227,7 @@ include_once("includes/head.php");
                     <h2>Email <span> Marketing </span></h2>
                     <p>
 
-                        TabSoft Agency’s ecommerce content marketing services are designed to help you build long-term relationships with your customers through targeted email marketing campaigns. We craft personalized, action-driven emails that nurture leads, highlight special offers, and keep your brand at the forefront of their minds. This strategy helps boost repeat business and foster customer loyalty.
+                        TabSoft Marketing’s ecommerce content marketing services are designed to help you build long-term relationships with your customers through targeted email marketing campaigns. We craft personalized, action-driven emails that nurture leads, highlight special offers, and keep your brand at the forefront of their minds. This strategy helps boost repeat business and foster customer loyalty.
                     </p>
                     <div class="ad-button">
                         <a href="#"> <button class="button2 quote-button">Get Proposal</button></a>
@@ -279,7 +279,7 @@ include_once("includes/head.php");
                             <h4>
                                 Ecommerce Content Strategy</h4>
                             <p>
-                                "As the saying goes: 'If you fail to plan, you plan to fail.' At TabSoft Agency, we begin all our ecommerce content marketing efforts with a solid strategy, ensuring our work is directed effectively."
+                                "As the saying goes: 'If you fail to plan, you plan to fail.' At TabSoft Marketing, we begin all our ecommerce content marketing efforts with a solid strategy, ensuring our work is directed effectively."
                             </p>
                             <p>
                                 "Our ecommerce content strategy begins with a website content audit. We review your current content, such as product descriptions and blog posts, to identify gaps and opportunities for improvement."
@@ -348,7 +348,7 @@ include_once("includes/head.php");
                                 Downloadable Ebooks and Guides</h4>
                             <p>
 
-                                Blogs are great for attracting top-funnel audiences, but to establish your brand as a trusted thought leader, TabSoft Agency’s ecommerce content strategy includes premium content like ebooks, guides, and infographics.
+                                Blogs are great for attracting top-funnel audiences, but to establish your brand as a trusted thought leader, TabSoft Marketing’s ecommerce content strategy includes premium content like ebooks, guides, and infographics.
                             </p>
                             <p>
 

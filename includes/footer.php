@@ -32,7 +32,7 @@
         <div class="col-md-3 navftr col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <!-- Links -->
           <a class="footer-logo" href="/"><img class="img-fluid" src="../assets/images/logo.png" alt=""></a>
-          <p>TabSoft Agency was founded by entrepreneurs who have been<br> there and done that.</p>
+          <p>TabSoft Marketing was founded by entrepreneurs who have been<br> there and done that.</p>
           <h6 class="text-uppercase fw-bold ">
             Follow Us
           </h6>
@@ -114,9 +114,9 @@
               <h6 class="text-uppercase fw-bold mb-4">Contact Information</h6>
               <p><i class="fas fa-home me-3"></i>4952 10th Ave N Greenacres FL 33463</p>
               <p>
-                <a href="mailto:query@tabsoftagency.com">
+                <a href="mailto:query@tabsoftmarketing.com">
                   <i class="fas fa-envelope me-3"></i>
-                  query@tabsoftagency.com
+                  query@tabsoftmarketing.com
                 </a>
               </p>
               <p><a href="tel:(888) 205-2301"><i class="fas fa-phone me-3"></i> (888) 205-2301</a></p>
@@ -145,7 +145,7 @@
   <!-- Copyright -->
   <div class="text-center  bottom-footer">
     <div class="bottom-footer-p-1">
-      <p>© 2024-25 Copyrights <b>TabSoft Agency</b> All Rights Reserved.</p>
+      <p>© 2024-25 Copyrights <b>TabSoft Marketing</b> All Rights Reserved.</p>
     </div>
     <div class="bottom-footer-p-2">
       <!-- <p>
@@ -226,7 +226,7 @@
             </fieldset>
 
             <input type="hidden" name="route" value="model-get-a-quote/" />
-            <input type="hidden" name="brand" value="Tabsoft Agency" />
+            <input type="hidden" name="brand" value="TabSoft Marketing" />
             <input type="hidden" name="token" value="<?= $token; ?>" />
             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
             <input type="hidden" name="price" value="null" />

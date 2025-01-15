@@ -71,7 +71,7 @@
                 </h2>
                 <p>
 
-                    TabSoft Agency is a battle-tested ecommerce PPC agency. We’ve been recognized by Google as a Premier Partner, which means we have demonstrated high-end knowledge and expertise in creating, launching, managing, and optimizing Google ad campaigns for companies of all sizes. We’re an ecommerce PPC management company with a proven track record of success with ad campaigns that allow our clients to experience incredible growth.
+                    TabSoft Marketing is a battle-tested ecommerce PPC agency. We’ve been recognized by Google as a Premier Partner, which means we have demonstrated high-end knowledge and expertise in creating, launching, managing, and optimizing Google ad campaigns for companies of all sizes. We’re an ecommerce PPC management company with a proven track record of success with ad campaigns that allow our clients to experience incredible growth.
                 </p>
                 <p>
                     Our comprehensive ecommerce PPC management services cover search, display, retargeting, shopping, and performance max campaigns. We have expertise in platforms like Google Ads, Amazon Ads, Bing, and more. We begin by optimizing your PPC campaigns and crafting new, conversion-focused landing pages. Each month, we further refine your campaigns through A/B testing of ads and pages. To ensure precision, we integrate advanced tracking and provide detailed reports that highlight where your spending is most effective and where adjustments can drive better profitability.
@@ -180,7 +180,7 @@
                 <div class="col-lg-6 ads-column">
                     <h2>Google and Bing Search <span> Ads</span></h2>
                     <p>
-                        Maximize your online presence with TabSoft Agency's comprehensive ecommerce PPC services for Google and Bing Search Ads. As an experienced ecommerce PPC agency, we specialize in creating high-performing search ad campaigns that drive clicks and convert them into sales. We optimize your ads with the right keywords, ensuring measurable results. Our ecommerce PPC services are designed to enhance your visibility on major search engines like Google and Bing, ensuring your brand reaches the right consumers.
+                        Maximize your online presence with TabSoft Marketing's comprehensive ecommerce PPC services for Google and Bing Search Ads. As an experienced ecommerce PPC agency, we specialize in creating high-performing search ad campaigns that drive clicks and convert them into sales. We optimize your ads with the right keywords, ensuring measurable results. Our ecommerce PPC services are designed to enhance your visibility on major search engines like Google and Bing, ensuring your brand reaches the right consumers.
                     </p>
                     <div class="ad-button">
                         <a href="#"> <button class="button2 quote-button">Get Proposal</button></a>
@@ -196,7 +196,7 @@
                 <div class="col-lg-6 ads-column">
                     <h2>Google and Bing Shopping <span> Ads</span></h2>
                     <p>
-                        Boost your products’ visibility and increase sales with TabSoft Agency’s highly tailored Google and Bing Shopping Ads ecommerce PPC services. Our agency excels in creating effective shopping campaigns that showcase your products to potential buyers actively searching for them. With our expert ecommerce PPC management services, we optimize product listings and bids to ensure maximum exposure and conversion rates. When you work with TabSoft Agency, we’ll drive more traffic to your online store, enhancing your reach and profit.
+                        Boost your products’ visibility and increase sales with TabSoft Marketing’s highly tailored Google and Bing Shopping Ads ecommerce PPC services. Our agency excels in creating effective shopping campaigns that showcase your products to potential buyers actively searching for them. With our expert ecommerce PPC management services, we optimize product listings and bids to ensure maximum exposure and conversion rates. When you work with TabSoft Marketing, we’ll drive more traffic to your online store, enhancing your reach and profit.
                     </p>
                     <div class="ad-button">
                         <a href="#"> <button class="button2 quote-button">Get Proposal</button></a>
@@ -357,7 +357,7 @@
                             <h4>
                             Ecommerce PPC Landing Page Design</h4>
                             <p>
-                            A great ecommerce PPC ad can lose its impact if it leads shoppers to a confusing category or home page. At TabSoft Agency, we specialize in crafting top-tier landing pages that seamlessly combine beautiful design with compelling copy to engage shoppers and drive conversions. We leverage tools like dynamic text replacement to ensure the landing page copy aligns with both the keywords and ad copy, reducing confusion. By incorporating social proof such as reviews and testimonials, we build trust with potential buyers. Our focus is on creating the best possible user experience, keeping would-be customers engaged and ensuring they follow through with their purchase. With our ecommerce PPC management services, you can rest assured that your landing pages will be nothing short of exceptional.
+                            A great ecommerce PPC ad can lose its impact if it leads shoppers to a confusing category or home page. At TabSoft Marketing, we specialize in crafting top-tier landing pages that seamlessly combine beautiful design with compelling copy to engage shoppers and drive conversions. We leverage tools like dynamic text replacement to ensure the landing page copy aligns with both the keywords and ad copy, reducing confusion. By incorporating social proof such as reviews and testimonials, we build trust with potential buyers. Our focus is on creating the best possible user experience, keeping would-be customers engaged and ensuring they follow through with their purchase. With our ecommerce PPC management services, you can rest assured that your landing pages will be nothing short of exceptional.
                             </p>
 
                         </div>

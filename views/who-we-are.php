@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "About Us | Who Are We? | TabSoft Agency";
+$metaTitle = "About Us | Who Are We? | TabSoft Marketing";
 $metaDescription = "TabSoft is a digital marketing agency that helps businesses grow with tailored strategies, innovative solutions, and expert insights.";
 include_once("includes/head.php");
 ?>
@@ -12,7 +12,7 @@ include_once("includes/head.php");
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h1>TabSoft Agency</h1>
+                    <h1>TabSoft Marketing</h1>
                     <p>
                     A full-service digital marketing agency where creativity meets strategy to deliver exceptional marketing and ad management services, helping businesses of all sizes achieve the results they dreamed of.
                 </p>

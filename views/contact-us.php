@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Contact Us for A Free Proposal | TabSoft Agency";
-$metaDescription = "Get in touch with TabSoft Agency for a free proposal and see how our expert team can help your business and deliver exceptional results.";
+$metaTitle = "Contact Us for A Free Proposal | TabSoft Marketing";
+$metaDescription = "Get in touch with TabSoft Marketing for a free proposal and see how our expert team can help your business and deliver exceptional results.";
 include_once("includes/head.php");
 ?>
 
@@ -13,7 +13,7 @@ include_once("includes/head.php");
       <div class="row">
         <div class="col-lg-6">
           <h1>
-          Ready to Outsource Your Project to <span>TabSoft Agency?</span></span>
+          Ready to Outsource Your Project to <span>TabSoft Marketing?</span></span>
           </h1>
           <p>
           Reach out to us for a free, no-obligation proposal. We’re excited to show you how our proven methods can help you achieve your goals and exceed expectations.
@@ -87,7 +87,7 @@ include_once("includes/head.php");
               </fieldset>
 
               <input type="hidden" name="route" value="contact-us/" />
-              <input type="hidden" name="brand" value="Tabsoft Agency" />
+              <input type="hidden" name="brand" value="TabSoft Marketing" />
               <input type="hidden" name="token" value="<?= $token; ?>" />
               <input type="hidden" name="tag" value="sidepanel form in landing-page" />
               <input type="hidden" name="price" value="null" />
@@ -109,9 +109,9 @@ include_once("includes/head.php");
               <hr>
               <p><a href="tel:(561) 473-4214"><i class="fas fa-phone me-3"></i> (561) 473-4214</a></p>
               <p>
-              <a href="mailto:query@tabsoftagency.com">
+              <a href="mailto:query@tabsoftmarketing.com">
                   <i class="fas fa-envelope me-3"></i>
-                  query@tabsoftagency.com
+                  query@tabsoftmarketing.com
                 </a>
               </p>
             </div>

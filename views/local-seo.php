@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Boost Visibility with TabSoft Agency Local SEO Services.";
-$metaDescription = "Dire need for result-driven local SEO services? TabSoft Agency is a leading digital marketing firm known for helping businesses grow online.";
+$metaTitle = "Boost Visibility with TabSoft Marketing Local SEO Services.";
+$metaDescription = "Dire need for result-driven local SEO services? TabSoft Marketing is a leading digital marketing firm known for helping businesses grow online.";
 include_once("includes/head.php");
 ?>
 
@@ -45,7 +45,7 @@ include_once("includes/head.php");
                         More than 90% of people search for local businesses online. That is why standing out in your region is essential for your business growth. With our local SEO, we ensure your business appears at the top of search results when nearby customers are actively looking for products or services like yours.
                     </p>
                     <p>
-                        At TabSoft Agency, our SEO specialist team creates <b>tailored Geo-Targeted SEO strategies that drive foot traffic and online inquiries.</b> We optimize your online presence and build credibility, making it easier for potential customers to find and trust your business.
+                        At TabSoft Marketing, our SEO specialist team creates <b>tailored Geo-Targeted SEO strategies that drive foot traffic and online inquiries.</b> We optimize your online presence and build credibility, making it easier for potential customers to find and trust your business.
                     </p>
                     <div class="personalized-button">
                         <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
@@ -83,7 +83,7 @@ include_once("includes/head.php");
             <div class="tried-heading-sec text-center">
                 <h2>Unable to Optimize Your Online Visibility <span> Locally?</span></h2>
                 <p>
-                    It can be the following issues. Hire TabSoft Agency to tackle them.
+                    It can be the following issues. Hire TabSoft Marketing to tackle them.
                 </p>
             </div>
             <div class="row">
@@ -357,7 +357,7 @@ include_once("includes/head.php");
             </section>
         </div>
     </section>
-    <?php $headingTexts = "Get Started with Tab Soft Agency and <br> Dominate Search Results!"; include_once("call-to-action-global.php") ?>
+    <?php $headingTexts = "Get Started with TabSoft Marketing and <br> Dominate Search Results!"; include_once("call-to-action-global.php") ?>
     <section id="unrivaled">
         <div class="container">
             <div class="unrivaled-heading text-center">
@@ -422,7 +422,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat/" />
-                            <input type="hidden" name="brand" value="Tabsoft Agency" />
+                            <input type="hidden" name="brand" value="TabSoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -444,7 +444,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tab Soft Agency completely transformed our online presence. Before, we barely showed up in local searches. Now, we're on the first page for multiple keywords, and we've seen a significant increase in customer inquiries. 
+                            "TabSoft Marketing completely transformed our online presence. Before, we barely showed up in local searches. Now, we're on the first page for multiple keywords, and we've seen a significant increase in customer inquiries. 
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -463,7 +463,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "We were struggling to attract new customers to our small business. Tab Soft Agency developed a tailored local SEO strategy that has made a huge difference. They were great at explaining the process and kept us updated every step of the way. We're so grateful for their expertise!"         
+                            "We were struggling to attract new customers to our small business. TabSoft Marketing developed a tailored local SEO strategy that has made a huge difference. They were great at explaining the process and kept us updated every step of the way. We're so grateful for their expertise!"         
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -482,7 +482,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "I've worked with other SEO agencies in the past, but Tab Soft Agency stands out for their personalized approach and attention to detail. They took the time to understand our specific needs and goals, and their results speak for themselves. Our website traffic has more than doubled since we started working with them."         
+                            "I've worked with other SEO agencies in the past, but TabSoft Marketing stands out for their personalized approach and attention to detail. They took the time to understand our specific needs and goals, and their results speak for themselves. Our website traffic has more than doubled since we started working with them."         
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -501,7 +501,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tab Soft Agency is a fantastic partner for any business looking to improve their local search rankings. Their team is professional and efficient, and they deliver excellent results. They've helped us reach a wider audience and grow our business significantly. I highly recommend their services."         
+                            "TabSoft Marketing is a fantastic partner for any business looking to improve their local search rankings. Their team is professional and efficient, and they deliver excellent results. They've helped us reach a wider audience and grow our business significantly. I highly recommend their services."         
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -559,7 +559,7 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            What does TabSoft Agency do for local SEO? 
+                            What does TabSoft Marketing do for local SEO? 
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"

@@ -67,11 +67,11 @@
                 </h2>
                 <p>
 
-                    Are your Google Ads not driving the results you expect? Are you wasting money on campaigns that aren’t contributing to your growth, leaving you stuck in place? Instead of continually investing in underperforming ads, it’s time to reach out to TabSoft Agency. As experienced Google Ads specialists, we’ve helped clients across various industries transform struggling campaigns into powerful profit-generating engines.
+                    Are your Google Ads not driving the results you expect? Are you wasting money on campaigns that aren’t contributing to your growth, leaving you stuck in place? Instead of continually investing in underperforming ads, it’s time to reach out to TabSoft Marketing. As experienced Google Ads specialists, we’ve helped clients across various industries transform struggling campaigns into powerful profit-generating engines.
                 </p>
                 <p>
 
-                    Blind trial-and-error is a costly approach. Your business deserves better. At TabSoft Agency, we’ve managed hundreds of Google Ads campaigns and already know what strategies work and which don’t. From optimizing keywords and restructuring disorganized accounts to crafting compelling copy, creatives, and beyond, we’ll revamp your Google Ads campaigns for optimal results.
+                    Blind trial-and-error is a costly approach. Your business deserves better. At TabSoft Marketing, we’ve managed hundreds of Google Ads campaigns and already know what strategies work and which don’t. From optimizing keywords and restructuring disorganized accounts to crafting compelling copy, creatives, and beyond, we’ll revamp your Google Ads campaigns for optimal results.
                 </p>
             </div>
             <div class="row">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "YouTube Ad Management Services | TabSoft Agency";
+$metaTitle = "YouTube Ad Management Services | TabSoft Marketing";
 $metaDescription = "Boost your brand marketing with our professional YouTube ad management services that craft engaging video ads to target the right audience.";
 include_once("includes/head.php");
 ?>
@@ -488,7 +488,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="tiktok-ads/" />
-                            <input type="hidden" name="brand" value="Tabsoft Agency" />
+                            <input type="hidden" name="brand" value="TabSoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />

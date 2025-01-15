@@ -12,7 +12,7 @@
 						<span>Websites Design and Development Services</span> that Leave a Lasting Impression
 					</h2>
 					<p>
-						At TabSoft Agency, we specialize in creating bespoke websites that blend visual appeal with functionality. Our goal is to deliver a seamless digital experience that captivates visitors and drives your business forward.
+						At TabSoft Marketing, we specialize in creating bespoke websites that blend visual appeal with functionality. Our goal is to deliver a seamless digital experience that captivates visitors and drives your business forward.
 					</p>
 					<div class="service-button">
 						<a href="#"> <button class="button2 quote-button">Get Free Proposal</button></a>
@@ -28,7 +28,7 @@
 				<div class="col-lg-6">
 					<h2>Build Your Online Presence with Expert Web Design and <span>Development</span></h2>
 					<p>
-						At TabSoft Agency, we take pride in our ability to craft high performance websites that not only look stunning but also function seamlessly. Our expert web development services are designed to bring your unique vision to life, ensuring that your website not only reflects your brand identity but also resonates with your target audience. From the initial concept to the final launch, our dedicated team works tirelessly to ensure that every aspect of your website exceeds expectation
+						At TabSoft Marketing, we take pride in our ability to craft high performance websites that not only look stunning but also function seamlessly. Our expert web development services are designed to bring your unique vision to life, ensuring that your website not only reflects your brand identity but also resonates with your target audience. From the initial concept to the final launch, our dedicated team works tirelessly to ensure that every aspect of your website exceeds expectation
 					</p>
 				</div>
 				<div class="col-lg-6">
@@ -263,9 +263,9 @@
 			</div>
 
 			<div class="why-choose-tab-website-design">
-				<p><b>Why Choose TabSoft Agency for Website Design and Development?</b></p>
+				<p><b>Why Choose TabSoft Marketing for Website Design and Development?</b></p>
 				<p>
-					TabSoft Agency offers a holistic approach to website design and development, combining creativity with technical expertise. <br>
+					TabSoft Marketing offers a holistic approach to website design and development, combining creativity with technical expertise. <br>
 					Our tailored solutions ensure your website stands out, engages visitors, and achieves your business goals.
 				</p>
 			</div>

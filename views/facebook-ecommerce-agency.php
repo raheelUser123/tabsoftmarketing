@@ -80,7 +80,7 @@
                     That’s where we come in. As a battle-tested Facebook ecommerce agency experienced with both Facebook and Instagram ads, we will first identify your business’ ideal target audience as well as lookalike audiences to help you grow your customer base. We’ll design an ecommerce Facebook ads strategy designed to engage, captivate, and convert these audiences into shoppers, and will execute the strategy, creating Facebook and Instagram ads with eye-catching visuals, ecommerce video ads, and fun, compelling copy.
                 </p>
                 <p>
-                    Not only will we help your business reach out to and acquire new customers, we’ll set up remarketing campaigns to target potential buyers at every step of the Facebook ads funnel. Ecommerce sites frequently leave money on the table by not remarketing to consumers who have engaged with your brand but not shopped, or who may have even walked away from a full shopping cart without buying — when you work with Tabsoft Agency, we’ll change that.
+                    Not only will we help your business reach out to and acquire new customers, we’ll set up remarketing campaigns to target potential buyers at every step of the Facebook ads funnel. Ecommerce sites frequently leave money on the table by not remarketing to consumers who have engaged with your brand but not shopped, or who may have even walked away from a full shopping cart without buying — when you work with TabSoft Marketing, we’ll change that.
                 </p>
                 <p>
                     By combining spot-on audience selection, engaging ads, consistent remarketing, and custom-built landing pages, our Facebook ecommerce agency will help you nurture viewers into customers and, eventually, brand advocates.
@@ -179,7 +179,7 @@
                     We did not become a successful ecommerce Facebook ads agency overnight. We did it after spending countless hours applying hundreds of different strategies and coming up with our own set of best practices. As a result, we now have a proven track record of helping our clients achieve explosive growth through Facebook and Instagram ads.
                 </p>
                 <p>
-                    Here is the anatomy of a typical TabSoft Agency Facebook ads campaign, and what it might look like when we put our skills to work for you.
+                    Here is the anatomy of a typical TabSoft Marketing Facebook ads campaign, and what it might look like when we put our skills to work for you.
                 </p>
             </div>
             <div class="row">
@@ -285,7 +285,7 @@
                                 Ecommerce Facebook Retargeting</h4>
                             <p>
 
-                                Prospects who already know your brand—especially past customers—are much more likely to convert than a completely “cold” audience. Tabsoft Agency will create strategic retargeting campaigns to re-engage those who’ve interacted with your brand, visited your site, or even left items in their cart without completing a purchase.
+                                Prospects who already know your brand—especially past customers—are much more likely to convert than a completely “cold” audience. TabSoft Marketing will create strategic retargeting campaigns to re-engage those who’ve interacted with your brand, visited your site, or even left items in their cart without completing a purchase.
                             </p>
                             <p>
                                 With our expertise as a Facebook ecommerce agency, we’ll craft highly targeted remarketing campaigns to remind potential shoppers of what caught their interest and encourage them to make a purchase.
@@ -312,7 +312,7 @@
                             </p>
                             <p>
 
-                                When you partner with a seasoned Facebook ecommerce agency like TabSoft Agency, your business will benefit from powerful, high-converting campaigns designed to drive maximum growth.
+                                When you partner with a seasoned Facebook ecommerce agency like TabSoft Marketing, your business will benefit from powerful, high-converting campaigns designed to drive maximum growth.
                             </p>
 
                         </div>

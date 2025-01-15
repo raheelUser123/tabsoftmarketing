@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Professional Technical SEO Services – TabSoft Agency";
+$metaTitle = "Professional Technical SEO Services – TabSoft Marketing";
 $metaDescription = "Boost your search rankings and build a strong website with technical SEO services that focus on giving users a better experience.";
 include_once("includes/head.php");
 ?>
@@ -50,7 +50,7 @@ include_once("includes/head.php");
                         We know that handling the complex aspects of SEO while running your business can be overwhelming and time-consuming. That’s why our expert technical SEO consultants are here to take the load off.
                     </p>
                     <p>
-                        Is your website’s technical SEO holding back your rankings? Let our team at TabSoft Agency handle the hard work. Trust us with your SEO audit and optimization, and watch your business grow.
+                        Is your website’s technical SEO holding back your rankings? Let our team at TabSoft Marketing handle the hard work. Trust us with your SEO audit and optimization, and watch your business grow.
 
                     </p>
                     <div class="personalized-button">
@@ -473,7 +473,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat/" />
-                            <input type="hidden" name="brand" value="Tabsoft Agency" />
+                            <input type="hidden" name="brand" value="TabSoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -495,7 +495,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                TabSoft Agency transformed our web site's performance with their technical SEO strategies. From optimizing our site speed to fixing crawl errors, their attention to detail and deep knowledge have significantly improved our rankings. Highly recommended!
+                                TabSoft Marketing transformed our web site's performance with their technical SEO strategies. From optimizing our site speed to fixing crawl errors, their attention to detail and deep knowledge have significantly improved our rankings. Highly recommended!
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -515,7 +515,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                                We partnered with TabSoft Agency to resolve several technical SEO issues, and they exceeded our expectations. Their team streamlined our website's structure, improved our mobile usability, and helped us achieve measurable results in record time.
+                                We partnered with TabSoft Marketing to resolve several technical SEO issues, and they exceeded our expectations. Their team streamlined our website's structure, improved our mobile usability, and helped us achieve measurable results in record time.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -534,7 +534,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                Our eCommerce site had multiple technical SEO challenges, and TabSoft Agency tackled them all with ease. Their expertise in backlink analysis and penalty recovery has elevated our site’s authority and also its search visibility.
+                                Our eCommerce site had multiple technical SEO challenges, and TabSoft Marketing tackled them all with ease. Their expertise in backlink analysis and penalty recovery has elevated our site’s authority and also its search visibility.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -553,7 +553,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                                Working with TabSoft Agency was a pleasure. They not only delivered exceptional technical SEO solutions but also kept us informed every step of the way. Our website’s organic traffic has grown tremendously thanks to their efforts.
+                                Working with TabSoft Marketing was a pleasure. They not only delivered exceptional technical SEO solutions but also kept us informed every step of the way. Our website’s organic traffic has grown tremendously thanks to their efforts.
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">

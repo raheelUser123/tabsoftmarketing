@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Review and Reputation Management Services | TabSoft Agency";
-$metaDescription = " Enhance your digital presence with the online review and reputation management services of TabSoft Agency!";
+$metaTitle = "Review and Reputation Management Services | TabSoft Marketing";
+$metaDescription = " Enhance your digital presence with the online review and reputation management services of TabSoft Marketing!";
 include_once("includes/head.php");
 ?>
 
@@ -18,7 +18,7 @@ include_once("includes/head.php");
                     </h1>
                     <p>
 
-                    In the digital world, reviews are your reputation. Thus, partner with TabSoft Agency and take control of your online reputation.
+                    In the digital world, reviews are your reputation. Thus, partner with TabSoft Marketing and take control of your online reputation.
                     </p>
 
                     <div class="service-button">
@@ -83,7 +83,7 @@ include_once("includes/head.php");
                     <h2>Be in Charge of Your Online Reputation with The Top Review Management Company.
                     </h2>
                     <p>
-                    <strong>Build your customer trust and positive image with TabSoft Agency</strong>. We take your brand’s image and shape a positive story around it. Our expert team uses proven strategies, focuses on building a strong reputation, and keeps an eye on your brand's image every step of the way to make sure your brand always shines in the best possible way.
+                    <strong>Build your customer trust and positive image with TabSoft Marketing</strong>. We take your brand’s image and shape a positive story around it. Our expert team uses proven strategies, focuses on building a strong reputation, and keeps an eye on your brand's image every step of the way to make sure your brand always shines in the best possible way.
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
@@ -458,7 +458,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="snapchat/" />
-                            <input type="hidden" name="brand" value="Tabsoft Agency" />
+                            <input type="hidden" name="brand" value="TabSoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
@@ -585,13 +585,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            How does TabSoft Agency handle negative online content?
+                            How does TabSoft Marketing handle negative online content?
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        TabSoft Agency handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation.
+                        TabSoft Marketing handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation.
                         </div>
                     </div>
                 </div>
@@ -691,13 +691,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingNine">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                            Why should I choose TabSoft Agency over other digital marketing firms?
+                            Why should I choose TabSoft Marketing over other digital marketing firms?
                         </button>
                     </h2>
                     <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            TabSoft Agency stands out due to our customized approach, where each strategy is tailored to
+                            TabSoft Marketing stands out due to our customized approach, where each strategy is tailored to
                             the client's specific goals. Our team of experts leverages the latest digital marketing
                             tools and analytics to ensure optimal performance and results. Plus, our commitment to
                             transparency and client communication ensures you are always informed and in control.
@@ -708,13 +708,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingTen">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                            How can I get started with TabSoft Agency?
+                            How can I get started with TabSoft Marketing?
                         </button>
                     </h2>
                     <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            Getting started with TabSoft Agency is easy! Simply contact us via our website, email, or
+                            Getting started with TabSoft Marketing is easy! Simply contact us via our website, email, or
                             phone. We'll arrange an initial consultation to discuss your needs and objectives and then
                             propose a tailored strategy to help your business succeed in the digital world.
                         </div>
@@ -725,7 +725,7 @@ include_once("includes/head.php");
         </div>
     </section>
 
-    <?php $headingText = "Get Started with Tab Soft Agency and <br> Dominate Search Results!"; include_once("includes/footer.php") ?>
+    <?php $headingText = "Get Started with TabSoft Marketing and <br> Dominate Search Results!"; include_once("includes/footer.php") ?>
 
 
 

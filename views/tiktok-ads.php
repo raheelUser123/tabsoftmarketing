@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "TikTok Ad Management Services | TabSoft Agency";
+$metaTitle = "TikTok Ad Management Services | TabSoft Marketing";
 $metaDescription = "Utilize the power of TikTok ads with expert management services and let your brand thrive on the world’s fastest-growing platform.";
 include_once("includes/head.php");
 ?>
@@ -491,7 +491,7 @@ include_once("includes/head.php");
                             </fieldset>
 
                             <input type="hidden" name="route" value="tiktok-ads/" />
-                            <input type="hidden" name="brand" value="Tabsoft Agency" />
+                            <input type="hidden" name="brand" value="TabSoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
                             <input type="hidden" name="price" value="null" />
