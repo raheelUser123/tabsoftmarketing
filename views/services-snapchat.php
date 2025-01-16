@@ -293,7 +293,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>Our Comprehensive <span>Snapchat Ad </span> Management Services</h2>
+                        <h2>Our Comprehensive Snapchat Ad Management Services</h2>
                         <p>
                         With our vast range of services, we ensure that your Snapchat advertising is always on point,<br> highly effective, and tailored to your unique business needs.
                         </p>

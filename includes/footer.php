@@ -31,7 +31,7 @@
 
         <div class="col-md-3 navftr col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <!-- Links -->
-          <a class="footer-logo" href="/"><img class="img-fluid" src="../assets/images/logo.png" alt=""></a>
+          <a class="footer-logo" href="/"><img class="img-fluid" src="../assets/images/Tab-Soft-Marketing.png" alt=""></a>
           <p>Tabsoft Marketing was founded by entrepreneurs who have been<br> there and done that.</p>
           <h6 class="text-uppercase fw-bold ">
             Follow Us

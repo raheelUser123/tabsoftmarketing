@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <h1>
-                        Case <span>Studies</span></h1>
+                        Case Studies</h1>
                     <p>
                         Discover how we have helped businesses achieve lead generation and positive ROI through our strategies.
                     </p>

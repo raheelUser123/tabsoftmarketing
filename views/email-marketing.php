@@ -321,7 +321,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>All-in-One <span>Email Marketing</span> Services</h2>
+                        <h2>All-in-One Email Marketing Services</h2>
                         <p>
                         We're a leading email marketing company dedicated to crafting effective campaigns<br> that align with your specific goals and budget. 
                         </p>

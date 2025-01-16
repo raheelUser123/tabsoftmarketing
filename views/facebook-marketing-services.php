@@ -293,7 +293,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>Our Comprehensive <span>Facebook Ad</span> Management Services</h2>
+                        <h2>Our Comprehensive Facebook Ad Management Services</h2>
                         <p>
                             
 Our goal is to make your business shine on Facebook. We handle everything from <br>creating powerful ads to ensuring they reach the right people.

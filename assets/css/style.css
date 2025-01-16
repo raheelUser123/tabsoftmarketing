@@ -20,7 +20,7 @@ ul.policy-list strong {
 .methodolgy-card-image-wrapper::after {
     content: '';
     position: absolute;
-    background: linear-gradient(45deg, #358afc, #6942e1);
+    background:linear-gradient(45deg, #000000, #890000, #000000);
     width: 100%;
     height: 100%;
     left: 0;
@@ -70,7 +70,7 @@ h6 {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: #614de5;
+    background: #890000;
     border-radius: 10px;
 }
 
@@ -99,7 +99,7 @@ a.navbar-brand img {
 }
 
 footer.text-center.text-lg-start.bg-body-tertiary {
-    background: linear-gradient(45deg, #3e7af1, #894bd1);
+    background: linear-gradient(45deg, #000000, #890000, #000000);
     z-index: 9;
     position: relative;
 }
@@ -132,7 +132,7 @@ nav {
 
 section#hero-section {
     padding: 150px 0px 150px 0px;
-    background: url('../images/hero-section-2.png');
+    background: linear-gradient(45deg, #890000, #000000), url(../images/hero-section-2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -322,7 +322,7 @@ section#seo-category .container:before {
     content: '';
     height: 80%;
     width: 80%;
-    background: linear-gradient(0deg, rgba(245, 105, 98, 0.75) 0%, rgba(99, 71, 251, 0.75) 65.16%);
+    background: linear-gradient(0deg, #890000 0%, #000000 65.16%);
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -332,7 +332,7 @@ section#seo-category .container:before {
 }
 
 .cli-seo-content p span {
-    color: #614de5;
+    color: #890000;
     font-weight: 800;
 }
 
@@ -364,7 +364,7 @@ section#seo-category .container:before {
     width: 65px;
     height: 65px;
     border-radius: 50%;
-    border: 3px solid #614de5;
+    border: 3px solid #890000;
 }
 
 .row.seo-category-row ul {
@@ -383,7 +383,7 @@ section#seo-category .container:before {
 }
 
 .row.seo-category-row ul li i {
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
     font-size: 20px;
     height: 20px !important;
@@ -448,7 +448,7 @@ section#vertical-scrollbar {
 }
 
 .vertical-slider-month ul li i {
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
     font-size: 20px;
     height: 20px !important;
@@ -487,7 +487,7 @@ section#vertical-scrollbar {
     background-color: #000;
     color: #fff;
     margin-bottom: 0;
-    border-left: 6px solid #614de5;
+    border-left: 6px solid #890000;
 }
 
 .highlight p {
@@ -560,7 +560,7 @@ section#reach-top-google-bing .row:nth-child(1) .col-lg-6 {
     padding: 9px 27px;
     cursor: pointer;
     font-size: 15px;
-    background: linear-gradient(45deg, #358afc, #6942e1);
+    background:linear-gradient(45deg, #890000, #000000);
     border: 1px solid #e8e8e8;
     font-weight: 600;
     text-transform: capitalize;
@@ -581,7 +581,7 @@ section#reach-top-google-bing .row:nth-child(1) .col-lg-6 {
     top: 100%;
     width: 140%;
     height: 180%;
-    background-color: #000000;
+    background-color: white;
     border-radius: 50%;
     display: block;
     transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
@@ -596,7 +596,7 @@ section#reach-top-google-bing .row:nth-child(1) .col-lg-6 {
     top: 180%;
     width: 160%;
     height: 190%;
-    background-color: #020202;
+    background-color: white;
     border-radius: 50%;
     display: block;
     transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
@@ -604,19 +604,19 @@ section#reach-top-google-bing .row:nth-child(1) .col-lg-6 {
 }
 
 .button2:hover {
-    color: #ffffff;
+    color: black;
     border: 1px solid #000000;
 }
 
 .button2:hover:before {
     top: -35%;
-    background-color: #040404;
+    background-color: white;
     transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
 }
 
 .button2:hover:after {
     top: -45%;
-    background-color: #000000;
+    background-color: white;
     transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
 }
 
@@ -662,7 +662,7 @@ h4 span,
 h3 span,
 h5 span,
 h6 span {
-    background: linear-gradient(45deg, #3d7df8, #6942e1);
+    background: linear-gradient(45deg, #890000fc, #890000a3);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -692,7 +692,7 @@ section#service-hero-section h5 {
     position: absolute;
     height: 80px;
     width: 80px;
-    background: #614de5;
+    background: #890000;
     top: unset;
     clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
     bottom: 0px;
@@ -1001,7 +1001,7 @@ section#ppc-faqs .accordion-body {
 }
 
 accordion-header:hover {
-    background: #614de5;
+    background: #890000;
     color: white;
 }
 
@@ -1044,7 +1044,7 @@ section#call-to-action h2 {
 section#call-to-action {
     padding: 60px 0px;
     position: relative;
-    background: url(../images/call-to-action-back-image.png);
+    background: linear-gradient(45deg, #000000, #890000, #000000), url(../images/call-to-action-back-image.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1155,7 +1155,7 @@ ul.dropdown-menu li:hover a.dropdown-item {
 }
 
 ul.dropdown-menu li:hover a {
-    background: linear-gradient(93deg, #358afc, #6942e1) !important;
+    background: linear-gradient(45deg, #890000b3, #890000, #000000) !important;
 }
 
 .dropdown-submenu .dropdown-menu {
@@ -1208,7 +1208,7 @@ section#partners-hero-section:before {
 } */
 
 section#partners-hero-section h1 {
-    color: #3d7df8;
+    color: white;
 }
 
 section#partners-logo {
@@ -1299,7 +1299,7 @@ section#landing-page-paragraph p {
     object-position: top;
     object-fit: cover;
     transition: 1s all ease !important;
-    border: 5px solid #614de5;
+    border: 5px solid #890000;
 }
 
 .portfolio-image-wrapper img:hover {
@@ -1362,7 +1362,7 @@ section#contact-form-section .form-container {
     width: 100%;
     display: table;
     margin: 0 auto;
-    background: linear-gradient(93deg, #358afc, #6942e1);
+    background: linear-gradient(45deg, #89000057, #890000, #000000);
     position: relative;
     top: -140px;
 }
@@ -1390,7 +1390,7 @@ section#contact-form-section {
 }
 
 .office-number-addresss p a {
-    color: #614de5;
+    color: #890000;
     font-weight: 500;
     text-decoration: none;
 }
@@ -1402,7 +1402,7 @@ section#contact-form-section {
 
 .contact-us-links a i {
     font-size: 25px;
-    color: #614de5;
+    color: #890000;
 }
 
 .contact-us-links {
@@ -1439,7 +1439,7 @@ section#get-proposal-hero-section .form-container {
     width: 80%;
     display: table;
     margin: 0 auto;
-    background: linear-gradient(93deg, #358afc, #6942e1);
+    background: linear-gradient(45deg, #89000057, #890000, #000000);
 }
 
 .propasl-form-heading h3 {
@@ -1453,7 +1453,7 @@ section#gain-clarity {
 }
 
 .clarity-content h5 i {
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
     font-size: 20px;
     height: 20px !important;
@@ -1465,7 +1465,7 @@ section#gain-clarity {
 }
 
 section#we-deliver p i {
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
     font-size: 20px;
     height: 20px !important;
@@ -1524,7 +1524,7 @@ section#clients-testimonial {
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    border: 3px solid #614de5;
+    border: 3px solid #890000;
 }
 
 .testimonial-div p.test-p {
@@ -1540,14 +1540,14 @@ section#clients-testimonial {
 section#clients-testimonial .slick-prev {
     height: 50px;
     width: 50px;
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
 }
 
 section#clients-testimonial .slick-next {
     height: 50px;
     width: 50px;
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
 }
 
@@ -1756,7 +1756,7 @@ section#create-advaned {
     border-radius: 50%;
     display: table;
     margin: 0 auto;
-    border: 3px solid #614de5;
+    border: 3px solid #890000;
     margin-bottom: 20px;
 }
 
@@ -1854,7 +1854,7 @@ ul.google-ul li {
 .dropdown-item.active,
 .dropdown-item:active {
     background-color: unset !important;
-    color: #614de5 !important;
+    color: #890000 !important;
 }
 
 .google-ad-heading h2 {
@@ -2091,7 +2091,7 @@ section#unrivaled .form-container {
     width: 70%;
     margin: 0 auto;
     padding: 30px 40px;
-    background: linear-gradient(93deg, #358afc, #6942e1);
+    background: linear-gradient(45deg, #89000057, #890000, #000000);
     border-radius: 20px;
     margin-top: 30px;
 }
@@ -2264,7 +2264,7 @@ section#understanding-tiktok-algorithm {
 
 .understanding-tiktok-cards {
     padding: 10px 10px;
-    border: 3px solid #3d7df8;
+    border: 3px solid #890000;
     border-radius: 10px;
     height: 410px;
     margin-bottom: 20px;
@@ -2290,7 +2290,7 @@ section#build-your-fb {
 
 .understanding-image-wrapper i {
     font-size: 50px;
-    color: #3d7df8;
+    color: #890000;
 }
 
 .understanding-bottom-text {
@@ -2626,7 +2626,7 @@ section#our-work-methodology {
 }
 
 .working-image-wrapper {
-    background: linear-gradient(45deg, #358afc, #6942e1);
+    background: linear-gradient(45deg, #000000, #890000, #000000);
     padding: 10px 20px;
     width: 70%;
     border-radius: 20px;
@@ -2892,14 +2892,14 @@ section#service-hero-section h6 {
 .shopify-slider button.slick-prev.slick-arrow {
     height: 50px;
     width: 50px;
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
 }
 
 .shopify-slider button.slick-next.slick-arrow {
     height: 50px;
     width: 50px;
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
 }
 
@@ -2911,7 +2911,7 @@ ul.shopify-ul li {
 }
 
 ul.shopify-ul li i {
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
     font-size: 20px;
     height: 20px !important;
@@ -2950,7 +2950,7 @@ section#simplify-shopify-sec .form-container {
     width: 80%;
     display: table;
     margin: 0 auto;
-    background: linear-gradient(93deg, #358afc, #6942e1);
+    background: linear-gradient(45deg, #89000057, #890000, #000000);
 }
 
 section#simplify-shopify-sec .row {
@@ -3052,7 +3052,7 @@ button.shopify-call-button {
 
 section#package-selected {
     padding: 50px 0px;
-    background: linear-gradient(45deg, #3d7df863, #614de54d), url(../images/tab-soft-agency-hero-back-image.jpg) no-repeat;
+    background: linear-gradient(45deg, #3d7df863, #8900004d), url(../images/tab-soft-agency-hero-back-image.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     color: white;
@@ -3174,7 +3174,7 @@ button.shopify-tabs {
 }
 
 .shopify-tab-card ul li i {
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
     font-size: 20px;
     height: 20px !important;
@@ -3510,7 +3510,7 @@ section#logoprocess-inner .row {
 
 section#logoportfolio .projct-box {
     text-align: center;
-    border: 2px solid #614de5;
+    border: 2px solid #890000;
     background: #8a3ab924;
     box-shadow: 0 7px 6px 8px #ccc;
     border-radius: 30px;
@@ -3520,15 +3520,15 @@ section#logoportfolio .projct-box {
 }
 
 section#logoportfolio h1.contr span {
-    color: #614de5;
+    color: #890000;
 }
 
 section#logoportfolio h1.contr {
-    color: #614de5;
+    color: #890000;
 }
 
 section#logoportfolio h2 span {
-    color: #614de5;
+    color: #890000;
 }
 
 .sh-card-1 {
@@ -3575,7 +3575,7 @@ ul.check-out-y-li li {
 }
 
 ul.check-out-y-li li i {
-    background: #614de5;
+    background: #890000;
     border-radius: 50%;
     font-size: 20px;
     height: 20px !important;
@@ -3781,7 +3781,7 @@ button.accordion-button.collapsed {
 }
 
 button.accordion-button {
-    background: linear-gradient(45deg, #3c7ff6, #9016cf);
+    background:linear-gradient(45deg, #890000b3, #890000, #000000);
     color: #fff !important;
     font-weight: 400 !important;
     text-transform: capitalize !important;

@@ -228,7 +228,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2><span>Review and Management Services</span> that We Provide</h2>
+                        <h2> Review and Management Services that We Provide</h2>
                         <p>
                         We don’t compromise on quality. Tabsoft offers a variety of premium tools and expert services to help businesses<br> or individuals monitor, improve, and protect their online reputation!
                         </p>

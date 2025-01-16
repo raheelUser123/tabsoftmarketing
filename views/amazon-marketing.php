@@ -321,7 +321,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>Comprehensive <span>Amazon Marketing Services</span></h2>
+                        <h2>Comprehensive Amazon Marketing Services</h2>
                         <p>
                         Our tailored services are designed to address your specific business needs and goals.
                         </p>

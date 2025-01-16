@@ -293,7 +293,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>Our Comprehensive <span>TikTok Ad</span> Management Services</h2>
+                        <h2>Our Comprehensive TikTok Ad Management Services</h2>
                         <p>
                         We offer everything you need to achieve lasting growth and success on one of the<br> world’s fastest-growing platforms.
                         </p>

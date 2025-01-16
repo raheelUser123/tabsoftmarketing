@@ -193,7 +193,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>All-In-One <span>SEO Services</span></h2>
+                        <h2>All-In-One SEO Services</h2>
                         <p>
                             We have outlined our key services within each category to help you understand how <br> we contribute to a robust SEO strategy.
                         </p>
@@ -442,7 +442,7 @@ include_once("includes/head.php");
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-                <h2>Look What <span>Our Clients</span> Have to Say!</h2>
+             <h2>Look What  Our Clients Have to Say!</h2>
             </div>
             <div class="row">
                 <div class="test-slider">

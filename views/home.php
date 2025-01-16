@@ -567,7 +567,7 @@
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-                <h2>What Clients Say <span>About Us</span></h2>
+         <h2>What Clients Say About Us </h2>
             </div>
             <div class="row">
                 <div class="test-slider">

@@ -293,7 +293,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>Our Comprehensive <span>Twitter (X) Ad</span> Management Services</h2>
+                        <h2>Our Comprehensive Twitter (X) Ad Management Services</h2>
                         <p>
                            
 We cover it all! From strategy to execution, we optimize every part of your Twitter (X) ads for accurate results and continuous growth.

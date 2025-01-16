@@ -196,7 +196,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>What <span>SEO</span> Services Do We Provide?</h2>
+                        <h2>What SEO Services Do We Provide?</h2>
                         <p>
                             Compromising on quality isn’t our thing. Our high-quality strategies are customized with everything included to help your brand grow faster. The services we provide include:
                         </p>
@@ -488,7 +488,7 @@ include_once("includes/head.php");
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-                <h2>What Clients Say <span>About Us</span></h2>
+         <h2>What Clients Say About Us </h2>
             </div>
             <div class="row">
                 <div class="test-slider">

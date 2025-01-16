@@ -89,7 +89,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-8">
                     <p><b>Built in Florida, Scaled Internationally</b></p>
-                    <h2>Crafting Success with Data-Driven Digital Marketing, Powered by <span>Passion and Precision.</span></h2>
+                    <h2>Crafting Success with Data-Driven Digital Marketing, Powered by Passion and Precision.</h2>
                     <p class="we-cur-p-first">
                     We believe that marketing isn’t just about selling products – it’s about creating experiences, building trust, and sparking connections. Our philosophy is rooted in the idea that every business deserves a voice that’s as unique as its vision. We merge data-driven insights with boundless creativity to craft campaigns that don’t just work but leave a lasting impact.
                     </p>
@@ -493,7 +493,7 @@ include_once("includes/head.php");
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-                <h2>What Clients Say <span>About Us</span></h2>
+         <h2>What Clients Say About Us </h2>
             </div>
             <div class="row">
                 <div class="test-slider">

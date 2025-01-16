@@ -293,7 +293,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>Our Comprehensive <span>YouTube Ad</span> Management Services</h2>
+                        <h2>Our Comprehensive YouTube Ad Management Services</h2>
                         <p>
                         We’re here to help your business shine on YouTube! From creating fantastic video ads to getting them in front of the right<br> viewers, we take care of everything so you can stand out and succeed.
                     </div>

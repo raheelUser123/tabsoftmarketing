@@ -322,7 +322,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>Comprehensive <span>Commerce Marketing Services</span></h2>
+                        <h2>Comprehensive Commerce Marketing Services</h2>
                         <p>
                         We do things the right way, with careful planning and attention to detail. We create<br> top-notch strategies explicitly designed for you and your goals.
                         </p>

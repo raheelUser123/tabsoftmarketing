@@ -318,7 +318,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>Our Comprehensive <span>Instagram Ad</span> Management Services</h2>
+                        <h2>Our Comprehensive Instagram Ad Management Services</h2>
                         <p>
                         Our services cover everything, and we focus on optimizing every aspect of your Instagram ads to drive measurable results and continuous growth.
                         </p>
@@ -525,7 +525,7 @@ include_once("includes/head.php");
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-                <h2>What Clients Say <span>About Us</span></h2>
+         <h2>What Clients Say About Us </h2>
             </div>
             <div class="row">
                 <div class="test-slider">

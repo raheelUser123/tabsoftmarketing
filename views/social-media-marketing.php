@@ -321,7 +321,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-12">
                     <div class="our-seo-content text-center">
-                        <h2>What Our <span>SSM Services</span>Include?</h2>
+                        <h2>What Our SSM Services Include?</h2>
                         <p>
                         We're dedicated to creating a sustainable future for your brand online, working<br> collaboratively to achieve and exceed your objectives.
                         </p>
