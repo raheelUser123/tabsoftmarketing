@@ -42,7 +42,7 @@ if ($request_uri === '/home/') {
   <link rel="stylesheet" href="../assets/css/privacy.css">
   <link rel="stylesheet" href="../assets/css/main.js">
   <link rel="stylesheet" href="" name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
-  <link rel="icon" href="../assets/images/favicon.webp" type="image/png">
+  <link rel="icon" href="../assets/images/Tab-Soft-Marketing-fav-icon.png" type="image/png">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel/slick/slick.css" />
