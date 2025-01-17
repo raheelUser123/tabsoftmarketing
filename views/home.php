@@ -541,7 +541,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/ecommerce-maketing-image-ads.webp~" alt="" style="object-position: center;">
+                        <img src="../assets/images/ecommerce-maketing-image-ads.webp" alt="" style="object-position: center;">
                     </div>
                 </div>
             </div>
