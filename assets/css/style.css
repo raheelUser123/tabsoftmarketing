@@ -663,7 +663,7 @@ h4 span,
 h3 span,
 h5 span,
 h6 span {
-    background: linear-gradient(45deg, #890000fc, #890000a3);
+    background: linear-gradient(45deg, #000000, #890000, #000000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
