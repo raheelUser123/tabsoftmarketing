@@ -462,7 +462,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/seo.jpg" alt="">
+                        <img src="../assets/images/seo-ads-images.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -480,7 +480,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/smm.webp" alt="">
+                        <img src="../assets/images/smm-ads-images.webp" alt="">
                     </div>
                 </div>
             </div>
@@ -502,7 +502,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/ads-management-image.jpg" alt="" style="    object-fit: cover; height: 560px;object-position: bottom;">
+                        <img src="../assets/images/ads-management-image.webp" alt="" style="object-fit: cover; height: 560px;object-position: bottom;">
                     </div>
                 </div>
             </div>
@@ -541,7 +541,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/ecommerce-maketing-image-ads.jpg" alt="" style="object-position: center;">
+                        <img src="../assets/images/ecommerce-maketing-image-ads.webp~" alt="" style="object-position: center;">
                     </div>
                 </div>
             </div>
