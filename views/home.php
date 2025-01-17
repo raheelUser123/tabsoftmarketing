@@ -522,7 +522,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/amzmark.webp" alt="">
+                        <img src="../assets/images/amazon-marketing-ads.jpg" alt="" style="object-position: bottom;">
                     </div>
                 </div>
             </div>
