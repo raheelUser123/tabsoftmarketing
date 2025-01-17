@@ -24,14 +24,14 @@
                 <li><a class="dropdown-item" href="/review-reputation-services/">Review & Reputation Management</a></li>
               </ul>
             </li> -->
-            <li><a class="dropdown-item" href="/search-engine-optimization/">Search Engine Optimization </a></li>
-                <li><a class="dropdown-item s" href="/local-seo/">Local Search</a></li>
-                <li><a class="dropdown-item s" href="/technical-seo/">Technical SEO</a></li>
+            <li><a class="dropdown-item" href="/seo-services/">Search Engine Optimization </a></li>
+                <li><a class="dropdown-item s" href="/local-seo-services/">Local Search</a></li>
+                <li><a class="dropdown-item s" href="/technical-seo-services/">Technical SEO</a></li>
                 <li><a class="dropdown-item s" href="/review-reputation-services/">Review & Reputation Management</a></li>
-            <li><a class="dropdown-item" href="/amazon-marketing/">Amazon marketing </a></li>
-            <li><a class="dropdown-item" href="/content-marketing-agency/">Ecommerce marketing </a></li>
-            <li><a class="dropdown-item" href="/social-media-marketing/">Social Media  marketing </a></li>
-            <li><a class="dropdown-item" href="/email-marketing/">Email  marketing </a></li>
+            <li><a class="dropdown-item" href="/amazon-marketing-services/">Amazon marketing </a></li>
+            <li><a class="dropdown-item" href="/ecommerce-marketing-services/">Ecommerce marketing </a></li>
+            <li><a class="dropdown-item" href="/smm-services/">Social Media  marketing </a></li>
+            <li><a class="dropdown-item" href="/email-marketing-services/">Email  marketing </a></li>
           </ul>
         </li>
         <li class="nav-item dropdown px-lg-1">
@@ -39,12 +39,12 @@
           Ads Managment Services
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="/facebook-marketing-services/">Facebook Ads </a></li>
-            <li><a class="dropdown-item" href="/services-snapchat/">Snapchat Ads</a></li>
-            <li><a class="dropdown-item" href="/tiktok-ads/">Tiktok Ads</a></li>
-            <li><a class="dropdown-item" href="/youtube-ads-agency/">Youtube Ads</a></li>
-            <li><a class="dropdown-item" href="/services-instagram/">Instagram Ads</a></li>
-            <li><a class="dropdown-item" href="/services-twitter/">Twitter (X) Ads</a></li>
+            <li><a class="dropdown-item" href="/facebook-ads-services/">Facebook Ads </a></li>
+            <li><a class="dropdown-item" href="/snapchat-ads-services/">Snapchat Ads</a></li>
+            <li><a class="dropdown-item" href="/tiktok-ads-services/">Tiktok Ads</a></li>
+            <li><a class="dropdown-item" href="/youtube-ads-services/">Youtube Ads</a></li>
+            <li><a class="dropdown-item" href="/instagram-ads-services/">Instagram Ads</a></li>
+            <li><a class="dropdown-item" href="/twitter-ads-services/">Twitter (X) Ads</a></li>
             <!-- Submenu -->
             
           </ul>

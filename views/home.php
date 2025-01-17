@@ -284,7 +284,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>Facebook Ads</h4>
-                    <a href="/facebook-marketing-services/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/facebook-ads-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -295,7 +295,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>Instagram Ads</h4>
-                    <a href="/services-instagram/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/instagram-ads-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -306,7 +306,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>SEO</h4>
-                    <a href="/search-engine-optimization/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/seo-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -317,7 +317,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>SMM</h4>
-                    <a href="/social-media-marketing/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/smm-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -328,7 +328,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>TikTok Ads</h4>
-                    <a href="/tiktok-ads/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/tiktok-ads-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -341,7 +341,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>Email Marketing</h4>
-                    <a href="/email-marketing/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/email-marketing-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -352,7 +352,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>Amazon Ads</h4>
-                    <a href="/amazon-marketing/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/amazon-marketing-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -363,7 +363,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>Snapchat Ads</h4>
-                    <a href="/services-snapchat/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/snapchat-ads-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -374,7 +374,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>Youtube Ads</h4>
-                    <a href="/youtube-ads-agency/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/youtube-ads-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
@@ -385,7 +385,7 @@
                     </div>
                     <div class="learn-more-button-wrapper">
                         <h4>Twitter (X) Ads</h4>
-                    <a href="/services-twitter/"> <button class="button2 ">Learn More</button></a>
+                    <a href="/twitter-ads-services/"> <button class="button2 ">Learn More</button></a>
                     </div>
                 </div>
             </div>
