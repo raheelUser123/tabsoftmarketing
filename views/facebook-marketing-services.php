@@ -529,7 +529,7 @@ Our goal is to make your business shine on Facebook. We handle everything from <
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-                <h2>What <span>People</span> Say About <span>Our Company</span></h2>
+                <h2>What People Say About Our Company</h2>
             </div>
             <div class="row">
                 <div class="test-slider">

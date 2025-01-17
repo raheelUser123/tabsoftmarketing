@@ -152,7 +152,7 @@
         <a href="/terms-conditions/" class="text-reset">Terms & Conditions</a>
       </p> -->
       <p>
-        <a href="/privacy-policy/" class="text-reset">Privacy Policy & </a>
+        <a href="/privacy-policy/" class="text-reset">Privacy Policy </a> &
 <a href="/terms-conditions/" class="text-reset">Terms & Conditions</a>
       </p>
 

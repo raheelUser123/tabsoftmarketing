@@ -198,6 +198,32 @@
             </div>
         </div>
     </section>
+    <section id="sales-gross">
+        <div class="container">
+        <div class="omni-sales-div">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="omni-sales-card">
+                            <h2>$999M+</h2>
+                            <h6>Spent in Ad Management</h6>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="omni-sales-card">
+                            <h2>$3B+</h2>
+                            <h6>Revenue Generated for Our Clients</h6>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="omni-sales-card">
+                            <h2>50M+</h2>
+                            <h6>Leads Generated</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
     <section id="custom-optimization">
         <div class="container">
             <div class="row">
@@ -216,7 +242,7 @@
                 <div class="col-lg-4">
                     <div class="optimization-cards">
                         <div class="optimization-image-wrapper">
-                            <img src="../assets/images/css.png" alt="">
+                            <img src="../assets/images/facebook-ecommerce-agency-image-1.png" alt="">
                         </div>
                         <div class="optimization-content">
                             <h4>
@@ -242,28 +268,7 @@
     </section>
 <section id="the-power-of-omni-channel">
     <div class="container">
-        <div class="omni-sales-div">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="omni-sales-card">
-                            <h2>$999M+</h2>
-                            <h6>Spent in Ad Management</h6>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="omni-sales-card">
-                            <h2>$3B+</h2>
-                            <h6>Revenue Generated for Our Clients</h6>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="omni-sales-card">
-                            <h2>50M+</h2>
-                            <h6>Leads Generated</h6>
-                    </div>
-                </div>
-            </div>
-        </div>
+      
     <div class="the-power-omni-channel-heading text-center">
                 <h2>What Can We Do For You?</h2>
                 <p>
@@ -497,7 +502,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/adds.jpg" alt="">
+                        <img src="../assets/images/ads-management-image.jpg" alt="" style="    object-fit: cover; height: 560px;object-position: bottom;">
                     </div>
                 </div>
             </div>
@@ -536,7 +541,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/ecommark.jpg" alt="">
+                        <img src="../assets/images/ecommerce-maketing-image-ads.jpg" alt="" style="object-position: center;">
                     </div>
                 </div>
             </div>
@@ -554,7 +559,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/emlmark.jpg" alt="">
+                        <img src="../assets/images/email-marketing-ads.jpg" alt="" style="object-position: center;">
                     </div>
                 </div>
             </div>

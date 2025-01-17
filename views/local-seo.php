@@ -448,7 +448,7 @@ include_once("includes/head.php");
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                    <img src="../assets/images/test-image-male-3.webp" alt="">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -467,7 +467,7 @@ include_once("includes/head.php");
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                    <img src="../assets/images/test-image-female-4.webp" alt="">
                                 </div>
                                 <div class="client-name">
                                     <p>

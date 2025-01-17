@@ -236,15 +236,15 @@ section#tired-of-dealing {
 }
 
 .tired-back-1 {
-    background: #f56962 !important;
+    background: #dc35457d !important;
 }
 
 .tired-back-2 {
-    background: #9e77e0 !important;
+    background: #dc35457d !important;
 }
 
 .tired-back-3 {
-    background: #6347fb !important;
+    background: #dc35457d !important;
 }
 
 section#tired-of-dealing .row {
@@ -286,7 +286,7 @@ section#reach-top-google-bing h6 {
 }
 
 section#our-seo-include {
-    background: url('../images/our-seo-sevice-back-image.png');
+    background: linear-gradient(45deg, #0000006b, #89000091, #0000006b), url(../images/our-seo-sevice-back-image.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -334,6 +334,7 @@ section#seo-category .container:before {
 .cli-seo-content p span {
     color: #890000;
     font-weight: 800;
+    display: block;
 }
 
 .cli-seo-content p i {
@@ -560,7 +561,7 @@ section#reach-top-google-bing .row:nth-child(1) .col-lg-6 {
     padding: 9px 27px;
     cursor: pointer;
     font-size: 15px;
-    background:linear-gradient(45deg, #890000, #000000);
+    background:#890000;
     border: 1px solid #e8e8e8;
     font-weight: 600;
     text-transform: capitalize;
@@ -733,7 +734,7 @@ section#service-hero-section h5 {
 }
 
 section#trusted-by {
-    padding: 50px 0px 0px;
+    padding: 20px 0px 0px;
     text-align: center;
     background: #FAFAFA;
 }
@@ -741,6 +742,7 @@ section#trusted-by {
 .optimization-image-wrapper img {
     width: 100px;
 }
+
 
 .optimization-image-wrapper {
     background: #ffffff;
@@ -1044,7 +1046,7 @@ section#call-to-action h2 {
 section#call-to-action {
     padding: 60px 0px;
     position: relative;
-    background: linear-gradient(45deg, #000000, #890000, #000000), url(../images/call-to-action-back-image.png);
+    background:url(../images/Get-Proposal.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1155,7 +1157,7 @@ ul.dropdown-menu li:hover a.dropdown-item {
 }
 
 ul.dropdown-menu li:hover a {
-    background: linear-gradient(45deg, #890000b3, #890000, #000000) !important;
+    background: linear-gradient(45deg, #0e0e0efa, #890000, #000000) !important;
 }
 
 .dropdown-submenu .dropdown-menu {
@@ -1362,9 +1364,15 @@ section#contact-form-section .form-container {
     width: 100%;
     display: table;
     margin: 0 auto;
-    background: linear-gradient(45deg, #89000057, #890000, #000000);
+    background: linear-gradient(45deg, #0e0e0efa, #890000, #000000);
     position: relative;
     top: -140px;
+}
+.contact-form-button button#contact-submit {
+    background: transparent !important;
+}
+.call-to-action-button button.button2.quote-button {
+    background: transparent !important;
 }
 
 section#contact-form-section .form-container input,
@@ -1439,7 +1447,7 @@ section#get-proposal-hero-section .form-container {
     width: 80%;
     display: table;
     margin: 0 auto;
-    background: linear-gradient(45deg, #89000057, #890000, #000000);
+    background: linear-gradient(45deg, #0e0e0efa, #890000, #000000);
 }
 
 .propasl-form-heading h3 {
@@ -1888,8 +1896,8 @@ div#quoteModal .modal-content {
     padding: 30px;
     color: #000;
     background: #ffffff;
-    border: 2px solid #8027d7;
-    box-shadow: 0px 0px 11px #3e7df8;
+    border: 2px solid #890000;
+    box-shadow: 0px 0px 11px #dc3545;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -1920,7 +1928,7 @@ section.footer-widgets .col-md-3:nth-child(3) {
     position: absolute;
     right: 10px;
     top: 10px;
-    background: #5271ff;
+    background: #890000;
     height: 40px;
     width: 40px;
     text-align: center;
@@ -1933,7 +1941,7 @@ section.footer-widgets .col-md-3:nth-child(3) {
 
 div#quoteModal {
     overflow: hidden;
-    background: linear-gradient(45deg, #4474f3b8, #604ee682);
+    background: linear-gradient(45deg, #000000cf, #000000);
 }
 
 .modal-button-div {
@@ -2091,7 +2099,7 @@ section#unrivaled .form-container {
     width: 70%;
     margin: 0 auto;
     padding: 30px 40px;
-    background: linear-gradient(45deg, #89000057, #890000, #000000);
+    background: linear-gradient(45deg, #0e0e0efa, #890000, #000000);
     border-radius: 20px;
     margin-top: 30px;
 }
@@ -2950,7 +2958,7 @@ section#simplify-shopify-sec .form-container {
     width: 80%;
     display: table;
     margin: 0 auto;
-    background: linear-gradient(45deg, #89000057, #890000, #000000);
+    background: linear-gradient(45deg, #0e0e0efa, #890000, #000000);
 }
 
 section#simplify-shopify-sec .row {
@@ -3626,18 +3634,36 @@ ul.check-out-y-li {
 
 section#the-power-of-omni-channel {
     padding: 50px 0px;
+    background: linear-gradient(45deg, #000000, #890000, #000000);
+    color: white ;
+}
+.the-power-omni-channel-heading h2 {
+    color: white;
 }
 
+h3 {}
+
+.omni-card h4 {
+    color: black;
+}
+.omni-card:hover {
+    background: linear-gradient(45deg, #000000, #8900009c, #dc3545);
+}
+
+.omni-card:hover h4 {
+    color: white;
+}
 .omni-card {
     text-align: center;
     padding: 20px;
-    border: #574AE240 3px solid;
     margin: 13px 0px;
     border-radius: 10px;
     box-shadow: 0px 0px 16px 0px rgba(86.99999999999999, 74.00000000000001, 225.9999999999999, 0.13);
     height: 220px;
+    background: #fffffffc;
+    border: 2px solid #fffcfc;
+    transition: 0.5s;
 }
-
 .omni-image-wrapper i {
     background: linear-gradient(45deg, #358afc, #6942e1);
     width: 56px;
@@ -3781,7 +3807,7 @@ button.accordion-button.collapsed {
 }
 
 button.accordion-button {
-    background:linear-gradient(45deg, #890000b3, #890000, #000000);
+    background:linear-gradient(45deg, #0e0e0efa, #890000, #000000);
     color: #fff !important;
     font-weight: 400 !important;
     text-transform: capitalize !important;

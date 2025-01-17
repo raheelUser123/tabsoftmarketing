@@ -248,7 +248,7 @@ include_once("includes/head.php");
                         <li><i class="bi bi-check"></i> Influencer Outreach</li>
                         <li><i class="bi bi-check"></i> Business Listing</li>
                         <li><i class="bi bi-check"></i> Reputation Management</li>
-                        <li><i class="bi bi-check"></i> Content Promotion/li>
+                        <li><i class="bi bi-check"></i> Content Promotion</li>
 
                     </ul>
                 </div>
@@ -453,7 +453,7 @@ include_once("includes/head.php");
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                    <img src="../assets/images/test-image-female-1.webp" alt="">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -472,7 +472,7 @@ include_once("includes/head.php");
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                    <img src="../assets/images/test-image-male-1.webp" alt="">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -491,7 +491,7 @@ include_once("includes/head.php");
                          </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/images-1laura.jpg" alt="">
+                                    <img src="../assets/images/test-image-female-2.webp" alt="">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -510,7 +510,7 @@ include_once("includes/head.php");
                         </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/images-1ameli.jpg" alt="">
+                                    <img src="../assets/images/test-image-male-2.webp" alt="">
                                 </div>
                                 <div class="client-name">
                                     <p>
