@@ -34,7 +34,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/personalized seo-image.PNG" alt="">
+                        <img src="../assets/images/seo-services-in-gurgaon.gif" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">

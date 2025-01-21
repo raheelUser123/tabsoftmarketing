@@ -675,6 +675,10 @@ h6 span {
 section#hero-section h1 {
     margin-bottom: 20px;
 }
+.slider2 img {
+    height: 100px;
+    width: auto;
+}
 
 section#service-hero-section h5 {
     color: white;
@@ -1667,7 +1671,7 @@ section#featured-clients {
 
 section#service-hero-section {
     padding: 190px 0px 110px 0px;
-    background: linear-gradient(45deg, black, transparent), url('../images/service-back-image.webp');
+    background: linear-gradient(45deg, black, transparent), url('../images/seo-back-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1675,7 +1679,12 @@ section#service-hero-section {
     position: relative;
     z-index: 1;
 }
-
+section#service-hero-section button.button2.quote-button {
+    background: transparent;
+}
+section#reach-top-google-bing button.button2 {
+    background: transparent;
+}
 section#service-hero-section h1 {
     color: white;
 }
@@ -3634,7 +3643,7 @@ ul.check-out-y-li {
 
 section#the-power-of-omni-channel {
     padding: 50px 0px;
-    background: url('../images/omni-back-image.png');
+    background: url('../images/red-back-image.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -3643,9 +3652,6 @@ section#the-power-of-omni-channel {
 .the-power-omni-channel-heading h2 {
     color: white;
 }
-
-h3 {}
-
 .omni-card h4 {
     color: black;
 }
