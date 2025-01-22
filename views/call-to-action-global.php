@@ -14,7 +14,7 @@ $imageSrc = isset($imageSrc) ? $imageSrc : '../assets/images/default-image.png';
                     </div>
                 </div>
                 <div class="call-to-action-rocket-image-wrapper">
-                    <img src="<?php echo $imageSrc; ?>" alt="">
+                    <img src="../assets/images/seo-sec-personalized.webp" alt="">
                 </div>
             </div>
         </div>

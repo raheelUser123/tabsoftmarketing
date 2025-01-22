@@ -1050,7 +1050,7 @@ section#call-to-action h2 {
 section#call-to-action {
     padding: 60px 0px;
     position: relative;
-    background:url(../images/Get-Proposal.png);
+    background: linear-gradient(45deg, #00000000, #0e0808), url(../images/Get-Proposal.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2643,9 +2643,8 @@ section#our-work-methodology {
 }
 
 .working-image-wrapper {
-    background: linear-gradient(45deg, #000000, #890000, #000000);
     padding: 10px 20px;
-    width: 70%;
+    width: 100%;
     border-radius: 20px;
     margin: 0 auto;
 }
@@ -2667,9 +2666,25 @@ section#our-work-methodology .row {
     display: flex;
     gap: 20px;
     align-items: flex-start;
-    padding: 60px 0px 60px 0px;
+    padding:70px 0px 20px 0px;
+ position: relative;
 }
-
+.methodolgy-cards:before {
+    position: absolute;
+    content: '';
+    background: black;
+    height: 80px;
+    width: 2px;
+    left: 40px;
+    top: unset;
+    bottom: -66px;
+}
+.methodolgy-cards:last-child::before {
+    content: none; /* Removes the ::before pseudo-element */
+  }
+  .methodolgy-cards:nth-child(2)::before {
+    height: 110px; /* Increased height for the second card */
+}  
 .methodolgy-card-image-wrapper {
     position: relative;
 }
@@ -2874,7 +2889,7 @@ section#service-hero-section h6 {
 }
 
 .hero-quote a button.button2.quote-button {
-    background: black;
+    background: transparent;
 }
 
 .streamline-image-wrapper img {
@@ -3617,14 +3632,15 @@ ul.check-out-y-li {
 }
 
 .call-to-action-rocket-image-wrapper img {
-    width: 39%;
+    width: 75%;
     position: absolute;
-    right: 0;
     bottom: -70px;
+    right: -250px;
 }
 
 .call-to-action-rocket-image-wrapper {
     position: relative;
+    top: 0;
 }
 
 .marketing-partners-card {

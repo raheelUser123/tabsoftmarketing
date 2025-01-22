@@ -400,8 +400,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="working-image-wrapper">
-                        <img src="../assets/images/meth-amz-image-1.webp" alt="">
-                        <img src="../assets/images/meth-amz-image-2.webp" alt="">
+                        <img src="../assets/images/highvern.gif" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
