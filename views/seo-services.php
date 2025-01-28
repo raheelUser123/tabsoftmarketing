@@ -13,7 +13,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <h1>
-                        Search Engine Optimization <span>(SEO)</span> Services
+                        Search Engine Optimization (SEO) Services
                     </h1>
                     <p>
                         Is your website lost in the digital abyss? We'll rescue you from page <br>
@@ -34,7 +34,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/seo-services-in-gurgaon.gif" alt="">
+                        <img src="../assets/images/seo-image-upper-sec.webp" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -56,7 +56,7 @@ include_once("includes/head.php");
         </div>
     </section>
     <?php include_once("trusted-by-global-2.php") ?>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing-2">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -73,8 +73,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                <div class="reach-top-image-wrapper-2">
+                        <img src="../assets/images/seo-services-in-gurgaon.gif" alt="">
                     </div>
                 </div>
             </div>
@@ -375,7 +375,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                        <img src="../assets/images/seo-form-image.webp" alt="">
                     </div>
 
                 </div>

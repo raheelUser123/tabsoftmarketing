@@ -33,7 +33,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/personalized seo-image.PNG" alt="">
+                        <img src="../assets/images/local-seo-image-search-bar.gif" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -55,7 +55,7 @@ include_once("includes/head.php");
         </div>
     </section>
     <?php include_once("trusted-by-global-2.php") ?>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing-3">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -69,10 +69,8 @@ include_once("includes/head.php");
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
-                    </div>
+                <div class="col-lg-6 reach-top-col-back">
+                    
                 </div>
             </div>
         </div>
@@ -370,7 +368,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                        <img src="../assets/images/local-form-image.jpg" alt="" style="width: 90% !important;">
                     </div>
 
                 </div>
