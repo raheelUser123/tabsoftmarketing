@@ -76,12 +76,12 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="personalized-seo">
+    <section id="personalized-seo" style="background: #e6e9ed; padding: 50px 0px 40px 0px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/personalized seo-image.PNG" alt="">
+                        <img src="../assets/images/ecommerce--innovative-image.gif" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -190,7 +190,7 @@ include_once("includes/head.php");
     <section id="reach-top-google-bing">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6" style="padding-top: 90px;padding-bottom: 90px;">
                     <h6>Become an Established Brand</h6>
                     <h2>E-commerce Marketing That <br>Converts: Drive Sales and<br> Dominate Your Market
                     </h2>
@@ -202,7 +202,7 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
+                    <div class="reach-top-image-wrapper" style="top: 0px;">
                         <img src="../assets/images/reach-top-google-image.webp" alt="">
                     </div>
                 </div>

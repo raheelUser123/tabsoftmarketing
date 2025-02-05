@@ -75,12 +75,12 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="personalized-seo">
+    <section id="personalized-seo" style="background: #fbfbfb;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/personalized seo-image.PNG" alt="">
+                        <img src="../assets/images/amzon-specialist-image.gif" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -186,10 +186,10 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" style="padding: 0px 0px;">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6" style="padding-top: 30px; padding-bottom: 49px;">
                     <h6>Reach at the Top of Amazon</h6>
                     <h2>Maximize the Reach of Your Business at the Biggest Platform with Expert Optimization
                     </h2>
@@ -201,8 +201,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                    <div class="reach-top-image-wrapper" style="    top: 0px;">
+                        <img src="../assets/images/amzon-reach-top.gif" alt="">
                     </div>
                 </div>
             </div>

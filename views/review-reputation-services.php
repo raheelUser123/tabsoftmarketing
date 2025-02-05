@@ -13,12 +13,11 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <h1>
-
-                    Review and Reputation <br>Management Services
+                        Review and Reputation <br>Management Services
                     </h1>
                     <p>
 
-                    In the digital world, reviews are your reputation. Thus, partner with Tabsoft Marketing and take control of your online reputation.
+                        In the digital world, reviews are your reputation. Thus, partner with Tabsoft Marketing and take control of your online reputation.
                     </p>
 
                     <div class="service-button">
@@ -35,22 +34,22 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/personalized seo-image.PNG" alt="">
+                        <img src="../assets/images/review-reputation-harness.gif" alt="" style="width: 80%;">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <h6><span>Harness the Power of Reviews</span></h6>
                     <h3>
-                    Tabsoft’s review and <span>management services</span> help you monitor, improve, and protect your <span>brand’s reputation</span>.
+                        Tabsoft’s review and <span>management services</span> help you monitor, improve, and protect your <span>brand’s reputation</span>.
                     </h3>
                     <p>
-                    <strong>Market share is directly correlated with brand reputation</strong>, and that is where our review and reputation management comes in. We provide professional review and reputation management services to help businesses maintain and enhance their positive online image. Our services primarily focus on monitoring and managing online reviews, addressing customer feedback, and boosting your brand’s reputation.
+                        <strong>Market share is directly correlated with brand reputation</strong>, and that is where our review and reputation management comes in. We provide professional review and reputation management services to help businesses maintain and enhance their positive online image. Our services primarily focus on monitoring and managing online reviews, addressing customer feedback, and boosting your brand’s reputation.
                     </p>
                     <p>
-                    By utilizing our expertise, your business can build trust, attract new customers, and maintain a strong position in the marketplace.
+                        By utilizing our expertise, your business can build trust, attract new customers, and maintain a strong position in the marketplace.
                     </p>
                     <div class="personalized-button">
-                        <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
+                        <a href="/get-proposal/"> <button class="button2"> Let's Get Started </button></a>
                     </div>
                 </div>
             </div>
@@ -75,7 +74,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" style="padding: 22px 0px;">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -83,15 +82,15 @@ include_once("includes/head.php");
                     <h2>Be in Charge of Your Online Reputation with The Top Review Management Company.
                     </h2>
                     <p>
-                    <strong>Build your customer trust and positive image with Tabsoft Marketing</strong>. We take your brand’s image and shape a positive story around it. Our expert team uses proven strategies, focuses on building a strong reputation, and keeps an eye on your brand's image every step of the way to make sure your brand always shines in the best possible way.
+                        <strong>Build your customer trust and positive image with Tabsoft Marketing</strong>. We take your brand’s image and shape a positive story around it. Our expert team uses proven strategies, focuses on building a strong reputation, and keeps an eye on your brand's image every step of the way to make sure your brand always shines in the best possible way.
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                    <div class="reach-top-image-wrapper" style="    top: 0px;">
+                        <img src="../assets/images/review-reputation-critical.gif" alt="">
                     </div>
                 </div>
             </div>
@@ -103,7 +102,7 @@ include_once("includes/head.php");
             <div class="tried-heading-sec text-center">
                 <h2>What are <span>Review and Reputation</span> Issues That Make You Furious?</h2>
                 <p>
-                Are you a business owner who is concerned about his/her brand’s review and reputation because of the following issues:
+                    Are you a business owner who is concerned about his/her brand’s review and reputation because of the following issues:
                 </p>
             </div>
             <div class="row">
@@ -210,11 +209,11 @@ include_once("includes/head.php");
                 <div class="col-lg-8">
                     <h2>We Can Enhance Your Review <br>Management Strategy</h2>
                     <p>
-                    Strategic utilization of review and reputation management services drives customer loyalty and revenue growth. Our proactive approach to cultivating positive reviews and enhancing brand reputation fosters the trust essential for sustained success.
+                        Strategic utilization of review and reputation management services drives customer loyalty and revenue growth. Our proactive approach to cultivating positive reviews and enhancing brand reputation fosters the trust essential for sustained success.
                     </p>
                     <p> <b>Fiction:</b>No one wants to write a review.</p>
                     <p>
-                    The truth is more than 85% of customers are happy to share their feedback, and over 70% believe written reviews are far more valuable than just a star rating.
+                        The truth is more than 85% of customers are happy to share their feedback, and over 70% believe written reviews are far more valuable than just a star rating.
                     </p>
                     <div class="streamline-image-wrapper">
                         <img src="../assets/images/reputation-streamine-image.jpg" alt="">
@@ -230,7 +229,7 @@ include_once("includes/head.php");
                     <div class="our-seo-content text-center">
                         <h2> Review and Management Services that We Provide</h2>
                         <p>
-                        We don’t compromise on quality. Tabsoft offers a variety of premium tools and expert services to help businesses<br> or individuals monitor, improve, and protect their online reputation!
+                            We don’t compromise on quality. Tabsoft offers a variety of premium tools and expert services to help businesses<br> or individuals monitor, improve, and protect their online reputation!
                         </p>
                     </div>
                 </div>
@@ -281,7 +280,7 @@ include_once("includes/head.php");
         </div>
         <div class="cli-seo-content">
             <p>
-            Reputation crises are uncertain, but it’s good to know that Tabsoft’s team is taking a customer-first approach to reputation management and creating a positive online presence for brands.
+                Reputation crises are uncertain, but it’s good to know that Tabsoft’s team is taking a customer-first approach to reputation management and creating a positive online presence for brands.
                 Ryan Cox,<span> Director of Marketing</span> <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -308,7 +307,7 @@ include_once("includes/head.php");
                     <div class="vertical-slider-month">
                         <h2>Our Review and Reputation Management Process</h2>
                         <p>
-                        At Tabsoft, we understand the importance of maintaining a strong online reputation. Our streamlined three-step process ensures that your brand’s image is carefully managed and continuously improved. From identifying issues to building positive feedback, we take a proactive approach to protect and enhance your reputation. Here's how we do it:
+                            At Tabsoft, we understand the importance of maintaining a strong online reputation. Our streamlined three-step process ensures that your brand’s image is carefully managed and continuously improved. From identifying issues to building positive feedback, we take a proactive approach to protect and enhance your reputation. Here's how we do it:
                         </p>
                         <!-- <div class="highlight">
                             <p>
@@ -320,7 +319,7 @@ include_once("includes/head.php");
                         <h6><span>Month 1</span></h6>
                         <h2>Assessment & Strategy</h2>
                         <p>We analyze your current reputation, identify any issues, and craft a personalized strategy to enhance your online image.</p>
-                            
+
                         <!-- <ul>
                             <li><i class="bi bi-check"></i> Conduct a comprehensive <b>website audit to identify technical SEO issues.</b> </li>
                             <li><i class="bi bi-check"></i><b>Perform detailed keyword research</b> and group keywords by priority.</li>
@@ -393,12 +392,14 @@ include_once("includes/head.php");
             </section>
         </div>
     </section>
-    <?php $headingTexts = "Your Brand Deserves a <br>Stellar Reputation"; include_once("call-to-action-global.php") ?>
+    <?php $headingTexts = "Your Brand Deserves a <br>Stellar Reputation";
+    include_once("call-to-action-global.php") ?>
     <section id="unrivaled">
         <div class="container">
             <div class="unrivaled-heading text-center">
                 <h2>Premium Solutions<br>
-                    <span>Top-Tier Results</span></h2>
+                    <span>Top-Tier Results</span>
+                </h2>
                 <p>Team up with us to give your business the edge it needs.</p>
 
             </div>
@@ -414,7 +415,7 @@ include_once("includes/head.php");
                         <div class="form-heading text-center">
                             <h3>Become Our Partner<br> for Success</h3>
                             <p>
-                            Contact us today for a free proposal!</p>
+                                Contact us today for a free proposal!</p>
                         </div>
                         <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
                             <fieldset>
@@ -480,7 +481,7 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft's review and reputation services have significantly enhanced our online presence. Their strategic approach to managing and cultivating customer feedback has been instrumental in improving our brand image. Their team is highly proactive and results-oriented."
+                                "Tabsoft's review and reputation services have significantly enhanced our online presence. Their strategic approach to managing and cultivating customer feedback has been instrumental in improving our brand image. Their team is highly proactive and results-oriented."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -500,7 +501,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "Working with Tabsoft has been a strategic advantage. Their reputation management services are thorough, professional, and tailored to our specific needs. They’ve played a key role in maintaining and enhancing our digital reputation."
+                                "Working with Tabsoft has been a strategic advantage. Their reputation management services are thorough, professional, and tailored to our specific needs. They’ve played a key role in maintaining and enhancing our digital reputation."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -520,7 +521,7 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "Thanks to Tabsoft, our online reputation has seen remarkable improvements. Their professional approach to managing reviews and proactively engaging with customers has elevated our brand image and trustworthiness."
+                                "Thanks to Tabsoft, our online reputation has seen remarkable improvements. Their professional approach to managing reviews and proactively engaging with customers has elevated our brand image and trustworthiness."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -541,7 +542,7 @@ include_once("includes/head.php");
                             <p class="test-p">
 
 
-                            "Tabsoft’s reputation management solutions are both reliable and highly effective. They have consistently provided excellent support in monitoring reviews, responding to feedback, and strengthening our online presence. Their services have proven to be an essential part of our digital strategy."
+                                "Tabsoft’s reputation management solutions are both reliable and highly effective. They have consistently provided excellent support in monitoring reviews, responding to feedback, and strengthening our online presence. Their services have proven to be an essential part of our digital strategy."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -571,13 +572,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            Why is review and reputation management important for online businesses?    
+                            Why is review and reputation management important for online businesses?
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Review and reputation management is crucial for online businesses as it helps build trust, attract customers, and protect the brand’s image in a competitive digital market.
+                            Review and reputation management is crucial for online businesses as it helps build trust, attract customers, and protect the brand’s image in a competitive digital market.
                         </div>
                     </div>
                 </div>
@@ -591,7 +592,7 @@ include_once("includes/head.php");
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Tabsoft Marketing handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation.
+                            Tabsoft Marketing handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation.
                         </div>
                     </div>
                 </div>
@@ -605,7 +606,7 @@ include_once("includes/head.php");
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Online review management focuses on managing reviews across different platforms (e.g., Google, Yelp), while reputation management covers all aspects of your online image, including reviews, social media mentions, and search engine results.
+                            Online review management focuses on managing reviews across different platforms (e.g., Google, Yelp), while reputation management covers all aspects of your online image, including reviews, social media mentions, and search engine results.
                         </div>
                     </div>
                 </div>
@@ -619,7 +620,7 @@ include_once("includes/head.php");
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Online reviews significantly impact consumer decisions. Positive reviews can increase trust and sales, while negative reviews if left unmanaged, can harm your reputation.
+                            Online reviews significantly impact consumer decisions. Positive reviews can increase trust and sales, while negative reviews if left unmanaged, can harm your reputation.
                         </div>
                     </div>
                 </div>
@@ -633,7 +634,7 @@ include_once("includes/head.php");
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        The cost of these services varies based on your business size, service level, and needs. 
+                            The cost of these services varies based on your business size, service level, and needs.
                         </div>
                     </div>
                 </div>
@@ -725,7 +726,8 @@ include_once("includes/head.php");
         </div>
     </section>
 
-    <?php $headingText = "Get Started with Tabsoft Marketing and <br> Dominate Search Results!"; include_once("includes/footer.php") ?>
+    <?php $headingText = "Get Started with Tabsoft Marketing and <br> Dominate Search Results!";
+    include_once("includes/footer.php") ?>
 
 
 

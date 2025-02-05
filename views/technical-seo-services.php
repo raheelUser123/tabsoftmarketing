@@ -30,12 +30,12 @@ include_once("includes/head.php");
     </section>
     <?php $headingText1 = "Technical SEO Experience";
     include_once("partner-1-global.php") ?>
-    <section id="personalized-seo">
+    <section id="personalized-seo" style="background: #fcfafc;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/personalized seo-image.PNG" alt="">
+                        <img src="../assets/images/technical-seo-fast.gif" alt="" style="width: 90% !important;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -61,10 +61,10 @@ include_once("includes/head.php");
         </div>
     </section>
     <?php include_once("trusted-by-global-2.php") ?>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" style="padding: 0px 0px;">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6" style="    padding-top: 80px !important;padding-bottom: 50px !important;">
                     <h6>Make Your Website’s Crawlability And Indexing Better</h6>
                     <h2>Boost Your Organic Traffic And Generate Sales With Our Effective Techincal SEO
                     </h2>
@@ -76,8 +76,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                    <div class="reach-top-image-wrapper" style="top: 0 !important;">
+                        <img src="../assets/images/technical-crawler-image.webp" alt="" style="width: 81% !important;">
                     </div>
                 </div>
             </div>
