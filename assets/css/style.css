@@ -1370,7 +1370,7 @@ section#portfolio-custom-landing-page {
 
 section#trusted-by-section {
     padding: 20px 0px;
-    background: #FAFAFA;
+    /* background: #FAFAFA; */
 }
 
 section#contact-hero-section {
@@ -2331,10 +2331,10 @@ section#understanding-tiktok-algorithm {
     padding: 10px 10px;
     border: 3px solid #890000;
     border-radius: 10px;
-    height: 410px;
+    height: 290px;
     margin-bottom: 20px;
+    text-align: center;
 }
-
 section#our-marketing-partners p.market {
     margin: 0;
     text-transform: uppercase;
@@ -2947,6 +2947,7 @@ section#service-hero-section h6 {
 .slider .slick-slide img {
     display: table;
     margin: 0 auto;
+    filter: grayscale(5);
 }
 
 .youtube-slider img {
@@ -4705,9 +4706,16 @@ section#we-grown .row {
 
 @media only screen and (max-width:480px) {
     section#reach-top-google-bing-2 .row:nth-child(1) .col-lg-6 {
-        padding-left: 10px;
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding: 0 !important;
+        margin-bottom: 10px;
+    }
+    section#reach-top-google-bing-2{
+        padding: 0;
+    }
+    .reach-top-image-wrapper-2 img {
+        display: table;
+        margin: 0 auto;
+        width: 100%;
     }
     .unrivaled-heading p {
         margin: 0 !important;
@@ -4772,7 +4780,7 @@ section#we-grown .row {
     }
 
     .unrivaled-image-wrapper img {
-        width: 100%;
+        display: none;
     }
 
     section#reach-top-google-bing .row:nth-child(1) .col-lg-6 {
@@ -4830,7 +4838,7 @@ section#we-grown .row {
     }
 
     .slick-dotted.slick-slider {
-        margin-bottom: 0px;
+        margin-bottom: 0px !important;
     }
 
     section#ppc-faqs {
@@ -4910,9 +4918,12 @@ section#we-grown .row {
     }
 
     .testimonial-div {
-        padding: 30px 0px;
+        padding: 15px 0px;
     }
-
+    .test-slider .slick-dots {
+        bottom: 0px !important;
+        left: 0% !important;
+    }
     section#clients-testimonial .slick-prev {
         top: unset;
         bottom: -30px;
@@ -4956,7 +4967,7 @@ section#we-grown .row {
     section#our-marketing-partners,
     section#our-work-methodology,
     section#personalized-seo,
-    section#tired-of-dealing {
+    section#tired-of-dealing,{
         padding: 15px 0px;
     }
 

@@ -80,7 +80,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/personalized seo-image.PNG" alt="">
+                        <img src="../assets/images/email-marketing-services-customize.gif" alt="" style="width: 90%;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -186,7 +186,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" style="padding: 22px 0px;">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -201,8 +201,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                    <div class="reach-top-image-wrapper" style="top: 0;">
+                        <img src="../assets/images/email-marketing-services-explosive.gif" alt="">
                     </div>
                 </div>
             </div>
@@ -494,7 +494,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                        <img src="../assets/images/email-marketing-services-form.gif" alt="" style="width: 100%;">
                     </div>
 
                 </div>

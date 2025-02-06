@@ -500,7 +500,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                        <img src="../assets/images/amazon-marketing-form.svg" alt="" style="width: 70%;">
                     </div>
 
                 </div>

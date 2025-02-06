@@ -80,7 +80,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/personalized seo-image.PNG" alt="">
+                        <img src="../assets/images/smm-noise.gif" alt="" style="width: 90%;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -186,10 +186,10 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" style="padding: 0px ;">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6" style="    padding-top: 40px; padding-bottom: 39px;">
                     <h6>Become a Beast in the Social World</h6>
                     <h2>Effective Social Media Marketing Services<br> That Cut Through The Clutter And Make A Real Impact
                     </h2>
@@ -201,8 +201,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                    <div class="reach-top-image-wrapper" style="top: 0;">
+                        <img src="../assets/images/smm-become.gif" alt="">
                     </div>
                 </div>
             </div>
@@ -502,7 +502,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                        <img src="../assets/images/smm-form.gif" alt="" style="width: 80%;">
                     </div>
 
                 </div>

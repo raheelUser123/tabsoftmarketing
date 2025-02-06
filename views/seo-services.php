@@ -13,7 +13,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <h1>
-                        Search Engine Optimization 7(SEO) Services
+                        Search Engine Optimization (SEO) Services
                     </h1>
                     <p>
                         Is your website lost in the digital abyss? We'll rescue you from page <br>

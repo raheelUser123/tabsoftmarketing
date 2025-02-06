@@ -187,7 +187,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" style="    padding: 0px 0px;">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6" style="padding-top: 90px;padding-bottom: 90px;">
@@ -203,7 +203,7 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-6">
                     <div class="reach-top-image-wrapper" style="top: 0px;">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                        <img src="../assets/images/ecommerce-become-established.gif" alt="">
                     </div>
                 </div>
             </div>
@@ -499,7 +499,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                        <img src="../assets/images/email-marketing-services-form.png" alt="" style="width: 100%;">
                     </div>
 
                 </div>

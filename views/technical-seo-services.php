@@ -270,9 +270,6 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Competitor Analysis</h3>
                             <p>
@@ -283,9 +280,6 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Technical SEO Audit</h3>
                             <p>
@@ -297,9 +291,6 @@ include_once("includes/head.php");
 
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Website Rendering</h3>
                             <p>
@@ -313,9 +304,6 @@ include_once("includes/head.php");
 
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Image Optimization</h3>
                             <p>
@@ -326,9 +314,6 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Speed Optimization</h3>
                             <p>
@@ -339,9 +324,6 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Optimizing Crawl Budget</h3>
                             <p>
@@ -354,9 +336,6 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Structured Data Markup</h3>
                             <p>
@@ -367,9 +346,6 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Debugging for Technical SEO</h3>
                             <p>
@@ -380,9 +356,6 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Penalty Recovery</h3>
                             <p>
@@ -393,9 +366,6 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-4">
                     <div class="understanding-tiktok-cards">
-                        <div class="understanding-image-wrapper">
-                            <i class="bi bi-tiktok"></i>
-                        </div>
                         <div class="understanding-card-heading">
                             <h3>Website Migration</h3>
                             <p>
@@ -421,7 +391,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                        <img src="../assets/images/technical-seo-services-form.webp" alt="" style="width: 100%;">
                     </div>
 
                 </div>

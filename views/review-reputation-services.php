@@ -63,12 +63,13 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="slider">
                     <div class="px-2 py-2"><img src="../assets/images/reputation-image-1.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-2.png" alt="Slide 1"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/clutch-icon.png" alt="Slide 1"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-6.png" alt="Slide 1"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/reviews.io.png" alt="Slide 1"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/goodfirms-logo.png" alt="Slide 1"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/yelp-icon.png" alt="Slide 1"></div>
                     <div class="px-2 py-2"><img src="../assets/images/reputation-image-3.png" alt="Slide 1"></div>
                     <div class="px-2 py-2"><img src="../assets/images/reputation-image-4.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-6.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-1.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-2.png" alt="Slide 1"></div>
                 </div>
 
             </div>
@@ -406,7 +407,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                        <img src="../assets/images/online-reputation-managment-form.jpg" alt="" style="width: 90%;">
                     </div>
 
                 </div>
