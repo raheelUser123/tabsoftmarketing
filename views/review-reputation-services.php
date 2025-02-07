@@ -75,7 +75,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing" style="padding: 22px 0px;">
+    <section id="reach-top-google-bing" class="review-reach-top" style="padding: 22px 0px;">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -90,7 +90,7 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper" style="    top: 0px;">
+                    <div class="reach-top-image-wrapper review-wrapper" style="    top: 0px;">
                         <img src="../assets/images/review-reputation-critical.gif" alt="">
                     </div>
                 </div>

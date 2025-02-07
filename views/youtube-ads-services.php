@@ -109,8 +109,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-4 get-image-col">
-                    <div class="get-most-image-wrapper-center">
-                        <img src="../assets/images/get-most-center-image.webp" alt="">
+                    <div class="get-most-image-wrapper-center youtube-phone-wrapper">
+                        <img src="../assets/images/youtube-ads-services-mobile.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -158,10 +158,10 @@ include_once("includes/head.php");
         </div>
     </section>
     <?php include_once("trusted-by-global-2.php") ?>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" class="youtube-ads-reach">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 youtube-reach">
                     <h6>Explosive Growth with YouTube Ads</h6>
                     <h2>Let us handle the strategy, targeting, and optimization while you watch your business grow and thrive.
                     </h2>
@@ -173,8 +173,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                    <div class="reach-top-image-wrapper youtube-reach-wrapper">
+                        <img src="../assets/images/youtube-ads-let.gif" alt="">
                     </div>
                 </div>
             </div>

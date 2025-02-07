@@ -55,7 +55,7 @@ include_once("includes/head.php");
         </div>
     </section>
     <?php include_once("trusted-by-global-2.php") ?>
-    <section id="reach-top-google-bing-3">
+    <section id="reach-top-google-bing-3" class="local-reach-top">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -70,7 +70,9 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6 reach-top-col-back">
-                    
+                <div class="reach-top-image-wrapper local-reach-wrapper">
+                        <img src="../assets/images/local-seo-outrank-image.jpg" alt="">
+                    </div>
                 </div>
             </div>
         </div>

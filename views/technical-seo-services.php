@@ -61,10 +61,10 @@ include_once("includes/head.php");
         </div>
     </section>
     <?php include_once("trusted-by-global-2.php") ?>
-    <section id="reach-top-google-bing" style="padding: 0px 0px;">
+    <section id="reach-top-google-bing" class="technical-reach">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6" style="    padding-top: 80px !important;padding-bottom: 50px !important;">
+                <div class="col-lg-6 technical-col">
                     <h6>Make Your Website’s Crawlability And Indexing Better</h6>
                     <h2>Boost Your Organic Traffic And Generate Sales With Our Effective Techincal SEO
                     </h2>
@@ -76,8 +76,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper" style="top: 0 !important;">
-                        <img src="../assets/images/technical-crawler-image.webp" alt="" style="width: 81% !important;">
+                    <div class="reach-top-image-wrapper technical-wrapper">
+                        <img src="../assets/images/technical-crawler-image.webp" alt="">
                     </div>
                 </div>
             </div>

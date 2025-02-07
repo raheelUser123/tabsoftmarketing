@@ -109,8 +109,8 @@ include_once("includes/head.php");
                 </div>
             </div>
             <div class="col-lg-4 get-image-col">
-                <div class="get-most-image-wrapper-center">
-                    <img src="../assets/images/get-most-center-image.webp" alt="">
+                <div class="get-most-image-wrapper-center twitter-phone-wrapper">
+                    <img src="../assets/images/twitter-ads-services-phone.png" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -174,7 +174,7 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-6">
                     <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                        <img src="../assets/images/twitter-engage-image.webp" alt="">
                     </div>
                 </div>
             </div>

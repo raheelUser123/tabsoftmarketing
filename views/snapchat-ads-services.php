@@ -109,8 +109,8 @@ include_once("includes/head.php");
                 </div>
             </div>
             <div class="col-lg-4 get-image-col">
-                <div class="get-most-image-wrapper-center">
-                    <img src="../assets/images/get-most-center-image.webp" alt="">
+                <div class="get-most-image-wrapper-center snapchat-image">
+                    <img src="../assets/images/Sanpchat-image.png" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -158,10 +158,10 @@ include_once("includes/head.php");
     </div>
 </section>
     <?php include_once("trusted-by-global-2.php") ?>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" class="snapchat-reach">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 snapchat-ads-reach-col">
                     <h6>Transform Your Brand with Powerful Snapchat Ads</h6>
                     <h2>Reach the right people, create unforgettable ads, and watch <br>your brand thrive on Snapchat.
                     </h2>
@@ -173,8 +173,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                    <div class="reach-top-image-wrapper snapchat-ads">
+                        <img src="../assets/images/snapchat-ads-reach.gif" alt="">
                     </div>
                 </div>
             </div>
@@ -461,8 +461,8 @@ include_once("includes/head.php");
             </div>
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/snapchat-contact-from-image.png" alt="">
+                    <div class="unrivaled-image-wrapper snapchat-form-image-wrapper">
+                        <img src="../assets/images/snapchat-form-image.webp" alt="">
                     </div>
 
                 </div>

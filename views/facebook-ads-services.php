@@ -109,8 +109,8 @@ include_once("includes/head.php");
                 </div>
             </div>
             <div class="col-lg-4 get-image-col">
-                <div class="get-most-image-wrapper-center">
-                    <img src="../assets/images/get-most-center-image.webp" alt="">
+                <div class="get-most-image-wrapper-center facebook-ads-center">
+                    <img src="../assets/images/facebook-ads-services-engage.png" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -158,7 +158,7 @@ include_once("includes/head.php");
     </div>
 </section>
     <?php include_once("trusted-by-global-2.php") ?>
-    <section id="reach-top-google-bing">
+    <section id="reach-top-google-bing" class="facebook-ads-service-deliver">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -173,8 +173,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
+                    <div class="reach-top-image-wrapper facebook-ads-deliver">
+                        <img src="../assets/images/facebook-ads-target.gif" alt="">
                     </div>
                 </div>
             </div>
@@ -460,7 +460,7 @@ Our goal is to make your business shine on Facebook. We handle everything from <
             </div>
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="unrivaled-image-wrapper">
+                    <div class="unrivaled-image-wrapper facebook-ads">
                         <img src="../assets/images/fb-form-img.png" alt="">
                     </div>
 

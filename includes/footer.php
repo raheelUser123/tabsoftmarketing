@@ -684,6 +684,46 @@
   });
 </script>
 <script>
+  $(document).ready(function() {
+    $('.test-slider-2').slick({
+      autoplay: true, // Enables autoplay
+      autoplaySpeed: 2000, // Autoplay speed in ms
+      dots: true, // Show dots for navigation
+      arrows: false, // Show previous/next arrows
+      infinite: true, // Infinite scrolling
+      speed: 500, // Transition speed in ms
+      slidesToShow: 1, // Number of slides to show at once
+      slidesToScroll: 1, // Number of slides to scroll
+      responsive: [{
+          breakpoint: 1024, // Screen width >= 1024px
+          settings: {
+            slidesToShow: 1, // Show 3 slides at once
+            slidesToScroll: 1, // Scroll 3 slides at once
+            infinite: true, // Infinite scrolling
+            // Show dots
+          }
+        },
+        {
+          breakpoint: 768, // Screen width >= 768px
+          settings: {
+            slidesToShow: 1, // Show 2 slides at once
+            slidesToScroll: 1, // Scroll 2 slides at once
+            // Show dots
+          }
+        },
+        {
+          breakpoint: 480, // Screen width >= 480px
+          settings: {
+            slidesToShow: 1, // Show 1 slide at once
+            slidesToScroll: 1, // Scroll 1 slide at once
+            dots: true // Show dots
+          }
+        }
+      ]
+    });
+  });
+</script>
+<script>
   function startCounting(elementId, start, end, interval, sign = "", suffix = "") {
     let current = start;
 

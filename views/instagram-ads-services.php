@@ -110,8 +110,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-4 get-image-col">
-                    <div class="get-most-image-wrapper-center">
-                        <img src="../assets/images/get-most-center-image.webp" alt="">
+                    <div class="get-most-image-wrapper-center instagram-phone-wrapper">
+                        <img src="../assets/images/instagram-ads-services-phone.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -182,6 +182,29 @@ include_once("includes/head.php");
                     <div> <img src="../assets/images/youtube-awesome-image-14.png" alt=""></div>
                 </div>
 
+            </div>
+        </div>
+    </section>
+    
+    <section id="reach-top-google-bing" class="reach-instagram-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6 instagram-reach-col">
+                    <h6>Make Waves with Unique Instagram Ads</h6>
+                    <h2>Crafted to captivate, our ads connect your brand to the right audience and spark real action.
+                    </h2>
+                    <p>
+                    We bring your brand’s story to life through captivating ads that truly resonate. Our smart targeting ensures your images, stories, and videos reach the perfect viewers, turning curiosity into action. Our team closely monitors performance, fine-tuning your campaigns to ensure every ad is more impactful than the last. Let us amplify your brand on Instagram, delivering ads that connect, convert, and captivate!
+                    </p>
+                    <div class="reach-bing-button">
+                        <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="reach-top-image-wrapper instagram-reach-wrapper">
+                        <img src="../assets/images/instagram-ads-services-crafted.gif" alt="">
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -286,28 +309,6 @@ include_once("includes/head.php");
                         <div class="tired-card-content">
                             <h6>Ads fail to capitalize on trending topics or relevant moments.</h6>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section id="reach-top-google-bing">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-6">
-                    <h6>Make Waves with Unique Instagram Ads</h6>
-                    <h2>Crafted to captivate, our ads connect your brand to the right audience and spark real action.
-                    </h2>
-                    <p>
-                    We bring your brand’s story to life through captivating ads that truly resonate. Our smart targeting ensures your images, stories, and videos reach the perfect viewers, turning curiosity into action. Our team closely monitors performance, fine-tuning your campaigns to ensure every ad is more impactful than the last. Let us amplify your brand on Instagram, delivering ads that connect, convert, and captivate!
-                    </p>
-                    <div class="reach-bing-button">
-                        <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper">
-                        <img src="../assets/images/reach-top-google-image.webp" alt="">
                     </div>
                 </div>
             </div>

@@ -14,11 +14,11 @@ include_once("includes/head.php");
                 <div class="col-lg-6">
                     <h1>
 
-                    Top Amazon Marketing Services
+                        Top Amazon Marketing Services
                     </h1>
                     <p>
 
-                    Tired of watching your Amazon sales plateau? Tabsoft Marketing offers comprehensive solutions to maximize your brand’s visibility and revenue on the world’s largest online marketplace.
+                        Tired of watching your Amazon sales plateau? Tabsoft Marketing offers comprehensive solutions to maximize your brand’s visibility and revenue on the world’s largest online marketplace.
                     </p>
 
                     <div class="service-button">
@@ -86,13 +86,13 @@ include_once("includes/head.php");
                 <div class="col-lg-6">
                     <h6><span>Specialist Amazon Marketing Services</span></h6>
                     <h3>
-                    Want To Sell More On <span>Amazon </span><br>Without <span>Wasting Money</span>?
+                        Want To Sell More On <span>Amazon </span><br>Without <span>Wasting Money</span>?
                     </h3>
                     <p>
-                    Millions shop on Amazon, so it's a huge opportunity. But it's also easy to get lost in the crowd. <strong>You don't want your products buried where no one sees them.</strong> You want to make money, not lose it. If you're looking to sell on Amazon, you probably already know how popular it is. What you might not know is how actually to succeed there. How do you get started? How do you make your product stand out?
+                        Millions shop on Amazon, so it's a huge opportunity. But it's also easy to get lost in the crowd. <strong>You don't want your products buried where no one sees them.</strong> You want to make money, not lose it. If you're looking to sell on Amazon, you probably already know how popular it is. What you might not know is how actually to succeed there. How do you get started? How do you make your product stand out?
                     </p>
                     <p>
-                    Our team of Amazon experts can help. We create a plan specifically for you to make the most of your budget. Working with a proven Amazon marketing agency like ours is the best way to get a great return on your investment (ROI). In short, we help you make more money on Amazon.
+                        Our team of Amazon experts can help. We create a plan specifically for you to make the most of your budget. Working with a proven Amazon marketing agency like ours is the best way to get a great return on your investment (ROI). In short, we help you make more money on Amazon.
                     </p>
                     <div class="personalized-button">
                         <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
@@ -186,22 +186,22 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing" style="padding: 0px 0px;">
+    <section id="reach-top-google-bing" class="amazon-reach" style="padding: 0px 0px;">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6" style="padding-top: 30px; padding-bottom: 49px;">
+                <div class="col-lg-6 amazon-col-reach" style="padding-top: 30px; padding-bottom: 49px;">
                     <h6>Reach at the Top of Amazon</h6>
                     <h2>Maximize the Reach of Your Business at the Biggest Platform with Expert Optimization
                     </h2>
                     <p>
-                    Lots of people selling on Amazon miss out on making more money because their product pages aren't as good as they could be. Our experienced Amazon experts will improve every part of your product listings. We'll help you every step of the way, making sure your products are easy for customers to find and helping you make the most money possible.
+                        Lots of people selling on Amazon miss out on making more money because their product pages aren't as good as they could be. Our experienced Amazon experts will improve every part of your product listings. We'll help you every step of the way, making sure your products are easy for customers to find and helping you make the most money possible.
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper" style="    top: 0px;">
+                    <div class="reach-top-image-wrapper amazon-wrapper" style="    top: 0px;">
                         <img src="../assets/images/amzon-reach-top.gif" alt="">
                     </div>
                 </div>
@@ -212,9 +212,9 @@ include_once("includes/head.php");
     <section id="tired-of-dealing">
         <div class="container">
             <div class="tried-heading-sec text-center">
-                <h2>Tired of Facing  <span>Amazon Market Competition?</span></h2>
+                <h2>Tired of Facing <span>Amazon Market Competition?</span></h2>
                 <p>
-                We've helped thousands of clients across various industries overcome the same challenges.
+                    We've helped thousands of clients across various industries overcome the same challenges.
                 </p>
             </div>
             <div class="row">
@@ -323,7 +323,7 @@ include_once("includes/head.php");
                     <div class="our-seo-content text-center">
                         <h2>Comprehensive Amazon Marketing Services</h2>
                         <p>
-                        Our tailored services are designed to address your specific business needs and goals.
+                            Our tailored services are designed to address your specific business needs and goals.
                         </p>
                     </div>
                 </div>
@@ -377,8 +377,8 @@ include_once("includes/head.php");
         </div>
         <div class="cli-seo-content">
             <p>
-            Since partnering with Tabsoft Marketing, we've seen a significant increase in our Amazon sales. Their expertise in PPC advertising and listing optimization has been invaluable.
-            John Smith,<span> Marketing Director</span>, Acme Products <i class="bi bi-star-fill"></i>
+                Since partnering with Tabsoft Marketing, we've seen a significant increase in our Amazon sales. Their expertise in PPC advertising and listing optimization has been invaluable.
+                John Smith,<span> Marketing Director</span>, Acme Products <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -404,10 +404,10 @@ include_once("includes/head.php");
                     <div class="vertical-slider-month">
                         <h2><span>Amazon Marketing Process</span></h2>
                         <p>
-                        We help businesses succeed on Amazon by developing complete marketing plans. Our experts focus on finding the right customers through targeted advertising, optimizing product listings to attract more sales, building a strong brand presence with attractive store and brand pages, testing different ad messages for maximum impact, and providing detailed performance reports. 
+                            We help businesses succeed on Amazon by developing complete marketing plans. Our experts focus on finding the right customers through targeted advertising, optimizing product listings to attract more sales, building a strong brand presence with attractive store and brand pages, testing different ad messages for maximum impact, and providing detailed performance reports.
                         </p>
                         <p>
-                        We utilize Amazon Marketing Services (AMS), Amazon's own advertising system, which allows brands to reach specific shoppers based on their search history, interests, and behaviour. We manage all types of Amazon ads, including Sponsored Products, Brands, and Categories, using a data-driven approach based on research, continuous campaign optimization, effective design, rigorous testing, and regular reporting to ensure long-term profitability. 
+                            We utilize Amazon Marketing Services (AMS), Amazon's own advertising system, which allows brands to reach specific shoppers based on their search history, interests, and behaviour. We manage all types of Amazon ads, including Sponsored Products, Brands, and Categories, using a data-driven approach based on research, continuous campaign optimization, effective design, rigorous testing, and regular reporting to ensure long-term profitability.
                         </p>
                         <!-- <div class="highlight">
                             <p>
@@ -488,12 +488,13 @@ include_once("includes/head.php");
             </section>
         </div>
     </section>
-    <?php $headingTexts = "Curious About How We Operate<br> on Amazon?"; include_once("call-to-action-global.php") ?>
+    <?php $headingTexts = "Curious About How We Operate<br> on Amazon?";
+    include_once("call-to-action-global.php") ?>
     <section id="unrivaled">
         <div class="container">
             <div class="unrivaled-heading text-center">
                 <h2>Premium Solutions <br>
-                Top-Tier Results</h2>
+                    Top-Tier Results</h2>
                 <p>Team up with us to give your business the edge it needs.</p>
 
             </div>
@@ -509,7 +510,7 @@ include_once("includes/head.php");
                         <div class="form-heading text-center">
                             <h3>Become Our Partner<br> for Success</h3>
                             <p>
-                            Contact us today for a free proposal!</p>
+                                Contact us today for a free proposal!</p>
                         </div>
                         <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
                             <fieldset>
@@ -575,9 +576,9 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft Marketing has completely transformed our Amazon PPC campaigns. Their expertise in keyword
-                            research and bid optimization has significantly reduced our ACoS and increased our sales.
-                            extremely impressed with their results."
+                                "Tabsoft Marketing has completely transformed our Amazon PPC campaigns. Their expertise in keyword
+                                research and bid optimization has significantly reduced our ACoS and increased our sales.
+                                extremely impressed with their results."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -585,7 +586,7 @@ include_once("includes/head.php");
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                        Michael Davis,  
+                                        Michael Davis,
                                         <br>
                                         E-commerce Manager, Gadget Guru Inc.
                                     </p>
@@ -597,9 +598,9 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "Before working with Tabsoft Marketing, our product listings were underperforming. They optimized our
-                            titles, descriptions, and images, resulting in a dramatic increase in organic traffic and conversions. We
-                            highly recommend their listing optimization services."
+                                "Before working with Tabsoft Marketing, our product listings were underperforming. They optimized our
+                                titles, descriptions, and images, resulting in a dramatic increase in organic traffic and conversions. We
+                                highly recommend their listing optimization services."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -618,9 +619,9 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft Marketing played a crucial role in the successful launch of our new product on Amazon. Their pre-
-                launch marketing strategy and promotional campaigns generated significant buzz and drove strong
-initial sales. Were grateful for their expertise and support."
+                                "Tabsoft Marketing played a crucial role in the successful launch of our new product on Amazon. Their pre-
+                                launch marketing strategy and promotional campaigns generated significant buzz and drove strong
+                                initial sales. Were grateful for their expertise and support."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -628,7 +629,7 @@ initial sales. Were grateful for their expertise and support."
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Robert Chen
+                                        Robert Chen
                                         <br>
                                         Product Manager, Innovative Tech Solutions
                                     </p>
@@ -639,9 +640,9 @@ initial sales. Were grateful for their expertise and support."
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft Marketing provides invaluable strategic guidance on all aspects of Amazon marketing. Their team
-is highly knowledgeable, responsive, and dedicated to our success. They've helped us develop a
-comprehensive strategy thats driving consistent growth for our business."
+                                "Tabsoft Marketing provides invaluable strategic guidance on all aspects of Amazon marketing. Their team
+                                is highly knowledgeable, responsive, and dedicated to our success. They've helped us develop a
+                                comprehensive strategy thats driving consistent growth for our business."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
@@ -649,7 +650,7 @@ comprehensive strategy thats driving consistent growth for our business."
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Amanda Rodriguez,
+                                        Amanda Rodriguez,
                                         <br>
                                         CEO, Beauty Wellness Brands
                                     </p>
@@ -677,9 +678,9 @@ comprehensive strategy thats driving consistent growth for our business."
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        We help you sell more on Amazon by improving your product visibility, driving targeted traffic to your
-listings, and building a strong brand presence. This includes optimizing your listings, managing
-advertising campaigns, and developing effective marketing strategies.
+                            We help you sell more on Amazon by improving your product visibility, driving targeted traffic to your
+                            listings, and building a strong brand presence. This includes optimizing your listings, managing
+                            advertising campaigns, and developing effective marketing strategies.
                         </div>
                     </div>
                 </div>
@@ -693,8 +694,8 @@ advertising campaigns, and developing effective marketing strategies.
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        The Amazon marketplace is complex and competitive. We have the expertise and tools to navigate this
-                        landscape effectively, saving you time, maximizing your ROI, and helping you avoid costly mistakes.
+                            The Amazon marketplace is complex and competitive. We have the expertise and tools to navigate this
+                            landscape effectively, saving you time, maximizing your ROI, and helping you avoid costly mistakes.
                         </div>
                     </div>
                 </div>
@@ -708,10 +709,10 @@ advertising campaigns, and developing effective marketing strategies.
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Amazon SEO (Search Engine Optimization) focuses on improving your organic (free) ranking in search
-results through listing optimization. Amazon PPC (Pay-Per-Click) advertising involves paying for targeted
-ads to appear in prominent placements, driving immediate traffic. Both are important for a successful
-Amazon strategy.
+                            Amazon SEO (Search Engine Optimization) focuses on improving your organic (free) ranking in search
+                            results through listing optimization. Amazon PPC (Pay-Per-Click) advertising involves paying for targeted
+                            ads to appear in prominent placements, driving immediate traffic. Both are important for a successful
+                            Amazon strategy.
                         </div>
                     </div>
                 </div>
@@ -725,9 +726,9 @@ Amazon strategy.
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of
-Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our
-strategies and provide transparent reporting.
+                            We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of
+                            Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our
+                            strategies and provide transparent reporting.
                         </div>
                     </div>
                 </div>
@@ -735,15 +736,15 @@ strategies and provide transparent reporting.
                     <h2 class="accordion-header" id="headingFive">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            How do you measure the success of your Amazon marketing efforts?  
+                            How do you measure the success of your Amazon marketing efforts?
                         </button>
                     </h2>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of
-Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our
-strategies and provide transparent reporting.
+                            We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of
+                            Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our
+                            strategies and provide transparent reporting.
                         </div>
                     </div>
                 </div>
@@ -757,9 +758,9 @@ strategies and provide transparent reporting.
                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Absolutely! We work with businesses of all sizes, from startups to established brands. We can help you
-develop a solid foundation for your Amazon business and create a tailored strategy to achieve your
-specific goals.
+                            Absolutely! We work with businesses of all sizes, from startups to established brands. We can help you
+                            develop a solid foundation for your Amazon business and create a tailored strategy to achieve your
+                            specific goals.
                         </div>
                     </div>
                 </div>
@@ -773,12 +774,12 @@ specific goals.
                     <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Our pricing varies depending on the scope of services required and the specific needs of your business.
-We offer customized packages and can provide a personalized quote after discussing your goals and
-objectives.
+                            Our pricing varies depending on the scope of services required and the specific needs of your business.
+                            We offer customized packages and can provide a personalized quote after discussing your goals and
+                            objectives.
+                        </div>
                     </div>
-                </div>
-                <!-- <div class="accordion-item">
+                    <!-- <div class="accordion-item">
                     <h2 class="accordion-header" id="headingEight">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
@@ -829,11 +830,12 @@ objectives.
                     </div>
                 </div> -->
 
+                </div>
             </div>
-        </div>
     </section>
 
-    <?php $headingText = "Achieve Significant Results On Amazon<br> With Our Expert Guidance"; include_once("includes/footer.php") ?>
+    <?php $headingText = "Achieve Significant Results On Amazon<br> With Our Expert Guidance";
+    include_once("includes/footer.php") ?>
 
 
 
