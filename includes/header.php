@@ -73,7 +73,7 @@
               <li><a class="dropdown-item" href="/who-we-are/">Who We Are</a></li>
             </div>
             <div class="custom-inner">
-              <li><a class="dropdown-item" href="/case-studies/">Case Studies</a></li>
+              <li><a class="dropdown-item" href="#">Case Studies</a></li>
             </div>
           </ul>
         </li>
