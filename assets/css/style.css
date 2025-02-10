@@ -1923,7 +1923,7 @@ p.clarity-paragraph {
 section#clients-testimonial {
     background: #000000;
     color: white;
-    padding: 70px 0px;
+    padding: 50px 0px;
 }
 
 .testimonial-heading h2 {
@@ -4533,6 +4533,14 @@ section#we-grown .row {
 }
 
 @media only screen and (max-width:1366px) {
+    section#case-study-hero-section {
+        padding: 110px 0px 80px 0px;
+    }
+
+    .case-hero-testi {
+        gap: 10px;
+    }
+
     .tired-cards h6 br {
         display: none;
     }
@@ -4595,6 +4603,22 @@ section#we-grown .row {
 }
 
 @media only screen and (max-width:1024px) {
+    section#case-study-hero-section {
+        padding: 110px 0px 40px 0px;
+    }
+
+    .case-hero-testi {
+        gap: 0;
+    }
+
+    .case-study-image-wrapper-2 img {
+        width: 90%;
+    }
+
+    .case-study-image-wrapper img {
+        width: 90%;
+    }
+
     .left-sec-content-wrapper {
         margin: 0px 10px 0px 0px;
     }
@@ -4676,7 +4700,50 @@ section#we-grown .row {
 
 }
 
-@media only screen and (max-width:992px) {
+@media only screen and (max-width:991px) {
+    section#case-study-hero-section h1 {
+        font-size: 30px !important;
+        line-height: 40px !important;
+    }
+
+    .about-the-brand-image-wrapper img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .challenge-image-wrapper img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    section#the-challenges .row {
+        flex-direction: column-reverse;
+    }
+
+    .case-slider-image .col-lg-4 {
+        width: 40%;
+    }
+
+    .case-image-wrapper img {
+        width: auto;
+    }
+
+    .case-slider-image .col-lg-8 {
+        width: 60%;
+    }
+
+    .case-slider-image {
+        display: table;
+        margin: 0 auto;
+    }
+
+    .case-study-image-wrapper img {
+        display: none;
+    }
+
+    .case-study-image-wrapper-2 img {
+        display: none;
+    }
 
     section#build-your-fb {
         padding: 10px 0px;
@@ -5136,6 +5203,30 @@ section#we-grown .row {
 }
 
 @media only screen and (max-width:480px) {
+    .case-slider-image{
+        display: none;
+    }
+    .trust-pilot-image-wrapper img {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .case-hero-sale-parent-div {
+        gap: 0px;
+    }
+
+    .get-most-image-wrapper-center img {
+        width: 100% !important;
+        margin-bottom: 20px !important;
+    }
+
+    .row.google-ads-row img {
+        height: auto !important;
+    }
+
+    .methodolgy-cards:before {
+        display: none;
+    }
+
     .case-study-image-wrapper-2 img {
         width: 100%;
         margin-bottom: 20px;
@@ -5904,6 +5995,10 @@ section#we-grown .row {
 
     section#full-power-call h3 {
         margin-bottom: 20px;
+    }
+
+    section#full-power-call h3 br {
+        display: none !important;
     }
 
     .slide-footer {
