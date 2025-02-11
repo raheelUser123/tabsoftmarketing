@@ -1,6 +1,6 @@
 <?php
 
-$domain = "https://www.Tabsoftmarketing.com";
+$domain = "www.tabsoftmarketing.com";
 
 $name = $_POST['name'] ?? '';
 $email = $_POST['email'] ?? '';
