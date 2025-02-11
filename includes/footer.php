@@ -59,28 +59,28 @@
             Marketing Management
           </h6>
           <p>
-            <a href="/search-engine-optimization/" class="text-reset">Search Engine Optimization </a>
+            <a href="/seo-services/" class="text-reset">Search Engine Optimization </a>
           </p>
           <p>
-            <a href="/local-seo/" class="text-reset">Local Search</a>
+            <a href="/local-seo-services/" class="text-reset">Local Search</a>
           </p>
           <p>
-            <a href="/technical-seo/" class="text-reset">Technical SEO</a>
+            <a href="/technical-seo-services/" class="text-reset">Technical SEO</a>
           </p>
           <p>
             <a href="/review-reputation-services/" class="text-reset">Review & Reputation Management</a>
           </p>
           <p>
-            <a href="/amazon-Marketing/" class="text-reset">Amazon Marketing </a>
+            <a href="/amazon-marketing-services/" class="text-reset">Amazon Marketing </a>
           </p>
           <p>
-            <a href="/content-Marketing-agency/" class="text-reset">Ecommerce Marketing </a>
+            <a href="/ecommerce-marketing-services/" class="text-reset">Ecommerce Marketing </a>
           </p>
           <p>
-            <a href="/social-media-Marketing/" class="text-reset">Social Media Marketing </a>
+            <a href="/smm-services/" class="text-reset">Social Media Marketing </a>
           </p>
           <p>
-            <a href="/email-Marketing/" class="text-reset">Email Marketing </a>
+            <a href="/email-marketing-services/" class="text-reset">Email Marketing </a>
           </p>
         </div>
         <div class="col-md-6 navftr slide-foot   col-lg-6 col-xl-6 mx-auto mb-md-0 mb-4">
@@ -91,22 +91,22 @@
                 Ads Management
               </h6>
               <p>
-                <a href="/facebook-Marketing-services/" class="text-reset">Facebook Ads </a>
+                <a href="/facebook-ads-services/" class="text-reset">Facebook Ads </a>
               </p>
               <p>
-                <a href="/services-snapchat/" class="text-reset">Snapchat Ads</a>
+                <a href="/snapchat-ads-services/" class="text-reset">Snapchat Ads</a>
               </p>
               <p>
-                <a href="/tiktok-ads/" class="text-reset">Tiktok Ads</a>
+                <a href="/tiktok-ads-services/" class="text-reset">Tiktok Ads</a>
               </p>
               <p>
-                <a href="/youtube-ads-agency/" class="text-reset">Youtube Ads</a>
+                <a href="/youtube-ads-services/" class="text-reset">Youtube Ads</a>
               </p>
               <p>
-                <a href="/services-instagram/" class="text-reset">Instagram Ads</a>
+                <a href="/instagram-ads-services/" class="text-reset">Instagram Ads</a>
               </p>
               <p>
-                <a href="/services-twitter/" class="text-reset">Twitter Ads</a>
+                <a href="/twitter-ads-services/" class="text-reset">Twitter Ads</a>
               </p>
             </div>
 
