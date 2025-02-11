@@ -69,3 +69,4 @@ header("location:/thank-you/?successMsg=$msg");
 else{
     exit(header("location:/"));
 }
+
