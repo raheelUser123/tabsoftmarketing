@@ -14,11 +14,11 @@ include_once("includes/head.php");
                 <div class="col-lg-6">
                     <h1>
 
-                    Social Media <br>Marketing Services
+                        Social Media <br>Marketing Services
                     </h1>
                     <p>
 
-                    We're social media marketing experts who know how to <br>turn online chatter into buying customers.
+                        We're social media marketing experts who know how to <br>turn online chatter into buying customers.
                     </p>
 
                     <div class="service-button">
@@ -35,7 +35,7 @@ include_once("includes/head.php");
                 <div class="col-lg-3">
                     <div class="ads-card">
                         <div class="ad-image-wrapper">
-                            <img src="../assets/images/ecommerce-ppc-card-image-2.png" alt="" style="width: auto !important; height: 80px !important;">
+                            <img src="../assets/images/ecommerce-ppc-card-image-2.png" alt="Ecommerce PPC Campaign Banner" style="width: auto !important; height: 80px !important;">
                         </div>
                         <div class="ads-content">
                             <p>Premier Google Ads Partner</p>
@@ -80,19 +80,19 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/smm-noise.gif" alt="" style="width: 90%;">
+                        <img src="../assets/images/smm-noise.gif" alt="Social Media Marketing Animated Graphic" style="width: 90%;">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <h6><span>Lost in the Noise of Social Media?</span></h6>
                     <h3>
-                    Let Us Be Your <span>Social Media</span> Success Partner<br> with <span>Strategic Solutions</span> for Growth
+                        Let Us Be Your <span>Social Media</span> Success Partner<br> with <span>Strategic Solutions</span> for Growth
                     </h3>
                     <p>
-                    Building a powerful brand and becoming profitable requires a dedicated strategy and consistent execution. Partner with us, and we'll provide the creative social media marketing ideas and data-driven approach needed to position your brand at the top.
+                        Building a powerful brand and becoming profitable requires a dedicated strategy and consistent execution. Partner with us, and we'll provide the creative social media marketing ideas and data-driven approach needed to position your brand at the top.
                     </p>
                     <p>
-                    Tabsoft Marketing offers comprehensive social media marketing services based on proven best practices. We work closely with you to understand your unique business needs and develop a customized strategy that delivers results. Ready to partner for social media success? 
+                        Tabsoft Marketing offers comprehensive social media marketing services based on proven best practices. We work closely with you to understand your unique business needs and develop a customized strategy that delivers results. Ready to partner for social media success?
                     </p>
                     <div class="personalized-button">
                         <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
@@ -132,7 +132,6 @@ include_once("includes/head.php");
                             <div><img src="../assets/images/amz-slider-image-19.png" alt="Slide 2"></div>
                             <div><img src="../assets/images/amz-slider-image-20.png" alt="Slide 2"></div>
                         </div>
-
                         <!-- Second Slider (Right Moving) -->
                         <div class="slider moving-right">
                             <div><img src="../assets/images/amz-slider-image-21.png" alt="Slide 2"></div>
@@ -189,12 +188,12 @@ include_once("includes/head.php");
     <section id="reach-top-google-bing" style="padding: 0px ;">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-6" style="    padding-top: 40px; padding-bottom: 39px;">
+                <div class="col-lg-6" style="padding-top: 40px; padding-bottom: 39px;">
                     <h6>Become a Beast in the Social World</h6>
                     <h2>Effective Social Media Marketing Services<br> That Cut Through The Clutter And Make A Real Impact
                     </h2>
                     <p>
-                    Social media marketing (SMM) is essential for businesses looking to increase brand awareness, generate leads, and drive sales. Tabsoft Marketing offers proven social media marketing solutions that deliver exceptional results. Our refined and unique methods have a consistent track record of success.
+                        Social media marketing (SMM) is essential for businesses looking to increase brand awareness, generate leads, and drive sales. Tabsoft Marketing offers proven social media marketing solutions that deliver exceptional results. Our refined and unique methods have a consistent track record of success.
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
@@ -202,7 +201,7 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-6">
                     <div class="reach-top-image-wrapper" style="top: 0;">
-                        <img src="../assets/images/smm-become.gif" alt="">
+                        <img src="../assets/images/smm-become.gif" alt="Social Media Marketing Growth Animation">
                     </div>
                 </div>
             </div>
@@ -214,14 +213,14 @@ include_once("includes/head.php");
             <div class="tried-heading-sec text-center">
                 <h2>Battling <span>Social Media Challenges?</span></h2>
                 <p>
-                If these pain points hit home, Tabsoft Marketing is here for you. We’ve worked with a diverse range of <br>clients to address these very issues and help them thrive.
+                    If these pain points hit home, Tabsoft Marketing is here for you. We’ve worked with a diverse range of <br>clients to address these very issues and help them thrive.
                 </p>
             </div>
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-1.svg" alt="">
+                            <img src="../assets/images/tired-image-1.svg" alt="Graph showing low engagement rates">
                         </div>
                         <div class="tired-card-content">
                             <h6>Low engagement rates</h6>
@@ -231,7 +230,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-2.svg" alt="">
+                            <img src="../assets/images/tired-image-2.svg" alt="Declining organic reach analytics">
                         </div>
                         <div class="tired-card-content">
                             <h6>Shrinking organic reach</h6>
@@ -241,7 +240,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-3.svg" alt="">
+                            <img src="../assets/images/tired-image-3.svg" alt="Community engagement challenges">
                         </div>
                         <div class="tired-card-content">
                             <h6>Difficulty building a loyal community</h6>
@@ -253,7 +252,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-4.svg" alt="">
+                            <img src="../assets/images/tired-image-4.svg" alt="Inconsistent brand messaging icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Inconsistent brand voice</h6>
@@ -263,7 +262,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-5.svg" alt="">
+                            <img src="../assets/images/tired-image-5.svg" alt="Time-consuming content creation process">
                         </div>
                         <div class="tired-card-content">
                             <h6>Time-consuming content creation</h6>
@@ -273,7 +272,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-6.svg" alt="">
+                            <img src="../assets/images/tired-image-6.svg" alt="Lack of data analytics and insights">
                         </div>
                         <div class="tired-card-content">
                             <h6>Lack of data-driven insights</h6>
@@ -285,7 +284,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-7.svg" alt="">
+                            <img src="../assets/images/tired-image-7.svg" alt="Keeping up with latest marketing trends">
                         </div>
                         <div class="tired-card-content">
                             <h6>Staying ahead of the latest trends</h6>
@@ -295,7 +294,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-8.svg" alt="">
+                            <img src="../assets/images/tired-image-8.svg" alt="Managing multiple social media platforms">
                         </div>
                         <div class="tired-card-content">
                             <h6>Managing multiple platforms</h6>
@@ -305,7 +304,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-9.svg" alt="">
+                            <img src="../assets/images/tired-image-9.svg" alt="Handling negative comments and online trolls">
                         </div>
                         <div class="tired-card-content">
                             <h6>Dealing with negative comments and online trolls</h6>
@@ -323,7 +322,7 @@ include_once("includes/head.php");
                     <div class="our-seo-content text-center">
                         <h2>What Our SSM Services Include?</h2>
                         <p>
-                        We're dedicated to creating a sustainable future for your brand online, working<br> collaboratively to achieve and exceed your objectives.
+                            We're dedicated to creating a sustainable future for your brand online, working<br> collaboratively to achieve and exceed your objectives.
                         </p>
                     </div>
                 </div>
@@ -370,12 +369,12 @@ include_once("includes/head.php");
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-            <img src="../assets/images/cli-seo-image.webp" alt="">
+        <img src="../assets/images/cli-seo-image.webp" alt="Social Media Marketing strategy and performance analytics">
         </div>
         <div class="cli-seo-content">
             <p>
-            As a creative professional myself, I'm always impressed by Tabsoft Marketing's innovative and out-of-the-box thinking. They don't just follow trends; they set them. Their campaigns are visually stunning, engaging, and perfectly aligned with our brand identity.
-            David Rodrigue,<span> CEO of CreativeSpark Studios.</span> <i class="bi bi-star-fill"></i>
+                As a creative professional myself, I'm always impressed by Tabsoft Marketing's innovative and out-of-the-box thinking. They don't just follow trends; they set them. Their campaigns are visually stunning, engaging, and perfectly aligned with our brand identity.
+                David Rodrigue,<span> CEO of CreativeSpark Studios.</span> <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -401,10 +400,10 @@ include_once("includes/head.php");
                     <div class="vertical-slider-month">
                         <h2>Social Media Marketing Services Process</h2>
                         <p>
-                        In today's digital landscape, your social media presence is your storefront. Imagine a physical store with boarded-up windows and dusty shelves – that's what a neglected social media presence looks like to potential customers. It doesn't inspire confidence, build trust, or attract new business. In fact, it can raise red flags about your legitimacy.
+                            In today's digital landscape, your social media presence is your storefront. Imagine a physical store with boarded-up windows and dusty shelves – that's what a neglected social media presence looks like to potential customers. It doesn't inspire confidence, build trust, or attract new business. In fact, it can raise red flags about your legitimacy.
                         </p>
                         <p>
-                        Modern consumers research brands online before they buy. This almost always includes a quick scan of your social media profiles. If they find outdated information, inconsistent branding, or simply nothing at all, they're likely to move on to a competitor. We'll create engaging content that resonates with your target audience. Contact us today for a free social media audit and discover how we can transform your social media into a powerful business asset.
+                            Modern consumers research brands online before they buy. This almost always includes a quick scan of your social media profiles. If they find outdated information, inconsistent branding, or simply nothing at all, they're likely to move on to a competitor. We'll create engaging content that resonates with your target audience. Contact us today for a free social media audit and discover how we can transform your social media into a powerful business asset.
                         </p>
                         <!-- <div class="highlight">
                             <p>
@@ -490,7 +489,8 @@ include_once("includes/head.php");
             </section>
         </div>
     </section>
-    <?php $headingTexts = "Get Started Now And Unlock Your<br> Social Media Potential"; include_once("call-to-action-global.php") ?>   
+    <?php $headingTexts = "Get Started Now And Unlock Your<br> Social Media Potential";
+    include_once("call-to-action-global.php") ?>
     <section id="unrivaled">
         <div class="container">
             <div class="unrivaled-heading text-center">
@@ -502,7 +502,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/smm-form.gif" alt="" style="width: 80%;">
+                    <img src="../assets/images/smm-form.gif" alt="Social media marketing form animation" style="width: 80%;">
                     </div>
 
                 </div>
@@ -577,15 +577,15 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft Marketing completely revamped our social media strategy. Their content is engaging, and their team is incredibly responsive. We've seen a significant increase in engagement and leads since partnering with them."
+                                "Tabsoft Marketing completely revamped our social media strategy. Their content is engaging, and their team is incredibly responsive. We've seen a significant increase in engagement and leads since partnering with them."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                <img src="../assets/images/testi-image-1.jpg" alt="Client testimonial image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    John Smith
+                                        John Smith
                                         <br>
                                         Marketing Director, Acme Corp
                                     </p>
@@ -597,15 +597,15 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "As a small business owner, I didn't have the time or expertise to manage my social media effectively. Tabsoft Marketing took the reins and transformed our online presence. I highly recommend their services."
+                                "As a small business owner, I didn't have the time or expertise to manage my social media effectively. Tabsoft Marketing took the reins and transformed our online presence. I highly recommend their services."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                <img src="../assets/images/testi-image-2.png" alt="Client testimonial image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Sarah Jones
+                                        Sarah Jones
                                         <br>
                                         Owner, The Cozy Cafe
                                     </p>
@@ -617,15 +617,15 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "We needed a social media campaign that would generate buzz for our new product launch. Tabsoft Marketing delivered beyond our expectations. Their creative approach and strategic execution resulted in a highly successful campaign."
+                                "We needed a social media campaign that would generate buzz for our new product launch. Tabsoft Marketing delivered beyond our expectations. Their creative approach and strategic execution resulted in a highly successful campaign."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                <img src="../assets/images/testi-image-3.jpeg" alt="Client testimonial image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    David Lee
+                                        David Lee
                                         <br>
                                         Product Manager, Tech Solutions Inc.
                                     </p>
@@ -638,15 +638,15 @@ include_once("includes/head.php");
                             <p class="test-p">
 
 
-                            "Tabsoft Marketing has been instrumental in helping us build a strong brand identity on social media. Their team is professional, knowledgeable, and genuinely invested in our success."
+                                "Tabsoft Marketing has been instrumental in helping us build a strong brand identity on social media. Their team is professional, knowledgeable, and genuinely invested in our success."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Maria Garcia
+                                        Maria Garcia
                                         <br>
                                         Communications Manager, Global Enterprises
                                     </p>
@@ -674,7 +674,7 @@ include_once("includes/head.php");
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        We specialize in all major platforms, including Facebook, Instagram, Twitter/X, LinkedIn, TikTok, and Pinterest. We tailor our strategies to the platforms most relevant to your target audience.
+                            We specialize in all major platforms, including Facebook, Instagram, Twitter/X, LinkedIn, TikTok, and Pinterest. We tailor our strategies to the platforms most relevant to your target audience.
                         </div>
                     </div>
                 </div>
@@ -688,7 +688,7 @@ include_once("includes/head.php");
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        We track key metrics such as engagement (likes, comments, shares), reach, website traffic, lead generation, and conversions. We provide regular reports to keep you informed of our progress.
+                            We track key metrics such as engagement (likes, comments, shares), reach, website traffic, lead generation, and conversions. We provide regular reports to keep you informed of our progress.
                         </div>
                     </div>
                 </div>
@@ -702,7 +702,7 @@ include_once("includes/head.php");
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Our services typically include strategy development, content creation (including copywriting, graphic design, and video production), community management, social media advertising, and performance reporting. We offer customizable packages to meet your specific needs.
+                            Our services typically include strategy development, content creation (including copywriting, graphic design, and video production), community management, social media advertising, and performance reporting. We offer customizable packages to meet your specific needs.
                         </div>
                     </div>
                 </div>
@@ -716,7 +716,7 @@ include_once("includes/head.php");
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Our pricing varies depending on the scope of work and the specific services required. We offer customized packages to fit different budgets. Contact us for a free consultation and personalized quote.
+                            Our pricing varies depending on the scope of work and the specific services required. We offer customized packages to fit different budgets. Contact us for a free consultation and personalized quote.
                         </div>
                     </div>
                 </div>
@@ -730,7 +730,7 @@ include_once("includes/head.php");
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Simply contact us through our website, email, or phone. We'll schedule a consultation to discuss your goals and how we can help you achieve them.
+                            Simply contact us through our website, email, or phone. We'll schedule a consultation to discuss your goals and how we can help you achieve them.
                         </div>
                     </div>
                 </div>
@@ -739,7 +739,8 @@ include_once("includes/head.php");
         </div>
     </section>
 
-    <?php $headingText = "Market Your Business on Social<br> Media with Tabsoft"; include_once("includes/footer.php") ?>
+    <?php $headingText = "Market Your Business on Social<br> Media with Tabsoft";
+    include_once("includes/footer.php") ?>
 
 
 

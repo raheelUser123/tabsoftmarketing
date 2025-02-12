@@ -35,7 +35,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/technical-seo-fast.gif" alt="" style="width: 90% !important;">
+                        <img src="../assets/images/technical-seo-fast.gif" alt="Technical SEO optimization in progress" style="width: 90% !important;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -77,7 +77,7 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-6">
                     <div class="reach-top-image-wrapper technical-wrapper">
-                        <img src="../assets/images/technical-crawler-image.webp" alt="">
+                        <img src="../assets/images/technical-crawler-image.webp" alt="Technical SEO crawler analyzing website data">
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-1.svg" alt="">
+                            <img src="../assets/images/tired-image-1.svg" alt="Competitive lagging icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>You’re lagging behind the competition.</h6>
@@ -106,7 +106,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-2.svg" alt="">
+                            <img src="../assets/images/tired-image-2.svg" alt="Limited resources icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>You have limited resources.</h6>
@@ -116,7 +116,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-3.svg" alt="">
+                            <img src="../assets/images/tired-image-3.svg" alt="Organic traffic decline icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Your website’s organic traffic isn’t increasing.</h6>
@@ -128,7 +128,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-4.svg" alt="">
+                            <img src="../assets/images/tired-image-4.svg" alt="In-house SEO challenge icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Building an in-house SEO team isn’t feasible.</h6>
@@ -138,7 +138,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-5.svg" alt="">
+                            <img src="../assets/images/tired-image-5.svg" alt="Slow page speed icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Slow page loading speed </h6>
@@ -148,7 +148,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-6.svg" alt="">
+                            <img src="../assets/images/tired-image-6.svg" alt="Faulty redirects icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Facing Faulty redirects </h6>
@@ -160,7 +160,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-7.svg" alt="">
+                            <img src="../assets/images/tired-image-7.svg" alt="Unsatisfactory agency results icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Previous agencies delivered unsatisfactory results.</h6>
@@ -170,7 +170,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-8.svg" alt="">
+                            <img src="../assets/images/tired-image-8.svg" alt="Unclear past SEO expenses icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>You aren’t sure of what you paid for in the past.</h6>
@@ -180,7 +180,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-9.svg" alt="">
+                            <img src="../assets/images/tired-image-9.svg" alt="Mobile-unfriendly design icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Mobile-unfriendly design</h6>
@@ -246,7 +246,7 @@ include_once("includes/head.php");
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-            <img src="../assets/images/cli-seo-image.webp" alt="">
+            <img src="../assets/images/cli-seo-image.webp" alt="Client SEO strategy visualization">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -391,7 +391,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/technical-seo-services-form.webp" alt="" style="width: 100%;">
+                        <img src="../assets/images/technical-seo-services-form.webp" alt="Technical SEO services inquiry form" style="width: 100%;">
                     </div>
 
                 </div>
@@ -458,7 +458,7 @@ include_once("includes/head.php");
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-         <h2>What Clients Say About Us </h2>
+                <h2>What Clients Say About Us </h2>
             </div>
             <div class="row">
                 <div class="test-slider">
@@ -469,7 +469,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Client testimonial image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -489,7 +489,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                    <img src="../assets/images/testi-image-2.png" alt="Client testimonial image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -508,7 +508,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Client testimonial image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -527,7 +527,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -594,8 +594,8 @@ include_once("includes/head.php");
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                       
-Hiring a technical SEO agency can be beneficial if you're facing issues with site speed, mobile optimization, or crawlability and lack the expertise or time to address them yourself.
+
+                            Hiring a technical SEO agency can be beneficial if you're facing issues with site speed, mobile optimization, or crawlability and lack the expertise or time to address them yourself.
                         </div>
                     </div>
                 </div>
@@ -610,7 +610,7 @@ Hiring a technical SEO agency can be beneficial if you're facing issues with sit
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        The cost of technical SEO agencies typically ranges from $500 to $5,000 or more per month, depending on the complexity of the services, the agency's reputation, and the size of your website.
+                            The cost of technical SEO agencies typically ranges from $500 to $5,000 or more per month, depending on the complexity of the services, the agency's reputation, and the size of your website.
                         </div>
                     </div>
                 </div>
@@ -619,7 +619,8 @@ Hiring a technical SEO agency can be beneficial if you're facing issues with sit
         </div>
     </section>
 
-    <?php $headingText = "Don’t Let Technical SEO Challenges <br> Hinder Your Brand’s Growth."; include_once("includes/footer.php") ?>
+    <?php $headingText = "Don’t Let Technical SEO Challenges <br> Hinder Your Brand’s Growth.";
+    include_once("includes/footer.php") ?>
 
 
 

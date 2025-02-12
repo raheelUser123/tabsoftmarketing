@@ -35,7 +35,7 @@ include_once("includes/head.php");
                 <div class="col-lg-3">
                     <div class="ads-card">
                         <div class="ad-image-wrapper">
-                            <img src="../assets/images/amazon-marketing-partner-logo.jpg" alt="">
+                            <img src="../assets/images/amazon-marketing-partner-logo.jpg" alt="Amazon Marketing Partner Logo">
                         </div>
                         <div class="ads-content">
                             <p>AWS Partner</p>
@@ -80,7 +80,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/amzon-specialist-image.gif" alt="">
+                        <img src="../assets/images/amzon-specialist-image.gif" alt="Amazon Specialist Animation">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -111,74 +111,72 @@ include_once("includes/head.php");
                     <div class="slider-wrapper">
                         <!-- First Slider (Left Moving) -->
                         <div class="slider moving-left">
-                            <div><img src="../assets/images/amz-slider-image-1.png" alt="Slide 1"></div>
-                            <div><img src="../assets/images/amz-slider-image-2.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-3.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-4.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-5.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-6.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-7.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-8.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-9.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-10.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-11.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-12.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-13.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-14.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-15.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-16.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-17.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-18.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-19.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-20.png" alt="Slide 2"></div>
+                            <div><img src="../assets/images/amz-slider-image-1.png" alt="Amazon product listing optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-2.png" alt="Amazon PPC campaign management"></div>
+                            <div><img src="../assets/images/amz-slider-image-3.png" alt="Amazon keyword research service"></div>
+                            <div><img src="../assets/images/amz-slider-image-4.png" alt="Amazon SEO services for ranking"></div>
+                            <div><img src="../assets/images/amz-slider-image-5.png" alt="Amazon A+ content creation"></div>
+                            <div><img src="../assets/images/amz-slider-image-6.png" alt="Amazon sponsored ads management"></div>
+                            <div><img src="../assets/images/amz-slider-image-7.png" alt="Amazon sales strategy"></div>
+                            <div><img src="../assets/images/amz-slider-image-8.png" alt="Amazon inventory management"></div>
+                            <div><img src="../assets/images/amz-slider-image-9.png" alt="Amazon product launch services"></div>
+                            <div><img src="../assets/images/amz-slider-image-10.png" alt="Amazon account health management"></div>
+                            <div><img src="../assets/images/amz-slider-image-11.png" alt="Amazon product review strategy"></div>
+                            <div><img src="../assets/images/amz-slider-image-12.png" alt="Amazon conversion rate optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-13.png" alt="Amazon brand registry assistance"></div>
+                            <div><img src="../assets/images/amz-slider-image-14.png" alt="Amazon storefront design services"></div>
+                            <div><img src="../assets/images/amz-slider-image-15.png" alt="Amazon FBA shipment management"></div>
+                            <div><img src="../assets/images/amz-slider-image-16.png" alt="Amazon competitor analysis"></div>
+                            <div><img src="../assets/images/amz-slider-image-17.png" alt="Amazon customer engagement strategy"></div>
+                            <div><img src="../assets/images/amz-slider-image-18.png" alt="Amazon advertising campaign optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-19.png" alt="Amazon data analytics for sellers"></div>
+                            <div><img src="../assets/images/amz-slider-image-20.png" alt="Amazon product image optimization"></div>
                         </div>
-
                         <!-- Second Slider (Right Moving) -->
                         <div class="slider moving-right">
-                            <div><img src="../assets/images/amz-slider-image-21.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-22.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-23.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-24.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-25.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-26.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-27.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-28.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-29.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-30.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-31.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-32.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-33.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-34.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-35.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-36.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-37.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-38.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-39.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-40.png" alt="Slide 2"></div>
+                            <div><img src="../assets/images/amz-slider-image-21.png" alt="Amazon product ranking strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-22.png" alt="Amazon PPC automation tools"></div>
+                            <div><img src="../assets/images/amz-slider-image-23.png" alt="Amazon listing enhancement services"></div>
+                            <div><img src="../assets/images/amz-slider-image-24.png" alt="Amazon best seller strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-25.png" alt="Amazon marketing optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-26.png" alt="Amazon customer review management"></div>
+                            <div><img src="../assets/images/amz-slider-image-27.png" alt="Amazon pricing optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-28.png" alt="Amazon ads performance tracking"></div>
+                            <div><img src="../assets/images/amz-slider-image-29.png" alt="Amazon seller account management"></div>
+                            <div><img src="../assets/images/amz-slider-image-30.png" alt="Amazon keyword ranking improvement"></div>
+                            <div><img src="../assets/images/amz-slider-image-31.png" alt="Amazon competitor tracking solutions"></div>
+                            <div><img src="../assets/images/amz-slider-image-32.png" alt="Amazon analytics and insights"></div>
+                            <div><img src="../assets/images/amz-slider-image-33.png" alt="Amazon FBA inventory solutions"></div>
+                            <div><img src="../assets/images/amz-slider-image-34.png" alt="Amazon storefront branding"></div>
+                            <div><img src="../assets/images/amz-slider-image-35.png" alt="Amazon product launch strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-36.png" alt="Amazon listing audit services"></div>
+                            <div><img src="../assets/images/amz-slider-image-37.png" alt="Amazon conversion rate optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-38.png" alt="Amazon A/B testing for ads"></div>
+                            <div><img src="../assets/images/amz-slider-image-39.png" alt="Amazon category ranking boost"></div>
+                            <div><img src="../assets/images/amz-slider-image-40.png" alt="Amazon organic traffic strategies"></div>
                         </div>
-
                         <!-- Third Slider (Left Moving) -->
                         <div class="slider moving-left">
-                            <div><img src="../assets/images/amz-slider-image-41.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-42.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-43.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-44.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-45.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-46.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-47.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-48.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-49.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-50.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-51.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-52.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-53.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-54.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-55.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-56.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-57.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-58.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-59.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-60.png" alt="Slide 2"></div>
+                            <div><img src="../assets/images/amz-slider-image-41.png" alt="Amazon Sponsored Ads example"></div>
+                            <div><img src="../assets/images/amz-slider-image-42.png" alt="Amazon product research insights"></div>
+                            <div><img src="../assets/images/amz-slider-image-43.png" alt="Amazon A+ content optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-44.png" alt="Amazon FBA logistics and management"></div>
+                            <div><img src="../assets/images/amz-slider-image-45.png" alt="Amazon storefront UI design"></div>
+                            <div><img src="../assets/images/amz-slider-image-46.png" alt="Amazon brand registry benefits"></div>
+                            <div><img src="../assets/images/amz-slider-image-47.png" alt="Amazon influencer marketing strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-48.png" alt="Amazon SEO keyword strategy"></div>
+                            <div><img src="../assets/images/amz-slider-image-49.png" alt="Amazon order fulfillment process"></div>
+                            <div><img src="../assets/images/amz-slider-image-50.png" alt="Amazon advertising cost analysis"></div>
+                            <div><img src="../assets/images/amz-slider-image-51.png" alt="Amazon product image optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-52.png" alt="Amazon buy box winning techniques"></div>
+                            <div><img src="../assets/images/amz-slider-image-53.png" alt="Amazon dropshipping model explained"></div>
+                            <div><img src="../assets/images/amz-slider-image-54.png" alt="Amazon analytics dashboard preview"></div>
+                            <div><img src="../assets/images/amz-slider-image-55.png" alt="Amazon customer engagement strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-56.png" alt="Amazon conversion funnel optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-57.png" alt="Amazon product launch success stories"></div>
+                            <div><img src="../assets/images/amz-slider-image-58.png" alt="Amazon refund and return policies"></div>
+                            <div><img src="../assets/images/amz-slider-image-59.png" alt="Amazon PPC performance tracking"></div>
+                            <div><img src="../assets/images/amz-slider-image-60.png" alt="Amazon multi-channel fulfillment options"></div>
                         </div>
                     </div>
 
@@ -201,8 +199,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper amazon-wrapper" style="    top: 0px;">
-                        <img src="../assets/images/amzon-reach-top.gif" alt="">
+                    <div class="reach-top-image-wrapper amazon-wrapper" style="top: 0px;">
+                        <img src="../assets/images/amzon-reach-top.gif" alt="Amazon top ranking strategies GIF">
                     </div>
                 </div>
             </div>
@@ -221,7 +219,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-1.svg" alt="">
+                            <img src="../assets/images/tired-image-1.svg" alt="High Competition Issue Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Issue of High Competition</h6>
@@ -231,7 +229,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-2.svg" alt="">
+                            <img src="../assets/images/tired-image-2.svg" alt="Low Visibility & Organic Ranking Issues Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Low Visibility & Organic Ranking Issues</h6>
@@ -241,7 +239,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-3.svg" alt="">
+                            <img src="../assets/images/tired-image-3.svg" alt="Price Wars & Undercutting Issue Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Facing Price Wars & Undercutting</h6>
@@ -249,11 +247,12 @@ include_once("includes/head.php");
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-4.svg" alt="">
+                            <img src="../assets/images/tired-image-4.svg" alt="Managing Inventory & Fulfillment Issues Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Tired of facing Managing Inventory & Fulfillment Issues</h6>
@@ -263,7 +262,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-5.svg" alt="">
+                            <img src="../assets/images/tired-image-5.svg" alt="Negative Reviews & Customer Complaints Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Negative Reviews & Customer Complaints</h6>
@@ -273,7 +272,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-6.svg" alt="">
+                            <img src="../assets/images/tired-image-6.svg" alt="Account Suspension & Policy Violations Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Account Suspension & Policy Violations</h6>
@@ -281,11 +280,12 @@ include_once("includes/head.php");
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-7.svg" alt="">
+                            <img src="../assets/images/tired-image-7.svg" alt="Understanding Algorithm Changes Issue Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Lack of Understanding of Algorithm Changes</h6>
@@ -295,17 +295,17 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-8.svg" alt="">
+                            <img src="../assets/images/tired-image-8.svg" alt="Product Hunting & Listing Issue Icon">
                         </div>
                         <div class="tired-card-content">
-                            <h6>Issue in Hunting & Listing product </h6>
+                            <h6>Issue in Hunting & Listing product</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-9.svg" alt="">
+                            <img src="../assets/images/tired-image-9.svg" alt="Lack of Expertise Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Lack of Expertise</h6>
@@ -373,7 +373,7 @@ include_once("includes/head.php");
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-            <img src="../assets/images/cli-seo-image.webp" alt="">
+        <img src="../assets/images/cli-seo-image.webp" alt="Amazon marketing strategy and SEO optimization">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -501,7 +501,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/amazon-marketing-form.svg" alt="" style="width: 70%;">
+                    <img src="../assets/images/amazon-marketing-form.svg" alt="Amazon Marketing Form Design" style="width: 70%;">
                     </div>
 
                 </div>
@@ -582,7 +582,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial Image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -604,7 +604,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                <img src="../assets/images/testi-image-2.png" alt="Client Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -625,7 +625,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                <img src="../assets/images/testi-image-3.jpeg" alt="Client Testimonial Image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -646,7 +646,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial Image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>

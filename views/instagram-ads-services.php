@@ -13,13 +13,13 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="service-first-image-wrapper">
-                        <img src="../assets/images/instagram-hero-image.webp" alt="">
+                        <img src="../assets/images/instagram-hero-image.webp" alt="Instagram Ads services for targeted campaigns">
                     </div>
                     <h1>
-                    Instagram Ad Management 
+                        Instagram Ad Management
                     </h1>
                     <p>
-                    For any kind of business, we work hand-in-hand with our clients to supercharge their Instagram ads and take their digital marketing to the next level.
+                        For any kind of business, we work hand-in-hand with our clients to supercharge their Instagram ads and take their digital marketing to the next level.
                         <!-- <b>
                             elevate their digital marketing strategies with impactful Instagram ads.
                         </b> -->
@@ -43,7 +43,7 @@ include_once("includes/head.php");
                     <div class="build-your-fb-cards">
                         <h3><span>Custom Creativity</span></h3>
                         <p>
-                        We design Instagram ads that match your brand’s vibe and speak directly to your audience, making every scroll worth stopping.
+                            We design Instagram ads that match your brand’s vibe and speak directly to your audience, making every scroll worth stopping.
                         </p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ include_once("includes/head.php");
                     <div class="build-your-fb-cards">
                         <h3><span>Precise Targeting</span></h3>
                         <p>
-                        We find the perfect audience for your ads using advanced targeting tools, turning views into likes, follows, and real growth.
+                            We find the perfect audience for your ads using advanced targeting tools, turning views into likes, follows, and real growth.
                         </p>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ include_once("includes/head.php");
                     <div class="build-your-fb-cards">
                         <h3><span>Data-Driven Results</span></h3>
                         <p>
-                        Our experts analyze every campaign, learning what works best for your business and fine-tuning ads for even better results.
+                            Our experts analyze every campaign, learning what works best for your business and fine-tuning ads for even better results.
                         </p>
                     </div>
                 </div>
@@ -74,83 +74,77 @@ include_once("includes/head.php");
                 </h2>
             </div>
             <div class="row">
-                <div class="col-lg-4 ">
+                <div class="col-lg-4">
                     <div class="get-the-most-cards">
                         <div class="get-most-image-wrapper">
-                            <img src="../assets/images/get-most-card-image-1.webp" alt="">
+                            <img src="../assets/images/get-most-card-image-1.webp" alt="Strategic planning for Instagram Ads">
                         </div>
                         <div class="get-most-content">
                             <h3>Strategic Planning</h3>
                             <p>
-                            We start by crafting a game plan tailored to your brand, ensuring every ad is on point and aligned with your goals.
+                                We start by crafting a game plan tailored to your brand, ensuring every ad is on point and aligned with your goals.
                             </p>
                         </div>
                     </div>
                     <div class="get-the-most-cards">
                         <div class="get-most-image-wrapper">
-                            <img src="../assets/images/get-most-card-image-2.webp" alt="">
+                            <img src="../assets/images/get-most-card-image-2.webp" alt="Targeting the right audience for Instagram Ads">
                         </div>
                         <div class="get-most-content">
                             <h3>Targeted Reach</h3>
                             <p>
-                            Using innovative tools, we pinpoint the perfect audience for your ads, ensuring they reach the people who matter most.
+                                Using innovative tools, we pinpoint the perfect audience for your ads, ensuring they reach the people who matter most.
                             </p>
                         </div>
                     </div>
                     <div class="get-the-most-cards">
                         <div class="get-most-image-wrapper">
-                            <img src="../assets/images/get-most-card-image-3.webp" alt="">
+                            <img src="../assets/images/get-most-card-image-3.webp" alt="Eye-catching Instagram Ads creatives">
                         </div>
                         <div class="get-most-content">
                             <h3>Eye-Catching Creatives</h3>
                             <p>
-                            Our design experts create visually stunning ads that stand out in the feed, grabbing attention and sparking interest.
+                                Our design experts create visually stunning ads that stand out in the feed, grabbing attention and sparking interest.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 get-image-col">
                     <div class="get-most-image-wrapper-center instagram-phone-wrapper">
-                        <img src="../assets/images/instagram-ads-services-phone.png" alt="">
+                        <img src="../assets/images/instagram-ads-services-phone.png" alt="Instagram Ads on mobile phone">
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="get-most-card-2">
                         <div class="get-most-image-wrapper-2">
-                            <img src="../assets/images/get-most-card-image-4.webp" alt="">
+                            <img src="../assets/images/get-most-card-image-4.webp" alt="Compelling copywriting for Instagram Ads">
                         </div>
                         <div class="get-most-content-2">
-                            <h3>
-                            Compelling Copywriting
-                            </h3>
+                            <h3>Compelling Copywriting</h3>
                             <p>
-                            We write copy that speaks your brand’s language, turning casual scrollers into engaged followers with every word.
+                                We write copy that speaks your brand’s language, turning casual scrollers into engaged followers with every word.
                             </p>
                         </div>
                     </div>
                     <div class="get-most-card-2">
                         <div class="get-most-image-wrapper-2">
-                            <img src="../assets/images/get-most-card-image-5.webp" alt="">
+                            <img src="../assets/images/get-most-card-image-5.webp" alt="Real-time optimization for Instagram Ads">
                         </div>
                         <div class="get-most-content-2">
-                            <h3>
-                            Real-Time Optimization
-                            </h3>
+                            <h3>Real-Time Optimization</h3>
                             <p>
-                            We continuously track ad performance, tweaking strategies on the fly to make sure you get the best results possible
+                                We continuously track ad performance, tweaking strategies on the fly to make sure you get the best results possible.
                             </p>
                         </div>
                     </div>
                     <div class="get-most-card-2">
                         <div class="get-most-image-wrapper-2">
-                            <img src="../assets/images/get-most-card-image-6.webp" alt="">
+                            <img src="../assets/images/get-most-card-image-6.webp" alt="In-depth reporting for Instagram Ads performance">
                         </div>
                         <div class="get-most-content-2">
-                            <h3>
-                            In-Depth Reporting
-                            </h3>
+                            <h3>In-Depth Reporting</h3>
                             <p>
-                            We provide clear, insightful reports that show exactly how your ads are performing, helping you measure success and plan ahead.
+                                We provide clear, insightful reports that show exactly how your ads are performing, helping you measure success and plan ahead.
                             </p>
                         </div>
                     </div>
@@ -166,26 +160,26 @@ include_once("includes/head.php");
             </div>
             <div class="row">
                 <div class="youtube-slider">
-                    <div> <img src="../assets/images/youtube-awesome-image-1.webp" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-2.webp" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-3.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-4.webp" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-5.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-6.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-7.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-8.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-9.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-10.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-11.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-12.png" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-13.webp" alt=""></div>
-                    <div> <img src="../assets/images/youtube-awesome-image-14.png" alt=""></div>
+                    <div><img src="../assets/images/youtube-awesome-image-1.webp" alt="YouTube ad campaign strategy 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-2.webp" alt="YouTube ad targeting example 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-3.png" alt="YouTube ad performance analytics 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-4.webp" alt="Creative YouTube ad concept 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-5.png" alt="Engaging YouTube ad content 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-6.png" alt="YouTube ad campaign results 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-7.png" alt="Optimized YouTube ad performance 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-8.png" alt="Targeted YouTube ad audience 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-9.png" alt="YouTube ad engagement strategies 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-10.png" alt="High-impact YouTube ads creative 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-11.png" alt="YouTube ad insights 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-12.png" alt="YouTube ad performance tracking 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-13.webp" alt="Effective YouTube ad targeting 1"></div>
+                    <div><img src="../assets/images/youtube-awesome-image-14.png" alt="Creative YouTube video ads 1"></div>
                 </div>
 
             </div>
         </div>
     </section>
-    
+
     <section id="reach-top-google-bing" class="reach-instagram-top">
         <div class="container-fluid">
             <div class="row">
@@ -194,7 +188,7 @@ include_once("includes/head.php");
                     <h2>Crafted to captivate, our ads connect your brand to the right audience and spark real action.
                     </h2>
                     <p>
-                    We bring your brand’s story to life through captivating ads that truly resonate. Our smart targeting ensures your images, stories, and videos reach the perfect viewers, turning curiosity into action. Our team closely monitors performance, fine-tuning your campaigns to ensure every ad is more impactful than the last. Let us amplify your brand on Instagram, delivering ads that connect, convert, and captivate!
+                        We bring your brand’s story to life through captivating ads that truly resonate. Our smart targeting ensures your images, stories, and videos reach the perfect viewers, turning curiosity into action. Our team closely monitors performance, fine-tuning your campaigns to ensure every ad is more impactful than the last. Let us amplify your brand on Instagram, delivering ads that connect, convert, and captivate!
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
@@ -202,7 +196,7 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-6">
                     <div class="reach-top-image-wrapper instagram-reach-wrapper">
-                        <img src="../assets/images/instagram-ads-services-crafted.gif" alt="">
+                        <img src="../assets/images/instagram-ads-services-crafted.gif" alt="Crafted Instagram ad campaign animation">
                     </div>
                 </div>
             </div>
@@ -213,14 +207,14 @@ include_once("includes/head.php");
             <div class="tried-heading-sec text-center">
                 <h2>Common Challenges You May Face with <span>Instagram Ads</span></h2>
                 <p>
-                If these issues sound familiar, then we’re here to help! Let us take the stress out of Instagram Ads and bring the results you’ve been hoping for.
+                    If these issues sound familiar, then we’re here to help! Let us take the stress out of Instagram Ads and bring the results you’ve been hoping for.
                 </p>
             </div>
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-1.svg" alt="">
+                            <img src="../assets/images/tired-image-1.svg" alt="Spending money on ads that don’t generate valuable returns.">
                         </div>
                         <div class="tired-card-content">
                             <h6>Spending money on ads that don’t generate valuable returns.</h6>
@@ -230,7 +224,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-2.svg" alt="">
+                            <img src="../assets/images/tired-image-2.svg" alt="Ads reach the wrong audience, leading to low conversion rates.">
                         </div>
                         <div class="tired-card-content">
                             <h6>Ads reach the wrong audience, leading to low conversion rates.</h6>
@@ -240,7 +234,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-3.svg" alt="">
+                            <img src="../assets/images/tired-image-3.svg" alt="Not knowing how to interpret data or what changes need to be made for improvement.">
                         </div>
                         <div class="tired-card-content">
                             <h6>Not knowing how to interpret data or what changes need to be made for improvement.</h6>
@@ -248,11 +242,12 @@ include_once("includes/head.php");
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-4.svg" alt="">
+                            <img src="../assets/images/tired-image-4.svg" alt="Waiting too long to see meaningful outcomes from ad campaigns.">
                         </div>
                         <div class="tired-card-content">
                             <h6>Waiting too long to see meaningful outcomes from ad campaigns.</h6>
@@ -262,7 +257,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-5.svg" alt="">
+                            <img src="../assets/images/tired-image-5.svg" alt="Hard to grow ad campaigns as the business expands">
                         </div>
                         <div class="tired-card-content">
                             <h6>Hard to grow ad campaigns as the business expands</h6>
@@ -272,7 +267,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-6.svg" alt="">
+                            <img src="../assets/images/tired-image-6.svg" alt="High views but not enough clicks or sales from ads.">
                         </div>
                         <div class="tired-card-content">
                             <h6>High views but not enough clicks or sales from ads.</h6>
@@ -280,11 +275,12 @@ include_once("includes/head.php");
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-7.svg" alt="">
+                            <img src="../assets/images/tired-image-7.svg" alt="Finding it hard to stay updated with Instagram’s evolving features and algorithms.">
                         </div>
                         <div class="tired-card-content">
                             <h6>Finding it hard to stay updated with Instagram’s evolving features and algorithms.</h6>
@@ -294,7 +290,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-8.svg" alt="">
+                            <img src="../assets/images/tired-image-8.svg" alt="Ads don’t align with the brand’s core identity or message.">
                         </div>
                         <div class="tired-card-content">
                             <h6>Ads don’t align with the brand’s core identity or message.</h6>
@@ -304,7 +300,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-9.svg" alt="">
+                            <img src="../assets/images/tired-image-9.svg" alt="Ads fail to capitalize on trending topics or relevant moments.">
                         </div>
                         <div class="tired-card-content">
                             <h6>Ads fail to capitalize on trending topics or relevant moments.</h6>
@@ -321,7 +317,7 @@ include_once("includes/head.php");
                     <div class="our-seo-content text-center">
                         <h2>Our Comprehensive Instagram Ad Management Services</h2>
                         <p>
-                        Our services cover everything, and we focus on optimizing every aspect of your Instagram ads to drive measurable results and continuous growth.
+                            Our services cover everything, and we focus on optimizing every aspect of your Instagram ads to drive measurable results and continuous growth.
                         </p>
                     </div>
                 </div>
@@ -363,12 +359,12 @@ include_once("includes/head.php");
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-            <img src="../assets/images/cli-seo-image.webp" alt="">
+        <img src="../assets/images/cli-seo-image.webp" alt="Instagram ads services strategy for maximizing brand engagement and audience reach">
         </div>
         <div class="cli-seo-content">
             <p>
-            Their approach to Instagram ad management is nothing short of brilliant, a top-notch team for anyone looking to grow their brand on social media."
-            Alex H,<span>  Digital Marketing Expert</span> <i class="bi bi-star-fill"></i>
+                Their approach to Instagram ad management is nothing short of brilliant, a top-notch team for anyone looking to grow their brand on social media."
+                Alex H,<span> Digital Marketing Expert</span> <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -394,7 +390,7 @@ include_once("includes/head.php");
                     <div class="vertical-slider-month">
                         <h2>Our Instagram Ad Management Process</h2>
                         <p>
-                        At the heart of our work is a simple yet effective process designed to bring your brand’s vision to life. From understanding your goals to fine-tuning every detail, we ensure every step is crafted to deliver actual results. Here's how we make it happen:
+                            At the heart of our work is a simple yet effective process designed to bring your brand’s vision to life. From understanding your goals to fine-tuning every detail, we ensure every step is crafted to deliver actual results. Here's how we make it happen:
                         </p>
                         <!-- <p>
                             At least 50% of SEO success is derived from having an effective off-page strategy (linkbuilding) and targeting the most suitable keywords. Whilst bad onsite optimisation can seriously hinder the site’s rankings, there is not much room for further gain if the site is already well optimised. In contrast, with the off-site strategy, you can always have more and better quality backlinks and it will almost always continue to improve your site’s relative rank!
@@ -409,35 +405,35 @@ include_once("includes/head.php");
                         <h6><span>Step 1</span></h6>
                         <h2>Discover & Align</h2>
                         <p>
-                        We start by understanding your brand’s unique voice, goals, and audience. This helps us create a clear plan that matches your vision.
+                            We start by understanding your brand’s unique voice, goals, and audience. This helps us create a clear plan that matches your vision.
                         </p>
                     </div>
                     <div class="vertical-slider-month">
                         <h6><span>Step 2</span></h6>
                         <h2>Strategy & Design</h2>
                         <p>
-                        With your brand at the center, we design custom ads that speak directly to your target audience, making sure they stand out and grab attention.
+                            With your brand at the center, we design custom ads that speak directly to your target audience, making sure they stand out and grab attention.
                         </p>
                     </div>
                     <div class="vertical-slider-month">
                         <h6><span>Step 3</span></h6>
                         <h2> Launch & Monitor</h2>
                         <p>
-                        We roll out your ads and keep a close eye on performance, ensuring everything is running smoothly and driving engagement from day one.
+                            We roll out your ads and keep a close eye on performance, ensuring everything is running smoothly and driving engagement from day one.
                         </p>
                     </div>
                     <div class="vertical-slider-month">
                         <h6><span>Step 4</span></h6>
                         <h2>Optimize & Refine</h2>
                         <p>
-                        We don’t stop there. We tweak and optimize based on real-time results, fine-tuning every detail for maximum impact.
+                            We don’t stop there. We tweak and optimize based on real-time results, fine-tuning every detail for maximum impact.
                         </p>
                     </div>
                     <div class="vertical-slider-month">
                         <h6><span>Step 5</span></h6>
                         <h2> Analyze & Report</h2>
                         <p>
-                        Once your campaign has run, we deliver easy-to-understand reports, breaking down performance and offering insights for future growth.
+                            Once your campaign has run, we deliver easy-to-understand reports, breaking down performance and offering insights for future growth.
                         </p>
                     </div>
                 </div>
@@ -445,19 +441,19 @@ include_once("includes/head.php");
         </div>
     </section>
     <?php $headingTexts = "Step Into A New Level Of <br>Impact With Instagram Ads";
-    include_once("call-to-action-global.php") ?> 
+    include_once("call-to-action-global.php") ?>
     <section id="unrivaled">
         <div class="container">
             <div class="unrivaled-heading text-center">
                 <h2>Premium Solutions <br>
-                Top-Tier Results</h2>
+                    Top-Tier Results</h2>
                 Team up with us to give your business the edge it needs.</p>
 
             </div>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/services-instagram.webp" alt="" style="width: 100% !important;">
+                    <img src="../assets/images/services-instagram.webp" alt="Comprehensive Instagram ads services for boosting brand visibility and driving conversions" style="width: 100% !important;">
                     </div>
 
                 </div>
@@ -466,7 +462,7 @@ include_once("includes/head.php");
                         <div class="form-heading text-center">
                             <h3>Become Our Partner<br> for Success</h3>
                             <p>
-                            Contact us today for a free proposal!</p>
+                                Contact us today for a free proposal!</p>
                         </div>
                         <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
                             <fieldset>
@@ -509,7 +505,7 @@ include_once("includes/head.php");
                                 </div>
                             </fieldset>
 
-                            <input type="hidden" name="route" value="instagram-ads-services/"/>
+                            <input type="hidden" name="route" value="instagram-ads-services/" />
                             <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
@@ -522,26 +518,26 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    
+
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-         <h2>What Clients Say About Us </h2>
+                <h2>What Clients Say About Us </h2>
             </div>
             <div class="row">
                 <div class="test-slider">
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Working with this team has been a game-changer for our brand! The Instagram ads they<br> created for us brought in so much more engagement and traffic. Highly recommend!"
+                                "Working with this team has been a game-changer for our brand! The Instagram ads they<br> created for us brought in so much more engagement and traffic. Highly recommend!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                <img src="../assets/images/testi-image-1.jpg" alt="Customer testimonial showcasing satisfaction with Instagram ads services">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Jon Jane 
+                                        Jon Jane
                                         <br>
                                         Founder of FitGlow Apparel
                                     </p>
@@ -553,15 +549,15 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "We saw immediate results after partnering with them. Their attention to detail and creative<br> approach made all the difference in our ad campaigns!"
+                                "We saw immediate results after partnering with them. Their attention to detail and creative<br> approach made all the difference in our ad campaigns!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                <img src="../assets/images/testi-image-2.png" alt="Satisfied customer testimonial">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Mike Laura
+                                        Mike Laura
                                         <br>
                                         CEO of TechNova Solutions
                                     </p>
@@ -573,15 +569,15 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "They didn’t just manage our ads; they transformed how we reach our audience. Our<br> Instagram strategy is stronger than ever!"
+                                "They didn’t just manage our ads; they transformed how we reach our audience. Our<br> Instagram strategy is stronger than ever!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                <img src="../assets/images/testi-image-3.jpeg" alt="Happy client feedback">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Emma Reputation
+                                        Emma Reputation
                                         <br>
                                         Marketing Director at LuxeBeauty
                                     </p>
@@ -594,15 +590,15 @@ include_once("includes/head.php");
                             <p class="test-p">
 
 
-                            "From start to finish, the team was professional and responsive. They understood our goals<br> and delivered ads that truly spoke to our customers."
+                                "From start to finish, the team was professional and responsive. They understood our goals<br> and delivered ads that truly spoke to our customers."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                <img src="../assets/images/testi-image-4.jpeg" alt="Satisfied customer review">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    James Tower
+                                        James Tower
                                         <br>
                                         Owner of EcoVibe Clothing
                                     </p>
@@ -623,13 +619,13 @@ include_once("includes/head.php");
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        How do you determine the best audience for my Instagram ads?
+                            How do you determine the best audience for my Instagram ads?
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p>
-                            We use advanced targeting tools to analyze your brand, audience demographics, and behaviors to pinpoint the most relevant people who will engage with your ads.
+                                We use advanced targeting tools to analyze your brand, audience demographics, and behaviors to pinpoint the most relevant people who will engage with your ads.
                             </p>
                         </div>
                     </div>
@@ -637,13 +633,13 @@ include_once("includes/head.php");
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        How long does it take to see results from Instagram ads?
+                            How long does it take to see results from Instagram ads?
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p>
-                            While results can vary, most clients start to see noticeable engagement and performance improvements within a few weeks of launching their campaigns.
+                                While results can vary, most clients start to see noticeable engagement and performance improvements within a few weeks of launching their campaigns.
                             </p>
                         </div>
                     </div>
@@ -651,13 +647,13 @@ include_once("includes/head.php");
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        What kind of content do you create for Instagram ads?
+                            What kind of content do you create for Instagram ads?
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <p>
-                            We design visually striking and on-brand content, including static images, videos, carousels, and stories, all tailored to grab attention and drive conversions.
+                                We design visually striking and on-brand content, including static images, videos, carousels, and stories, all tailored to grab attention and drive conversions.
                             </p>
                         </div>
                     </div>
@@ -665,25 +661,25 @@ include_once("includes/head.php");
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                        Can you manage ads for any type of business?
+                            Can you manage ads for any type of business?
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        <p>Absolutely! We work with businesses of all sizes across various industries, from e-commerce to tech, beauty, and beyond. Our approach is customized to your unique needs.</p>
-                    </div>
+                            <p>Absolutely! We work with businesses of all sizes across various industries, from e-commerce to tech, beauty, and beyond. Our approach is customized to your unique needs.</p>
+                        </div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingFive">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                        How do you measure the success of my Instagram ads?
+                            How do you measure the success of my Instagram ads?
                         </button>
                     </h2>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        <p>We track key performance metrics like engagement rates, clicks, conversions, and ROI. We provide detailed reports to show how your ads are performing and offer insights for continuous improvement.</p>
-                    </div>
+                            <p>We track key performance metrics like engagement rates, clicks, conversions, and ROI. We provide detailed reports to show how your ads are performing and offer insights for continuous improvement.</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -968,8 +964,8 @@ include_once("includes/head.php");
                             <p><b>Collaboration with Growth Partner</b></p>
                             <p>
 
-                            First, we take the time to understand your goals, challenges, and what sets your company apart. We also analyze your competition and market position, uncovering valuable insights and opportunities to fuel your company’s growth.
-                        </p>
+                                First, we take the time to understand your goals, challenges, and what sets your company apart. We also analyze your competition and market position, uncovering valuable insights and opportunities to fuel your company’s growth.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1020,7 +1016,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    
+
     <?php $headingText = "Let’s Craft Ads That Spark <br>Engagement And Conversions!";
     include_once("includes/footer.php") ?>
 

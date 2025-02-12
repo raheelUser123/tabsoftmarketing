@@ -27,13 +27,14 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <?php $headingText1 = "Local SEO Experience"; include_once("partner-1-global.php") ?>
+    <?php $headingText1 = "Local SEO Experience";
+    include_once("partner-1-global.php") ?>
     <section id="personalized-seo">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/local-seo-image-search-bar.gif" alt="">
+                        <img src="../assets/images/local-seo-image-search-bar.gif" alt="Local SEO Search Bar Animation">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -70,8 +71,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6 reach-top-col-back">
-                <div class="reach-top-image-wrapper local-reach-wrapper">
-                        <img src="../assets/images/local-seo-outrank-image.jpg" alt="">
+                    <div class="reach-top-image-wrapper local-reach-wrapper">
+                        <img src="../assets/images/local-seo-outrank-image.jpg" alt="Local SEO Outrank Competitors Image">
                     </div>
                 </div>
             </div>
@@ -90,7 +91,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-1.svg" alt="">
+                            <img src="../assets/images/tired-image-1.svg" alt="Lack of NAP Consistency">
                         </div>
                         <div class="tired-card-content">
                             <h6> Lack of NAP Consistency </h6>
@@ -100,7 +101,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-2.svg" alt="">
+                            <img src="../assets/images/tired-image-2.svg" alt="Google Business Profile (GBP) Management Optimization Issue">
                         </div>
                         <div class="tired-card-content">
                             <h6>Google Business Profile (GBP) Management Optimization Issue</h6>
@@ -110,7 +111,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-3.svg" alt="">
+                            <img src="../assets/images/tired-image-3.svg" alt="Negative Online Reviews">
                         </div>
                         <div class="tired-card-content">
                             <h6>Negative Online Reviews</h6>
@@ -118,11 +119,12 @@ include_once("includes/head.php");
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-4.svg" alt="">
+                            <img src="../assets/images/tired-image-4.svg" alt="Lack of Local Content Creation">
                         </div>
                         <div class="tired-card-content">
                             <h6>Lack of Local Content Creation</h6>
@@ -132,7 +134,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-5.svg" alt="">
+                            <img src="../assets/images/tired-image-5.svg" alt="Mobile Optimization Issues">
                         </div>
                         <div class="tired-card-content">
                             <h6>Mobile Optimization Issues</h6>
@@ -142,7 +144,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-6.svg" alt="">
+                            <img src="../assets/images/tired-image-6.svg" alt="Tracking and Measurement Result Issues">
                         </div>
                         <div class="tired-card-content">
                             <h6>Tracking and Measurement Result Issues</h6>
@@ -150,11 +152,12 @@ include_once("includes/head.php");
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-7.svg" alt="">
+                            <img src="../assets/images/tired-image-7.svg" alt="Lack of Local Link Building Expertise">
                         </div>
                         <div class="tired-card-content">
                             <h6>Lack of Local Link Building Expertise</h6>
@@ -164,7 +167,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-8.svg" alt="">
+                            <img src="../assets/images/tired-image-8.svg" alt="Tough Local Competition">
                         </div>
                         <div class="tired-card-content">
                             <h6>Tough Local Competition</h6>
@@ -174,7 +177,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-9.svg" alt="">
+                            <img src="../assets/images/tired-image-9.svg" alt="Keeping Up with Algorithm Updates">
                         </div>
                         <div class="tired-card-content">
                             <h6>Keeping Up with Algorithm Updates</h6>
@@ -254,7 +257,7 @@ include_once("includes/head.php");
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-            <img src="../assets/images/cli-seo-image.webp" alt="">
+            <img src="../assets/images/cli-seo-image.webp" alt="Client SEO strategy and analysis image">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -357,12 +360,13 @@ include_once("includes/head.php");
             </section>
         </div>
     </section>
-    <?php $headingTexts = "Get Started with Tabsoft Marketing and <br> Dominate Search Results!"; include_once("call-to-action-global.php") ?>
+    <?php $headingTexts = "Get Started with Tabsoft Marketing and <br> Dominate Search Results!";
+    include_once("call-to-action-global.php") ?>
     <section id="unrivaled">
         <div class="container">
             <div class="unrivaled-heading text-center">
                 <h2>Premium Solutions <br>
-                Top-Tier Results
+                    Top-Tier Results
                 </h2>
                 <p>Team up with us to give your business the edge it needs.</p>
 
@@ -370,7 +374,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/local-form-image.jpg" alt="" style="width: 90% !important;">
+                        <img src="../assets/images/local-form-image.jpg" alt="Local SEO service inquiry form" style="width: 90% !important;">
                     </div>
 
                 </div>
@@ -437,22 +441,22 @@ include_once("includes/head.php");
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-             <h2>Look What  Our Clients Have to Say!</h2>
+                <h2>Look What Our Clients Have to Say!</h2>
             </div>
             <div class="row">
                 <div class="test-slider">
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft Marketing completely transformed our online presence. Before, we barely showed up in local searches. Now, we're on the first page for multiple keywords, and we've seen a significant increase in customer inquiries. 
-                        </p>
+                                "Tabsoft Marketing completely transformed our online presence. Before, we barely showed up in local searches. Now, we're on the first page for multiple keywords, and we've seen a significant increase in customer inquiries.
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/test-image-male-3.webp" alt="">
+                                    <img src="../assets/images/test-image-male-3.webp" alt="Male client testimonial image">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    John Shephard
+                                        John Shephard
                                         <br>
                                         Local Restaurant Owner
                                     </p>
@@ -463,15 +467,15 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "We were struggling to attract new customers to our small business. Tabsoft Marketing developed a tailored local SEO strategy that has made a huge difference. They were great at explaining the process and kept us updated every step of the way. We're so grateful for their expertise!"         
-                        </p>
+                                "We were struggling to attract new customers to our small business. Tabsoft Marketing developed a tailored local SEO strategy that has made a huge difference. They were great at explaining the process and kept us updated every step of the way. We're so grateful for their expertise!"
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/test-image-female-4.webp" alt="">
+                                    <img src="../assets/images/test-image-female-4.webp" alt="Female client testimonial image">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Maria Nolan
+                                        Maria Nolan
                                         <br>
                                         Boutique Owner
                                     </p>
@@ -482,15 +486,15 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "I've worked with other SEO agencies in the past, but Tabsoft Marketing stands out for their personalized approach and attention to detail. They took the time to understand our specific needs and goals, and their results speak for themselves. Our website traffic has more than doubled since we started working with them."         
-                        </p>
+                                "I've worked with other SEO agencies in the past, but Tabsoft Marketing stands out for their personalized approach and attention to detail. They took the time to understand our specific needs and goals, and their results speak for themselves. Our website traffic has more than doubled since we started working with them."
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Client testimonial image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    David Kaif
+                                        David Kaif
                                         <br>
                                         Auto Repair Shop Manager
                                     </p>
@@ -501,15 +505,15 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft Marketing is a fantastic partner for any business looking to improve their local search rankings. Their team is professional and efficient, and they deliver excellent results. They've helped us reach a wider audience and grow our business significantly. I highly recommend their services."         
-                        </p>
+                                "Tabsoft Marketing is a fantastic partner for any business looking to improve their local search rankings. Their team is professional and efficient, and they deliver excellent results. They've helped us reach a wider audience and grow our business significantly. I highly recommend their services."
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Sarah Patel
+                                        Sarah Patel
                                         <br>
                                         Dental Clinic Owner
                                     </p>
@@ -531,13 +535,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            What is local SEO? 
+                            What is local SEO?
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Local SEO helps businesses like yours get found by customers searching online in your area. Think of it as making sure your business shows up when someone searches "restaurants near me" or "plumbers in [your city]."
+                            Local SEO helps businesses like yours get found by customers searching online in your area. Think of it as making sure your business shows up when someone searches "restaurants near me" or "plumbers in [your city]."
                         </div>
                     </div>
                 </div>
@@ -545,13 +549,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            Why is local SEO important for my business? 
+                            Why is local SEO important for my business?
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Most people search online before visiting a store or using a local service. Local SEO helps you reach those customers who are actively looking for what you offer right when they need it. This can bring more customers to your door (or website).
+                            Most people search online before visiting a store or using a local service. Local SEO helps you reach those customers who are actively looking for what you offer right when they need it. This can bring more customers to your door (or website).
                         </div>
                     </div>
                 </div>
@@ -559,13 +563,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            What does Tabsoft Marketing do for local SEO? 
+                            What does Tabsoft Marketing do for local SEO?
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        We help optimize your online presence so search engines like Google know where your business is and what you offer. We do this by optimizing your Google Business Profile, building online citations, improving your website, and more.
+                            We help optimize your online presence so search engines like Google know where your business is and what you offer. We do this by optimizing your Google Business Profile, building online citations, improving your website, and more.
                         </div>
                     </div>
                 </div>
@@ -573,13 +577,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            How long does it take to see results from local SEO? 
+                            How long does it take to see results from local SEO?
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        SEO takes time and consistent effort. While some improvements can be seen relatively quickly, it usually takes a few months to see significant results. We'll track your progress and keep you updated along the way.
+                            SEO takes time and consistent effort. While some improvements can be seen relatively quickly, it usually takes a few months to see significant results. We'll track your progress and keep you updated along the way.
                         </div>
                     </div>
                 </div>
@@ -587,13 +591,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingFive">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            How much does local SEO cost? 
+                            How much does local SEO cost?
                         </button>
                     </h2>
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        The cost of local SEO depends on your specific needs and goals. We offer customized plans to fit different budgets. Contact us for a free consultation, and we will discuss your options.
+                            The cost of local SEO depends on your specific needs and goals. We offer customized plans to fit different budgets. Contact us for a free consultation, and we will discuss your options.
                         </div>
                     </div>
                 </div>
@@ -601,13 +605,13 @@ include_once("includes/head.php");
                     <h2 class="accordion-header" id="headingSix">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            What is a Google Business Profile (GBP)? 
+                            What is a Google Business Profile (GBP)?
                         </button>
                     </h2>
                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Your Google Business Profile is a free listing on Google that shows important information about your business, like your address, phone number, hours, and customer reviews. It's crucial for local SEO because it often appears at the top of search results. We help you set up and optimize this profile.
+                            Your Google Business Profile is a free listing on Google that shows important information about your business, like your address, phone number, hours, and customer reviews. It's crucial for local SEO because it often appears at the top of search results. We help you set up and optimize this profile.
                         </div>
                     </div>
                 </div>
@@ -616,7 +620,8 @@ include_once("includes/head.php");
         </div>
     </section>
 
-    <?php $headingText = "Utilize Our Local SEO Services and <br> Increase Your Customers!"; include_once("includes/footer.php") ?>
+    <?php $headingText = "Utilize Our Local SEO Services and <br> Increase Your Customers!";
+    include_once("includes/footer.php") ?>
 
 
 

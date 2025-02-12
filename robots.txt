@@ -1,13 +1,4 @@
 User-agent: *
-
-User-agent: Googlebot
 Allow: /
 
-User-agent: AdsBot-Google
-Allow: /
-
-
-User-agent: AdsBot-Google-Mobile
-Allow: /
-
-Allow: /blogs/*
+Sitemap: https://www.tabsoftmarketing.com/sitemap.xml

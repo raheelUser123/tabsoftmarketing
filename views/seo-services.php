@@ -28,13 +28,14 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <?php $headingText1 = "SEO Experience"; include_once("partner-1-global.php") ?>
+    <?php $headingText1 = "SEO Experience";
+    include_once("partner-1-global.php") ?>
     <section id="personalized-seo">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/seo-image-upper-sec.webp" alt="">
+                        <img src="../assets/images/seo-image-upper-sec.webp" alt="SEO Strategy Upper Section Illustration">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -73,8 +74,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                <div class="reach-top-image-wrapper-2">
-                        <img src="../assets/images/seo-services-in-gurgaon.gif" alt="">
+                    <div class="reach-top-image-wrapper-2">
+                        <img src="../assets/images/seo-services-in-gurgaon.gif" alt="SEO Services in Gurgaon Animation">
                     </div>
                 </div>
             </div>
@@ -93,7 +94,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-1.svg" alt="">
+                            <img src="../assets/images/tired-image-1.svg" alt="Inability to Compete in the Market Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Inability to compete in the market</h6>
@@ -103,7 +104,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-2.svg" alt="">
+                            <img src="../assets/images/tired-image-2.svg" alt="Lack of SEO Expertise Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Lack of SEO expertise</h6>
@@ -113,7 +114,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-3.svg" alt="">
+                            <img src="../assets/images/tired-image-3.svg" alt="Declining or Stagnant Traffic Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Declining or stagnant traffic</h6>
@@ -125,7 +126,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-4.svg" alt="">
+                            <img src="../assets/images/tired-image-4.svg" alt="Facing Penalties from Search Engines Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Facing penalties from search engines</h6>
@@ -135,7 +136,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-5.svg" alt="">
+                            <img src="../assets/images/tired-image-5.svg" alt="Generic SEO Strategies Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Generic SEO strategies</h6>
@@ -145,7 +146,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-6.svg" alt="">
+                            <img src="../assets/images/tired-image-6.svg" alt="Frustration with Poor Communication Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Frustration with poor communication</h6>
@@ -157,7 +158,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-7.svg" alt="">
+                            <img src="../assets/images/tired-image-7.svg" alt="Frustration with Subpar Agencies Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Frustration with subpar agencies</h6>
@@ -167,7 +168,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-8.svg" alt="">
+                            <img src="../assets/images/tired-image-8.svg" alt="Misaligned Goals with Partners Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Misaligned goals with partners</h6>
@@ -177,7 +178,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-9.svg" alt="">
+                            <img src="../assets/images/tired-image-9.svg" alt="Limited Budget and Time Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Limited budget and time</h6>
@@ -257,7 +258,7 @@ include_once("includes/head.php");
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-            <img src="../assets/images/cli-seo-image.webp" alt="">
+        <img src="../assets/images/cli-seo-image.webp" alt="Client SEO Strategy Image">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -292,8 +293,8 @@ include_once("includes/head.php");
                             and <b>competitive landscape.</b> Based on these findings, <b> we develop a customized SEO strategy </b> that encompasses on-page optimization, off-page optimization, and technical SEO.
                         </p>
                         <p>
-                        Our team then implements the strategies through a series of meticulous actions. It is when we optimize website content, build high-quality backlinks, and address any technical issues that may be hindering search engine crawlers from accessing and indexing your website. We continuously monitor and analyze the performance of your SEO campaigns, making necessary adjustments to ensure optimal results. 
-                    </p>
+                            Our team then implements the strategies through a series of meticulous actions. It is when we optimize website content, build high-quality backlinks, and address any technical issues that may be hindering search engine crawlers from accessing and indexing your website. We continuously monitor and analyze the performance of your SEO campaigns, making necessary adjustments to ensure optimal results.
+                        </p>
                     </div>
                     <div class="vertical-slider-month">
                         <h6><span>Month 1</span></h6>
@@ -310,7 +311,7 @@ include_once("includes/head.php");
                         <h6><span>Month 2</span></h6>
                         <h2>On-Page Optimization and Content Creation</h2>
                         <ul>
-                            <li><i class="bi bi-check"></i> Focus on on-page optimization for high-priority pages  (titles, meta descriptions, images). </li>
+                            <li><i class="bi bi-check"></i> Focus on on-page optimization for high-priority pages (titles, meta descriptions, images). </li>
                             <li><i class="bi bi-check"></i> Publish 3-5 high-quality, keyword-focused pieces of content.</li>
                             <li><i class="bi bi-check"></i> Submit an <b>XML sitemap</b> and <b>robots.txt </b> file to search engines.</li>
                         </ul>
@@ -321,7 +322,7 @@ include_once("includes/head.php");
                         <ul>
                             <li><i class="bi bi-check"></i> Launch a <b>link-building campaign</b> through guest blogging and outreach.</li>
                             <li><i class="bi bi-check"></i> <b>Promote content </b> on social media for engagement and backlinks.</li>
-                            <li><i class="bi bi-check"></i> Monitor site performance using Google Analytics  and Search Console, making adjustments as needed.</li>
+                            <li><i class="bi bi-check"></i> Monitor site performance using Google Analytics and Search Console, making adjustments as needed.</li>
                         </ul>
                     </div>
                     <div class="vertical-slider-month">
@@ -362,7 +363,8 @@ include_once("includes/head.php");
             </section>
         </div>
     </section>
-    <?php $headingTexts = "Get a Free SEO Audit Today  <br> and See What We Can Do!"; include_once("call-to-action-global.php") ?>
+    <?php $headingTexts = "Get a Free SEO Audit Today  <br> and See What We Can Do!";
+    include_once("call-to-action-global.php") ?>
     <section id="unrivaled">
         <div class="container">
             <div class="unrivaled-heading text-center">
@@ -375,7 +377,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/seo-form-image.webp" alt="">
+                    <img src="../assets/images/seo-form-image.webp" alt="SEO Consultation Form Image">
                     </div>
 
                 </div>
@@ -442,22 +444,22 @@ include_once("includes/head.php");
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-             <h2>Look What  Our Clients Have to Say!</h2>
+                <h2>Look What Our Clients Have to Say!</h2>
             </div>
             <div class="row">
                 <div class="test-slider">
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "I was really impressed with the level of detail and expertise that went into the SEO analysis. The report was easy to understand and provided actionable insights that I could implement immediately. My website traffic has already seen a significant increase since making the recommended changes."
-                        </p>
+                                "I was really impressed with the level of detail and expertise that went into the SEO analysis. The report was easy to understand and provided actionable insights that I could implement immediately. My website traffic has already seen a significant increase since making the recommended changes."
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/test-image-female-1.webp" alt="">
+                                <img src="../assets/images/test-image-female-1.webp" alt="Female Client Testimonial Image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Sarah Mack
+                                        Sarah Mack
                                         <br>
                                         Restaurant Owner
                                     </p>
@@ -468,15 +470,15 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            I was sceptical about SEO at first, but after working with you. I'm a believer. They took the time to understand my business and tailor a strategy that made sense for my industry. I'm now ranking higher in search results and getting more leads than ever before.
-                        </p>
+                                I was sceptical about SEO at first, but after working with you. I'm a believer. They took the time to understand my business and tailor a strategy that made sense for my industry. I'm now ranking higher in search results and getting more leads than ever before.
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/test-image-male-1.webp" alt="">
+                                <img src="../assets/images/test-image-male-1.webp" alt="Male Client Testimonial Image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    David Lynch
+                                        David Lynch
                                         <br>
                                         Healthcare Provider
                                     </p>
@@ -487,15 +489,15 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "I was looking for an SEO company that could help me improve my local search rankings. Tabsoft Marketing delivered! They implemented a comprehensive local SEO strategy that included optimizing my Google My Business profile, building citations, and creating location-based content. My business is now showing up on the first page of Google for relevant searches."
-                         </p>
+                                "I was looking for an SEO company that could help me improve my local search rankings. Tabsoft Marketing delivered! They implemented a comprehensive local SEO strategy that included optimizing my Google My Business profile, building citations, and creating location-based content. My business is now showing up on the first page of Google for relevant searches."
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/test-image-female-2.webp" alt="">
+                                <img src="../assets/images/test-image-female-2.webp" alt="Female Client Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Emily Turnover
+                                        Emily Turnover
                                         <br>
                                         Lawyer
                                     </p>
@@ -506,15 +508,15 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "I'm a small business owner and was worried about the cost of SEO. Tabsoft Marketing offered a flexible pricing plan that fit my budget. They were also very responsive and communicative throughout the entire process. I'm happy with the results and would recommend them to anyone looking for affordable and effective SEO services."
-                        </p>
+                                "I'm a small business owner and was worried about the cost of SEO. Tabsoft Marketing offered a flexible pricing plan that fit my budget. They were also very responsive and communicative throughout the entire process. I'm happy with the results and would recommend them to anyone looking for affordable and effective SEO services."
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/test-image-male-2.webp" alt="">
+                                <img src="../assets/images/test-image-male-2.webp" alt="Male Client Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Michael Brenda
+                                        Michael Brenda
                                         <br>
                                         Local Business Owner
                                     </p>
@@ -542,7 +544,7 @@ include_once("includes/head.php");
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        SEO stands for Search Engine Optimization. It's the process of improving your website's ranking in search engine results pages (like Google, Bing, etc.) so that more people can find you when they search for products or services related to your business.   
+                            SEO stands for Search Engine Optimization. It's the process of improving your website's ranking in search engine results pages (like Google, Bing, etc.) so that more people can find you when they search for products or services related to your business.
                         </div>
                     </div>
                 </div>
@@ -556,23 +558,23 @@ include_once("includes/head.php");
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                           <ul class="google-ul">
-                            <li>
-                                <b>We're experts: </b> Our team has years of experience in developing and implementing successful SEO strategies.
-                            </li>
-                            <li>
-                                <b> Data-driven approach:</b> We rely on data and analytics to make informed decisions and track progress.
-                            </li>
-                            <li>
-                                <b>Transparent communication: </b> We keep you updated on the progress of your campaign and provide regular reports.
-                            </li>
-                            <li>
-                                <b>Customized solutions: </b> We tailor our services to your specific needs and budget.
-                            </li>
-                            <li>
-                                <b>Focus on results:</b> Our goal is to increase your website traffic, improve your online visibility, and drive more leads and sales.
-                            </li>
-                           </ul>
+                            <ul class="google-ul">
+                                <li>
+                                    <b>We're experts: </b> Our team has years of experience in developing and implementing successful SEO strategies.
+                                </li>
+                                <li>
+                                    <b> Data-driven approach:</b> We rely on data and analytics to make informed decisions and track progress.
+                                </li>
+                                <li>
+                                    <b>Transparent communication: </b> We keep you updated on the progress of your campaign and provide regular reports.
+                                </li>
+                                <li>
+                                    <b>Customized solutions: </b> We tailor our services to your specific needs and budget.
+                                </li>
+                                <li>
+                                    <b>Focus on results:</b> Our goal is to increase your website traffic, improve your online visibility, and drive more leads and sales.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -588,19 +590,19 @@ include_once("includes/head.php");
                         <div class="accordion-body">
                             <ul class="google-ul">
                                 <li><b>Keyword research:</b> Identifying the most relevant keywords that your target audience is searching for.
-                            </li>
-                            <li>
-                                <b>On-page optimization: </b> Optimizing your website content, including titles, descriptions, and images, for search engines.
-                            </li>
-                            <li>
-                                <b>Off-page optimization: </b> Building high-quality backlinks from other reputable websites to your site.
-                            </li>
-                            <li>
-                                <b>Technical SEO:</b> Ensuring your website is technically sound and easily accessible to search engine crawlers.
-                            </li>
-                            <li>
-                                <b>Ongoing monitoring and analysis:</b> Tracking your website's performance and making adjustments as needed.
-                            </li> 
+                                </li>
+                                <li>
+                                    <b>On-page optimization: </b> Optimizing your website content, including titles, descriptions, and images, for search engines.
+                                </li>
+                                <li>
+                                    <b>Off-page optimization: </b> Building high-quality backlinks from other reputable websites to your site.
+                                </li>
+                                <li>
+                                    <b>Technical SEO:</b> Ensuring your website is technically sound and easily accessible to search engine crawlers.
+                                </li>
+                                <li>
+                                    <b>Ongoing monitoring and analysis:</b> Tracking your website's performance and making adjustments as needed.
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -615,7 +617,7 @@ include_once("includes/head.php");
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        SEO is an ongoing process, and results can vary depending on several factors, including the competitiveness of your industry, the current state of your website, and the scope of the project. You can typically start seeing improvements within a few months, but significant results may take longer.   
+                            SEO is an ongoing process, and results can vary depending on several factors, including the competitiveness of your industry, the current state of your website, and the scope of the project. You can typically start seeing improvements within a few months, but significant results may take longer.
                         </div>
                     </div>
                 </div>
@@ -629,7 +631,7 @@ include_once("includes/head.php");
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Our pricing is flexible and depends on various factors, such as the scope of the project, the level of competition, and your specific business needs. We offer a range of packages to suit different budgets.
+                            Our pricing is flexible and depends on various factors, such as the scope of the project, the level of competition, and your specific business needs. We offer a range of packages to suit different budgets.
                         </div>
                     </div>
                 </div>
@@ -643,7 +645,7 @@ include_once("includes/head.php");
                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        While we can't guarantee specific rankings, we can guarantee our commitment to delivering high-quality work and providing you with the best possible results. We use proven strategies and continuously monitor your campaign's progress to ensure we are on track to meet your goals.
+                            While we can't guarantee specific rankings, we can guarantee our commitment to delivering high-quality work and providing you with the best possible results. We use proven strategies and continuously monitor your campaign's progress to ensure we are on track to meet your goals.
                         </div>
                     </div>
                 </div>
@@ -657,7 +659,7 @@ include_once("includes/head.php");
                     <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Contact us today for a free consultation. We'll discuss your business goals, answer any questions you may have, and provide you with a personalized quote.
+                            Contact us today for a free consultation. We'll discuss your business goals, answer any questions you may have, and provide you with a personalized quote.
                         </div>
                     </div>
                 </div>
@@ -666,7 +668,8 @@ include_once("includes/head.php");
         </div>
     </section>
 
-    <?php $headingText = "Get Started with Tabsoft Marketing and <br> Dominate Search Results!"; include_once("includes/footer.php") ?>
+    <?php $headingText = "Get Started with Tabsoft Marketing and <br> Dominate Search Results!";
+    include_once("includes/footer.php") ?>
 
 
 

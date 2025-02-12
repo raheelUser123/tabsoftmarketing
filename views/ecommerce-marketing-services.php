@@ -15,11 +15,11 @@ include_once("includes/head.php");
                 <div class="col-lg-6">
                     <h1>
 
-                    Best Ecommerce <br>Marketing Services
+                        Best Ecommerce <br>Marketing Services
                     </h1>
                     <p>
 
-                    Boost your online store's traffic and sales with our <br>conversion-focused ecommerce marketing services.
+                        Boost your online store's traffic and sales with our <br>conversion-focused ecommerce marketing services.
                     </p>
 
                     <div class="service-button">
@@ -36,7 +36,7 @@ include_once("includes/head.php");
                 <div class="col-lg-3">
                     <div class="ads-card">
                         <div class="ad-image-wrapper">
-                            <img src="../assets/images/ecommerce-partner-logo-image.png" alt="">
+                            <img src="../assets/images/ecommerce-partner-logo-image.png" alt="Ecommerce Partner Logo">
                         </div>
                         <div class="ads-content">
                             <p>Premier Google Ads Partner</p>
@@ -81,19 +81,19 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/ecommerce--innovative-image.gif" alt="">
+                        <img src="../assets/images/ecommerce--innovative-image.gif" alt="Innovative Ecommerce Solutions Animation">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <h6><span>Innovative Marketing</span></h6>
                     <h3>
-                    Want to Sell More Online? You<br> Need The <span>Right Marketing</span>.
+                        Want to Sell More Online? You<br> Need The <span>Right Marketing</span>.
                     </h3>
                     <p>
-                    <strong>If you run an online store, you want more sales and money.</strong> There are lots of ways to do this, but you need experts who know which methods work best for your business. It's essential to understand how different online marketing channels (like search engines and social media) work together.
+                        <strong>If you run an online store, you want more sales and money.</strong> There are lots of ways to do this, but you need experts who know which methods work best for your business. It's essential to understand how different online marketing channels (like search engines and social media) work together.
                     </p>
                     <p>
-                    Tabsoft Marketing has years of experience finding those customers and bringing them to your website to buy your products. In the online selling world, that is a long time! Our award-winning marketing strategies get results. We'll work with you to understand your products and your industry and create a marketing plan that gets you the best return on your investment.
+                        Tabsoft Marketing has years of experience finding those customers and bringing them to your website to buy your products. In the online selling world, that is a long time! Our award-winning marketing strategies get results. We'll work with you to understand your products and your industry and create a marketing plan that gets you the best return on your investment.
                     </p>
                     <div class="personalized-button">
                         <a href="/get-proposal/"> <button class="button2 "> Let's Get Started </button></a>
@@ -112,74 +112,72 @@ include_once("includes/head.php");
                     <div class="slider-wrapper">
                         <!-- First Slider (Left Moving) -->
                         <div class="slider moving-left">
-                            <div><img src="../assets/images/amz-slider-image-1.png" alt="Slide 1"></div>
-                            <div><img src="../assets/images/amz-slider-image-2.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-3.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-4.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-5.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-6.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-7.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-8.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-9.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-10.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-11.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-12.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-13.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-14.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-15.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-16.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-17.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-18.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-19.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-20.png" alt="Slide 2"></div>
+                            <div><img src="../assets/images/amz-slider-image-1.png" alt="Marketing Strategy"></div>
+                            <div><img src="../assets/images/amz-slider-image-2.png" alt="Product Listing Optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-3.png" alt="PPC Campaign Management"></div>
+                            <div><img src="../assets/images/amz-slider-image-4.png" alt="Brand Growth Solutions"></div>
+                            <div><img src="../assets/images/amz-slider-image-5.png" alt="Ecommerce Advertising Services"></div>
+                            <div><img src="../assets/images/amz-slider-image-6.png" alt="SEO and Ranking"></div>
+                            <div><img src="../assets/images/amz-slider-image-7.png" alt="Seller Account Management"></div>
+                            <div><img src="../assets/images/amz-slider-image-8.png" alt="A+ Content Design"></div>
+                            <div><img src="../assets/images/amz-slider-image-9.png" alt="Storefront Design"></div>
+                            <div><img src="../assets/images/amz-slider-image-10.png" alt="Customer Engagement"></div>
+                            <div><img src="../assets/images/amz-slider-image-11.png" alt="Sales and Growth Strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-12.png" alt="Product Photography"></div>
+                            <div><img src="../assets/images/amz-slider-image-13.png" alt="Buy Box Strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-14.png" alt="Inventory Management"></div>
+                            <div><img src="../assets/images/amz-slider-image-15.png" alt="Order Fulfillment"></div>
+                            <div><img src="../assets/images/amz-slider-image-16.png" alt="Competitor Analysis"></div>
+                            <div><img src="../assets/images/amz-slider-image-17.png" alt="Store Performance Optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-18.png" alt="Review and Rating Management"></div>
+                            <div><img src="../assets/images/amz-slider-image-19.png" alt="Enhanced Brand Content (EBC)"></div>
+                            <div><img src="../assets/images/amz-slider-image-20.png" alt="Advertising Best Practices"></div>
                         </div>
-
                         <!-- Second Slider (Right Moving) -->
                         <div class="slider moving-right">
-                            <div><img src="../assets/images/amz-slider-image-21.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-22.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-23.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-24.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-25.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-26.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-27.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-28.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-29.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-30.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-31.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-32.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-33.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-34.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-35.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-36.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-37.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-38.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-39.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-40.png" alt="Slide 2"></div>
+                            <div><img src="../assets/images/amz-slider-image-21.png" alt="Digital Marketing Strategy"></div>
+                            <div><img src="../assets/images/amz-slider-image-22.png" alt="Ecommerce Business Growth"></div>
+                            <div><img src="../assets/images/amz-slider-image-23.png" alt="Conversion Rate Optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-24.png" alt="Social Media Advertising"></div>
+                            <div><img src="../assets/images/amz-slider-image-25.png" alt="SEO for Ecommerce"></div>
+                            <div><img src="../assets/images/amz-slider-image-26.png" alt="Content Marketing for Brands"></div>
+                            <div><img src="../assets/images/amz-slider-image-27.png" alt="Influencer Collaboration"></div>
+                            <div><img src="../assets/images/amz-slider-image-28.png" alt="Retail Media Solutions"></div>
+                            <div><img src="../assets/images/amz-slider-image-29.png" alt="Product Research & Trends"></div>
+                            <div><img src="../assets/images/amz-slider-image-30.png" alt="PPC Performance Optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-31.png" alt="Customer Retention Strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-32.png" alt="AI-Powered Advertising"></div>
+                            <div><img src="../assets/images/amz-slider-image-33.png" alt="Brand Positioning & Awareness"></div>
+                            <div><img src="../assets/images/amz-slider-image-34.png" alt="Sales Funnel Optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-35.png" alt="Paid Search Campaigns"></div>
+                            <div><img src="../assets/images/amz-slider-image-36.png" alt="Customer Experience Enhancement"></div>
+                            <div><img src="../assets/images/amz-slider-image-37.png" alt="Affiliate Marketing Strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-38.png" alt="Product Launch Planning"></div>
+                            <div><img src="../assets/images/amz-slider-image-39.png" alt="Growth Hacking Techniques"></div>
+                            <div><img src="../assets/images/amz-slider-image-40.png" alt="Data-Driven Ecommerce Solutions"></div>
                         </div>
-
                         <!-- Third Slider (Left Moving) -->
                         <div class="slider moving-left">
-                            <div><img src="../assets/images/amz-slider-image-41.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-42.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-43.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-44.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-45.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-46.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-47.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-48.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-49.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-50.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-51.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-52.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-53.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-54.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-55.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-56.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-57.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-58.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-59.png" alt="Slide 2"></div>
-                            <div><img src="../assets/images/amz-slider-image-60.png" alt="Slide 2"></div>
+                            <div><img src="../assets/images/amz-slider-image-41.png" alt="Ecommerce Growth Strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-42.png" alt="Online Retail Branding"></div>
+                            <div><img src="../assets/images/amz-slider-image-43.png" alt="SEO for Online Stores"></div>
+                            <div><img src="../assets/images/amz-slider-image-44.png" alt="Data-Driven Advertising"></div>
+                            <div><img src="../assets/images/amz-slider-image-45.png" alt="Social Media Marketing"></div>
+                            <div><img src="../assets/images/amz-slider-image-46.png" alt="Product Listing Optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-47.png" alt="Sales Boosting Techniques"></div>
+                            <div><img src="../assets/images/amz-slider-image-48.png" alt="Retail Market Insights"></div>
+                            <div><img src="../assets/images/amz-slider-image-49.png" alt="Targeted PPC Campaigns"></div>
+                            <div><img src="../assets/images/amz-slider-image-50.png" alt="Ecommerce Customer Engagement"></div>
+                            <div><img src="../assets/images/amz-slider-image-51.png" alt="Retail Business Scaling"></div>
+                            <div><img src="../assets/images/amz-slider-image-52.png" alt="Conversion Rate Optimization"></div>
+                            <div><img src="../assets/images/amz-slider-image-53.png" alt="Performance Marketing"></div>
+                            <div><img src="../assets/images/amz-slider-image-54.png" alt="Influencer Marketing"></div>
+                            <div><img src="../assets/images/amz-slider-image-55.png" alt="AI-Powered Shopping Trends"></div>
+                            <div><img src="../assets/images/amz-slider-image-56.png" alt="Effective Email Campaigns"></div>
+                            <div><img src="../assets/images/amz-slider-image-57.png" alt="Customer Retention Strategies"></div>
+                            <div><img src="../assets/images/amz-slider-image-58.png" alt="Brand Awareness Campaigns"></div>
+                            <div><img src="../assets/images/amz-slider-image-59.png" alt="Advanced Keyword Research"></div>
+                            <div><img src="../assets/images/amz-slider-image-60.png" alt="Cross-Channel Marketing"></div>
                         </div>
                     </div>
 
@@ -187,7 +185,7 @@ include_once("includes/head.php");
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing" style="    padding: 0px 0px;">
+    <section id="reach-top-google-bing" style="padding:0px 0px;">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6" style="padding-top: 90px;padding-bottom: 90px;">
@@ -195,7 +193,7 @@ include_once("includes/head.php");
                     <h2>E-commerce Marketing That <br>Converts: Drive Sales and<br> Dominate Your Market
                     </h2>
                     <p>
-                    Attracting, nurturing, and converting customers online requires a strategic approach. As a results-driven eCommerce marketing agency, we specialize in crafting custom solutions that deliver tangible ROI. We develop tailored strategies that address your specific needs and help you achieve sustainable online growth.
+                        Attracting, nurturing, and converting customers online requires a strategic approach. As a results-driven eCommerce marketing agency, we specialize in crafting custom solutions that deliver tangible ROI. We develop tailored strategies that address your specific needs and help you achieve sustainable online growth.
                     </p>
                     <div class="reach-bing-button">
                         <a href="/get-proposal/"> <button class="button2 ">Get Free Proposal</button></a>
@@ -203,7 +201,7 @@ include_once("includes/head.php");
                 </div>
                 <div class="col-lg-6">
                     <div class="reach-top-image-wrapper" style="top: 0px;">
-                        <img src="../assets/images/ecommerce-become-established.gif" alt="">
+                        <img src="../assets/images/ecommerce-become-established.gif" alt="How to Establish Your Ecommerce Business">
                     </div>
                 </div>
             </div>
@@ -215,14 +213,14 @@ include_once("includes/head.php");
             <div class="tried-heading-sec text-center">
                 <h2>Don’t know How to Face <span>Ecommerce <br>Marketing Challenges</span>?</h2>
                 <p>
-                Our ecommerce marketing services are designed to help you overcome the following challenges,<br> maximize sales, and grow your online store.
+                    Our ecommerce marketing services are designed to help you overcome the following challenges,<br> maximize sales, and grow your online store.
                 </p>
             </div>
             <div class="row">
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-1.svg" alt="">
+                            <img src="../assets/images/tired-image-1.svg" alt="Low Website Traffic Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Low Website Traffic</h6>
@@ -232,7 +230,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-2.svg" alt="">
+                            <img src="../assets/images/tired-image-2.svg" alt="Poor Conversion Rates Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Poor Conversion Rates</h6>
@@ -242,7 +240,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-3.svg" alt="">
+                            <img src="../assets/images/tired-image-3.svg" alt="Abandoned Shopping Carts Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Abandoned Shopping Carts</h6>
@@ -254,7 +252,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-4.svg" alt="">
+                            <img src="../assets/images/tired-image-4.svg" alt="Limited Brand Visibility Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Limited Brand Visibility</h6>
@@ -264,7 +262,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-5.svg" alt="">
+                            <img src="../assets/images/tired-image-5.svg" alt="Ineffective Ad Campaigns Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Ineffective Ad Campaigns</h6>
@@ -274,7 +272,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-6.svg" alt="">
+                            <img src="../assets/images/tired-image-6.svg" alt="Inconsistent Customer Engagement Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Inconsistent Customer Engagement</h6>
@@ -286,7 +284,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-7.svg" alt="">
+                            <img src="../assets/images/tired-image-7.svg" alt="Low Customer Retention Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Low Customer Retention</h6>
@@ -296,7 +294,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-8.svg" alt="">
+                            <img src="../assets/images/tired-image-8.svg" alt="Inefficient SEO Strategies Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Inefficient SEO Strategies</h6>
@@ -306,7 +304,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-9.svg" alt="">
+                            <img src="../assets/images/tired-image-9.svg" alt="Lack of Data Insights Icon">
                         </div>
                         <div class="tired-card-content">
                             <h6>Lack of Data Insights</h6>
@@ -324,7 +322,7 @@ include_once("includes/head.php");
                     <div class="our-seo-content text-center">
                         <h2>Comprehensive Commerce Marketing Services</h2>
                         <p>
-                        We do things the right way, with careful planning and attention to detail. We create<br> top-notch strategies explicitly designed for you and your goals.
+                            We do things the right way, with careful planning and attention to detail. We create<br> top-notch strategies explicitly designed for you and your goals.
                         </p>
                     </div>
                 </div>
@@ -340,7 +338,7 @@ include_once("includes/head.php");
                         <li><i class="bi bi-check"></i> Remarketing Campaigns</li>
                         <li><i class="bi bi-check"></i> Product Listing Ads (PLAs)</li>
                         <li><i class="bi bi-check"></i> A/B Ad Testing</li>
-                        <li><i class="bi bi-check"></i> Social Content Creation</li>                
+                        <li><i class="bi bi-check"></i> Social Content Creation</li>
                     </ul>
                 </div>
                 <div class="col-lg-4">
@@ -366,12 +364,12 @@ include_once("includes/head.php");
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-            <img src="../assets/images/cli-seo-image.webp" alt="">
+        <img src="../assets/images/cli-seo-image.webp" alt="Ecommerce marketing strategy and SEO optimization">
         </div>
         <div class="cli-seo-content">
             <p>
-            Working with this team has been a game-changer for our business. Their comprehensive approach to SEO, PPC, and social media marketing delivered measurable results within weeks. The team’s attention to detail, creative strategies, and commitment to achieving our goals exceeded our expectations. <br>
-            Samantha Green,<span>Marketing Director, Greenleaf Organics</span> <i class="bi bi-star-fill"></i>
+                Working with this team has been a game-changer for our business. Their comprehensive approach to SEO, PPC, and social media marketing delivered measurable results within weeks. The team’s attention to detail, creative strategies, and commitment to achieving our goals exceeded our expectations. <br>
+                Samantha Green,<span>Marketing Director, Greenleaf Organics</span> <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
                 <i class="bi bi-star-fill"></i>
@@ -397,14 +395,14 @@ include_once("includes/head.php");
                     <div class="vertical-slider-month">
                         <h2>E-commerce Marketing Services Process</h2>
                         <p>
-                        Why are conversions lagging? Often, it's because product presentation and user experience are overlooked. A customer-centric eCommerce marketing strategy is essential for turning browsers into buyers. Growing an eCommerce business comes with its own unique set of challenges. From finding the right customers to converting prospects into buyers, it takes a strategic approach. 
+                            Why are conversions lagging? Often, it's because product presentation and user experience are overlooked. A customer-centric eCommerce marketing strategy is essential for turning browsers into buyers. Growing an eCommerce business comes with its own unique set of challenges. From finding the right customers to converting prospects into buyers, it takes a strategic approach.
                         </p>
                         <!-- <p>
                         The future of retail is online. Gain a competitive edge by delivering a seamless omnichannel customer experience. Our eCommerce marketing company crafts dynamic, customer-centric strategies to drive your online success.
                         </p> -->
                         <div class="highlight">
                             <p>
-                            The future of retail is online. Gain a competitive edge by delivering a seamless omnichannel customer experience. Our eCommerce marketing company crafts dynamic, customer-centric strategies to drive your online success.
+                                The future of retail is online. Gain a competitive edge by delivering a seamless omnichannel customer experience. Our eCommerce marketing company crafts dynamic, customer-centric strategies to drive your online success.
                             </p>
                         </div>
                     </div>
@@ -487,19 +485,20 @@ include_once("includes/head.php");
             </section>
         </div>
     </section>
-    <?php $headingTexts = "Boost Your E-Commerce Success—Let's <br>Start Driving Results Today!"; include_once("call-to-action-global.php") ?>
+    <?php $headingTexts = "Boost Your E-Commerce Success—Let's <br>Start Driving Results Today!";
+    include_once("call-to-action-global.php") ?>
     <section id="unrivaled">
         <div class="container">
             <div class="unrivaled-heading text-center">
                 <h2>Premium Solutions <br>
-                Top-Tier Results</h2>
+                    Top-Tier Results</h2>
                 <p>Team up with us to give your business the edge it needs.</p>
 
             </div>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/email-marketing-services-form.png" alt="" style="width: 100%;">
+                        <img src="../assets/images/email-marketing-services-form.png" alt="Email Marketing Services Form" style="width: 100%;">
                     </div>
 
                 </div>
@@ -508,7 +507,7 @@ include_once("includes/head.php");
                         <div class="form-heading text-center">
                             <h3>Become Our Partner for Success</h3>
                             <p>
-                            Contact us today for a free proposal!</p>
+                                Contact us today for a free proposal!</p>
                         </div>
                         <form class="animate__animated animate__pulse" id="contact" action="/leads/" method="POST">
                             <fieldset>
@@ -574,15 +573,15 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "Tabsoft Marketing completely transformed our online presence. Their eCommerce marketing strategies were spot-on, driving significant traffic and boosting our sales. Their team is highly professional and responsive, and they truly understand the nuances of the online market. Highly recommend!"
+                                "Tabsoft Marketing completely transformed our online presence. Their eCommerce marketing strategies were spot-on, driving significant traffic and boosting our sales. Their team is highly professional and responsive, and they truly understand the nuances of the online market. Highly recommend!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial Image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Sarah Chen
+                                        Sarah Chen
                                         <br>
                                         Marketing Director, Bloom Boutique
                                     </p>
@@ -594,15 +593,15 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "We partnered with Tabsoft Marketing for a complete website overhaul and ongoing SEO management. The results have been outstanding. Our website is now modern, user-friendly, and ranks much higher in search results. They are a reliable and results-driven agency."
+                                "We partnered with Tabsoft Marketing for a complete website overhaul and ongoing SEO management. The results have been outstanding. Our website is now modern, user-friendly, and ranks much higher in search results. They are a reliable and results-driven agency."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                <img src="../assets/images/testi-image-2.png" alt="Client Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    David Lee
+                                        David Lee
                                         <br>
                                         CEO, Tech Solutions Inc.
                                     </p>
@@ -614,15 +613,15 @@ include_once("includes/head.php");
                         <div class="testimonial-div">
                             <p class="test-p">
 
-                            "As a small business owner, I was hesitant to invest in digital marketing, but Tabsoft Marketing made the process easy and affordable. They developed a social media strategy that perfectly targeted our local audience, leading to a noticeable increase in foot traffic and online orders. I'm so grateful for their expertise!"
+                                "As a small business owner, I was hesitant to invest in digital marketing, but Tabsoft Marketing made the process easy and affordable. They developed a social media strategy that perfectly targeted our local audience, leading to a noticeable increase in foot traffic and online orders. I'm so grateful for their expertise!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                <img src="../assets/images/testi-image-3.jpeg" alt="Customer Review - Image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Maria Rodriguez
+                                        Maria Rodriguez
                                         <br>
                                         Owner, Rodriguez Bakery
                                     </p>
@@ -635,15 +634,15 @@ include_once("includes/head.php");
                             <p class="test-p">
 
 
-                            "Tabsoft Marketing's expertise in omnichannel marketing has been invaluable to our business. They seamlessly integrated our online and offline channels, creating a cohesive and engaging customer experience. Their strategic approach and data-driven insights have significantly improved our ROI."
+                                "Tabsoft Marketing's expertise in omnichannel marketing has been invaluable to our business. They seamlessly integrated our online and offline channels, creating a cohesive and engaging customer experience. Their strategic approach and data-driven insights have significantly improved our ROI."
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                <img src="../assets/images/testi-image-4.jpeg" alt="Customer Testimonial - Image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    James Wilson
+                                        James Wilson
                                         <br>
                                         E-commerce Manager, Global Electronics
                                     </p>
@@ -671,7 +670,7 @@ include_once("includes/head.php");
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Tabsoft Marketing offers a comprehensive range of digital marketing services, including eCommerce marketing, SEO, website design and development, social media marketing, PPC advertising, and omnichannel marketing strategies.
+                            Tabsoft Marketing offers a comprehensive range of digital marketing services, including eCommerce marketing, SEO, website design and development, social media marketing, PPC advertising, and omnichannel marketing strategies.
                         </div>
                     </div>
                 </div>
@@ -685,7 +684,7 @@ include_once("includes/head.php");
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        We work with businesses of all sizes, from small local businesses to large enterprises, across various industries. Our tailored approach ensures that we can meet the unique needs of each client.
+                            We work with businesses of all sizes, from small local businesses to large enterprises, across various industries. Our tailored approach ensures that we can meet the unique needs of each client.
                         </div>
                     </div>
                 </div>
@@ -699,7 +698,7 @@ include_once("includes/head.php");
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        We use a variety of metrics to track the performance of our campaigns, including website traffic, conversion rates, search engine rankings, social media engagement, and return on investment (ROI). We provide regular reports to our clients to keep them informed of our progress.
+                            We use a variety of metrics to track the performance of our campaigns, including website traffic, conversion rates, search engine rankings, social media engagement, and return on investment (ROI). We provide regular reports to our clients to keep them informed of our progress.
                         </div>
                     </div>
                 </div>
@@ -713,7 +712,7 @@ include_once("includes/head.php");
                     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Our pricing varies depending on the specific services required and the scope of the project. We offer customized solutions to fit different budgets. We recommend contacting us for a free consultation to discuss your needs and receive a personalized quote.
+                            Our pricing varies depending on the specific services required and the scope of the project. We offer customized solutions to fit different budgets. We recommend contacting us for a free consultation to discuss your needs and receive a personalized quote.
                         </div>
                     </div>
                 </div>
@@ -727,7 +726,7 @@ include_once("includes/head.php");
                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Our eCommerce marketing approach is customer-centric and data-driven. We focus on creating engaging online experiences that drive traffic, increase conversions, and build customer loyalty. We utilize a range of strategies, including SEO, social media marketing, email marketing, and paid advertising.
+                            Our eCommerce marketing approach is customer-centric and data-driven. We focus on creating engaging online experiences that drive traffic, increase conversions, and build customer loyalty. We utilize a range of strategies, including SEO, social media marketing, email marketing, and paid advertising.
                         </div>
                     </div>
                 </div>
@@ -741,7 +740,7 @@ include_once("includes/head.php");
                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
                         data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                        Getting started is easy! Simply contact us through our website, phone, or email to schedule a free consultation. We'll discuss your business goals and develop a tailored strategy to help you achieve them.
+                            Getting started is easy! Simply contact us through our website, phone, or email to schedule a free consultation. We'll discuss your business goals and develop a tailored strategy to help you achieve them.
                         </div>
                     </div>
                 </div>
@@ -816,7 +815,8 @@ include_once("includes/head.php");
         </div>
     </section>
 
-    <?php $headingText = "Take The First Step Toward Skyrocketing<br> Your Online Success!"; include_once("includes/footer.php") ?>
+    <?php $headingText = "Take The First Step Toward Skyrocketing<br> Your Online Success!";
+    include_once("includes/footer.php") ?>
 
 
 

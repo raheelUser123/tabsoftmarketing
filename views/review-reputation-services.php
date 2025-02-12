@@ -34,7 +34,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="personalized-seo-image-wrapper">
-                        <img src="../assets/images/review-reputation-harness.gif" alt="" style="width: 80%;">
+                        <img src="../assets/images/review-reputation-harness.gif" alt="Review and reputation management GIF" style="width: 80%;">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -62,20 +62,20 @@ include_once("includes/head.php");
             </div>
             <div class="row">
                 <div class="slider">
-                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-1.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/clutch-icon.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-6.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/reviews.io.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/goodfirms-logo.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/yelp-icon.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-3.png" alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-4.png" alt="Slide 1"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-1.png" alt="Reputation management example 1"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/clutch-icon.png" alt="Clutch reviews logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-6.png" alt="Reputation insights graphic"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/reviews.io.png" alt="Reviews.io logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/goodfirms-logo.png" alt="GoodFirms review platform logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/yelp-icon.png" alt="Yelp business reviews logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-3.png" alt="Reputation analysis example"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/reputation-image-4.png" alt="Online reputation management dashboard"></div>
                 </div>
 
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing" class="review-reach-top" style="padding: 22px 0px;">
+    <section id="reach-top-google-bing" class="review-reach-top" >
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -90,8 +90,8 @@ include_once("includes/head.php");
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="reach-top-image-wrapper review-wrapper" style="    top: 0px;">
-                        <img src="../assets/images/review-reputation-critical.gif" alt="">
+                    <div class="reach-top-image-wrapper review-wrapper" style="top: 0px;">
+                        <img src="../assets/images/review-reputation-critical.gif" alt="Critical factors in online reputation management">
                     </div>
                 </div>
             </div>
@@ -110,7 +110,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-1.svg" alt="">
+                            <img src="../assets/images/tired-image-1.svg" alt="Fake reviews identification issue">
                         </div>
                         <div class="tired-card-content">
                             <h6>Unable to identify and remove fake reviews.</h6>
@@ -120,7 +120,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-2.svg" alt="">
+                            <img src="../assets/images/tired-image-2.svg" alt="Struggle with managing large volume of reviews">
                         </div>
                         <div class="tired-card-content">
                             <h6>Difficulty in keeping up with a large volume of reviews.</h6>
@@ -130,7 +130,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-3.svg" alt="">
+                            <img src="../assets/images/tired-image-3.svg" alt="Inconsistent brand reputation across platforms">
                         </div>
                         <div class="tired-card-content">
                             <h6>It is hard to maintain consistency across all platforms.</h6>
@@ -142,7 +142,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-4.svg" alt="">
+                            <img src="../assets/images/tired-image-4.svg" alt="Difficulty in building customer trust">
                         </div>
                         <div class="tired-card-content">
                             <h6>Building trust with customers is overwhelming.</h6>
@@ -152,7 +152,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-5.svg" alt="">
+                            <img src="../assets/images/tired-image-5.svg" alt="Challenges in handling negative reviews">
                         </div>
                         <div class="tired-card-content">
                             <h6>Dealing with negative reviews is complex.</h6>
@@ -162,7 +162,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-6.svg" alt="">
+                            <img src="../assets/images/tired-image-6.svg" alt="Legal risks related to defamation and slander">
                         </div>
                         <div class="tired-card-content">
                             <h6>Defamation and slander risks.</h6>
@@ -174,7 +174,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-1">
-                            <img src="../assets/images/tired-image-7.svg" alt="">
+                            <img src="../assets/images/tired-image-7.svg" alt="SEO management difficulties">
                         </div>
                         <div class="tired-card-content">
                             <h6>Managing SEO is tiring.</h6>
@@ -184,7 +184,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-2">
-                            <img src="../assets/images/tired-image-8.svg" alt="">
+                            <img src="../assets/images/tired-image-8.svg" alt="Struggle with adapting to platform policy changes">
                         </div>
                         <div class="tired-card-content">
                             <h6>It's hard to keep up with ever-changing platform policies.</h6>
@@ -194,7 +194,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="tired-cards">
                         <div class="tired-card-image-wrapper tired-back-3">
-                            <img src="../assets/images/tired-image-9.svg" alt="">
+                            <img src="../assets/images/tired-image-9.svg" alt="Challenges in handling PR crises">
                         </div>
                         <div class="tired-card-content">
                             <h6>Handling PR crises is a task.</h6>
@@ -217,7 +217,7 @@ include_once("includes/head.php");
                         The truth is more than 85% of customers are happy to share their feedback, and over 70% believe written reviews are far more valuable than just a star rating.
                     </p>
                     <div class="streamline-image-wrapper">
-                        <img src="../assets/images/reputation-streamine-image.jpg" alt="">
+                        <img src="../assets/images/reputation-streamine-image.jpg" alt="Reputation management streamlined process">
                     </div>
                 </div>
             </div>
@@ -277,7 +277,7 @@ include_once("includes/head.php");
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-            <img src="../assets/images/cli-seo-image.webp" alt="">
+        <img src="../assets/images/cli-seo-image.webp" alt="Reputation management and client review strategy illustration">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -407,7 +407,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                        <img src="../assets/images/online-reputation-managment-form.jpg" alt="" style="width: 90%;">
+                        <img src="../assets/images/online-reputation-managment-form.jpg" alt="Online reputation management form" style="width: 90%;">
                     </div>
 
                 </div>
@@ -486,7 +486,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                <img src="../assets/images/testi-image-1.jpg" alt="Client testimonial image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -506,7 +506,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                <img src="../assets/images/testi-image-2.png" alt="Client testimonial image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -526,7 +526,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                <img src="../assets/images/testi-image-3.jpeg" alt="Client testimonial image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -547,7 +547,7 @@ include_once("includes/head.php");
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>

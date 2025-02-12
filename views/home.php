@@ -8,28 +8,25 @@
         <div class="container">
             <div class="row-im">
                 <div class="col-lg-12">
-                    <!-- <div class="icon-wrapper-3">
-                        <img src="../assets/images/shape-3-hero.png" alt="">
-                    </div> -->
                     <div class="row">
                         <div class="col-lg-7">
                             <div class="hero-sec-content">
                                 <p>Dominate Your Industry With</p>
                                 <h1> <b>Tabsoft </b> Digital Marketing Services </h1>
                                 <p>
-                                Trusted by top brands worldwide, we help businesses of every size prosper online <br>
-                                 with result-driven ad management and <b>Digital Marketing services</b>
-                                such as <b>META ads</b>  <br> and <b> SEO.</b> Let's work together to increase leads, boost sales, and build your brand  <br>
-                                to achieve your goals
+                                    Trusted by top brands worldwide, we help businesses of every size prosper online <br>
+                                    with result-driven ad management and <b>Digital Marketing services</b>
+                                    such as <b>META ads</b> <br> and <b> SEO.</b> Let's work together to increase leads, boost sales, and build your brand <br>
+                                    to achieve your goals
                                 </p>
                             </div>
                             <div class="hero-content-2">
                                 <div class="trustpilot-image-wrapper">
-                                    <img src="../assets/images/hero-badge-image.png" alt="">
+                                    <img src="../assets/images/hero-badge-image.png" alt="Hero Badge Icon">
                                 </div>
                                 <div class="client-hero-image-parent">
                                     <div class="client-image-wrapper">
-                                        <img src="../assets/images/hero-trustpilot-client.png" alt="">
+                                        <img src="../assets/images/hero-trustpilot-client.png" alt="Trustpilot Client Review Badge">
                                     </div>
                                     <div class="client-stars">
                                         <div class="client-star-div">
@@ -51,7 +48,7 @@
                         </div>
                         <div class="col-lg-5">
                             <div class="hero-sec-gif-wrapper">
-                                <img src="../assets/images/hero-sec-gif.gif" alt="">
+                                <img src="../assets/images/hero-sec-gif.gif" alt="Animated Hero Section Graphic">
                             </div>
                         </div>
                     </div>
@@ -67,41 +64,35 @@
             <div class="row">
                 <div class="slider2">
                     <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_BigPanda.svg"
-                            alt="Slide 1"></div>
-                    <div class="px-2 py-2"><img
-                            src="../assets/images/trusted-partner-images/Client-logo_Bloom-energy-2.svg" alt="Slide 2">
-                    </div>
+                            alt="BigPanda Logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Bloom-energy-2.svg"
+                            alt="Bloom Energy Logo"></div>
                     <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Fabric-II.svg"
-                            alt="Slide 2"></div>
+                            alt="Fabric Logo"></div>
                     <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Imperva-II.svg"
-                            alt="Slide 2"></div>
-                    <div class="px-2 py-2"><img
-                            src="../assets/images/trusted-partner-images/Client-logo_Integrify-1-1.svg" alt="Slide 2">
-                    </div>
-                    <div class="px-2 py-2"><img
-                            src="../assets/images/trusted-partner-images/Client-logo_Labelbox-II.svg" alt="Slide 2">
-                    </div>
+                            alt="Imperva Logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Integrify-1-1.svg"
+                            alt="Integrify Logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Labelbox-II.svg"
+                            alt="Labelbox Logo"></div>
                     <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Model-N-1.svg"
-                            alt="Slide 2"></div>
+                            alt="Model N Logo"></div>
                     <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_PackageX-1.svg"
-                            alt="Slide 2"></div>
-                    <div class="px-2 py-2"><img
-                            src="../assets/images/trusted-partner-images/Client-logo_Provigil-II.svg" alt="Slide 2">
-                    </div>
-                    <div class="px-2 py-2"><img
-                            src="../assets/images/trusted-partner-images/Client-logo_RedRiver-II.svg" alt="Slide 2">
-                    </div>
+                            alt="PackageX Logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Provigil-II.svg"
+                            alt="Provigil Logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_RedRiver-II.svg"
+                            alt="Red River Logo"></div>
                     <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_TDengine.svg"
-                            alt="Slide 2"></div>
+                            alt="TDengine Logo"></div>
                     <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Tint.svg"
-                            alt="Slide 2"></div>
-                    <div class="px-2 py-2"><img
-                            src="../assets/images/trusted-partner-images/Client-logo_ToolWatch-II.svg" alt="Slide 2">
-                    </div>
-                    <div class="px-2 py-2"><img
-                            src="../assets/images/trusted-partner-images/Client-logo_Top-Echelon-II.svg" alt="Slide 2">
-                    </div>
+                            alt="Tint Logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_ToolWatch-II.svg"
+                            alt="ToolWatch Logo"></div>
+                    <div class="px-2 py-2"><img src="../assets/images/trusted-partner-images/Client-logo_Top-Echelon-II.svg"
+                            alt="Top Echelon Logo"></div>
                 </div>
+
 
             </div>
         </div>
@@ -111,117 +102,116 @@
             <div class="row">
                 <div class="col-lg-6">
                     <p class="market">Our Strategic Allies</p>
-                    <h2>We offer our clients  <br>
+                    <h2>We offer our clients <br>
                         unparalleled access and <br>
                         expertise through long- <br>
-                         term partnerships <br>
-                         with <span>top advertising</span> <br>
-                         platforms. </h2>
+                        term partnerships <br>
+                        with <span>top advertising</span> <br>
+                        platforms. </h2>
                 </div>
                 <div class="col-lg-6">
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/meta-partners-2.jpg" alt="">
+                                    <img src="../assets/images/meta-partners-2.jpg" alt="Meta Partner">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-3.jpg" alt="">
+                                    <img src="../assets/images/Partner-3.jpg" alt="Marketing Partner 3">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-4.webp" alt="">
+                                    <img src="../assets/images/Partner-4.webp" alt="Marketing Partner 4">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-5.webp" alt="">
+                                    <img src="../assets/images/Partner-5.webp" alt="Marketing Partner 5">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-6.webp" alt="">
+                                    <img src="../assets/images/Partner-6.webp" alt="Marketing Partner 6">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-7.jpg" alt="">
+                                    <img src="../assets/images/Partner-7.jpg" alt="Marketing Partner 7">
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="row">
-                    <div class="col-lg-3">
+                        <div class="col-lg-3">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-8.jpg" alt="">
+                                    <img src="../assets/images/Partner-8.jpg" alt="Marketing Partner 8">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/snapchat.jpg" alt="">
+                                    <img src="../assets/images/snapchat.jpg" alt="Snapchat Partner">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-10.jpg" alt="">
+                                    <img src="../assets/images/Partner-10.jpg" alt="Marketing Partner 10">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="marketing-partners-card">
                                 <div class="marketing-partners-image-wrapper">
-                                    <img src="../assets/images/Partner-11.jpg" alt="">
+                                    <img src="../assets/images/Partner-11.jpg" alt="Marketing Partner 11">
                                 </div>
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
     </section>
     <section id="sales-gross">
         <div class="container">
-        <div class="omni-sales-div">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="omni-sales-card">
+            <div class="omni-sales-div">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="omni-sales-card">
                             <h2>$999M+</h2>
                             <h6>Spent in Ad Management</h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="omni-sales-card">
+                    <div class="col-lg-4">
+                        <div class="omni-sales-card">
                             <h2>$3B+</h2>
                             <h6>Revenue Generated for Our Clients</h6>
+                        </div>
                     </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="omni-sales-card">
+                    <div class="col-lg-4">
+                        <div class="omni-sales-card">
                             <h2>50M+</h2>
                             <h6>Leads Generated</h6>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </div>
     </section>
     <section id="custom-optimization">
@@ -230,11 +220,11 @@
                 <div class="col-lg-4">
                     <div class="optimization-cards">
                         <div class="optimization-image-wrapper">
-                            <img src="../assets/images/pay-per-click.png" alt="">
+                        <img src="../assets/images/pay-per-click.png" alt="Pay Per Click Advertising Icon">
                         </div>
                         <div class="optimization-content">
                             <h4>
-                            Data-driven approach to identify areas for improvement and deliver maximum ROI.
+                                Data-driven approach to identify areas for improvement and deliver maximum ROI.
                             </h4>
                         </div>
                     </div>
@@ -242,11 +232,11 @@
                 <div class="col-lg-4">
                     <div class="optimization-cards">
                         <div class="optimization-image-wrapper">
-                            <img src="../assets/images/facebook-ecommerce-agency-image-1.png" alt="">
+                        <img src="../assets/images/facebook-ecommerce-agency-image-1.png" alt="Facebook E-commerce Agency Illustration">
                         </div>
                         <div class="optimization-content">
                             <h4>
-                            Customized strategies for your specific business goals, target audience, and industry.
+                                Customized strategies for your specific business goals, target audience, and industry.
                             </h4>
                         </div>
                     </div>
@@ -254,11 +244,11 @@
                 <div class="col-lg-4">
                     <div class="optimization-cards">
                         <div class="optimization-image-wrapper">
-                            <img src="../assets/images/continuous-improvement.png" alt="">
+                        <img src="../assets/images/continuous-improvement.png" alt="Continuous Improvement Icon">
                         </div>
                         <div class="optimization-content">
                             <h4>
-                            Tracking key metrics, analyzing data, and continuously refining strategies to drive measurable results.
+                                Tracking key metrics, analyzing data, and continuously refining strategies to drive measurable results.
                             </h4>
                         </div>
                     </div>
@@ -266,133 +256,133 @@
             </div>
         </div>
     </section>
-<section id="the-power-of-omni-channel">
-    <div class="container">
-      
-    <div class="the-power-omni-channel-heading text-center">
+    <section id="the-power-of-omni-channel">
+        <div class="container">
+
+            <div class="the-power-omni-channel-heading text-center">
                 <h2>What Can We Do For You?</h2>
                 <p>
-                We help your business grow by creating effective online advertising and marketing campaigns that reach customers at every stage of their journey.
-                <br> We use different online channels to attract new customers, keep them engaged, and turn them into loyal fans.
+                    We help your business grow by creating effective online advertising and marketing campaigns that reach customers at every stage of their journey.
+                    <br> We use different online channels to attract new customers, keep them engaged, and turn them into loyal fans.
                 </p>
             </div>
-        <div class="row">
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper facebook-i">
-                    <i class="fa-brands fa-facebook-f"></i>
+            <div class="row">
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper facebook-i">
+                            <i class="fa-brands fa-facebook-f"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>Facebook Ads</h4>
+                            <a href="/facebook-ads-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
                     </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>Facebook Ads</h4>
-                    <a href="/facebook-ads-services/"> <button class="button2 ">Learn More</button></a>
+                </div>
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper instagram-i">
+                            <i class="fa-brands fa-instagram"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>Instagram Ads</h4>
+                            <a href="/instagram-ads-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper instagram-i">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>SEO</h4>
+                            <a href="/seo-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper google-i">
+                            <i class="fa-solid fa-hashtag"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>SMM</h4>
+                            <a href="/smm-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper tiktok-i">
+                            <i class="fa-brands fa-tiktok"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>TikTok Ads</h4>
+                            <a href="/tiktok-ads-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper instagram-i">
-                    <i class="fa-brands fa-instagram"></i>
-                    </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>Instagram Ads</h4>
-                    <a href="/instagram-ads-services/"> <button class="button2 ">Learn More</button></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper instagram-i">
-                    <i class="fa-solid fa-magnifying-glass"></i>
-                    </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>SEO</h4>
-                    <a href="/seo-services/"> <button class="button2 ">Learn More</button></a>
+            <div class="row">
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper bing-i">
+                            <i class="fa-solid fa-envelope-open-text"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>Email Marketing</h4>
+                            <a href="/email-marketing-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper google-i">
-                    <i class="fa-solid fa-hashtag"></i>
-                    </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>SMM</h4>
-                    <a href="/smm-services/"> <button class="button2 ">Learn More</button></a>
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper amazon-i">
+                            <i class="fa-brands fa-amazon"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>Amazon Ads</h4>
+                            <a href="/amazon-marketing-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper tiktok-i">
-                    <i class="fa-brands fa-tiktok"></i>
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper snapchat-i">
+                            <i class="fa-brands fa-snapchat"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>Snapchat Ads</h4>
+                            <a href="/snapchat-ads-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
                     </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>TikTok Ads</h4>
-                    <a href="/tiktok-ads-services/"> <button class="button2 ">Learn More</button></a>
+                </div>
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper pinterest-i">
+                            <i class="fa-brands fa-youtube"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>Youtube Ads</h4>
+                            <a href="/youtube-ads-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="omni-card">
+                        <div class="omni-image-wrapper twitter-i">
+                            <i class="fa-brands fa-x-twitter"></i>
+                        </div>
+                        <div class="learn-more-button-wrapper">
+                            <h4>Twitter (X) Ads</h4>
+                            <a href="/twitter-ads-services/"> <button class="button2 ">Learn More</button></a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row">
-        <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper bing-i">
-                    <i class="fa-solid fa-envelope-open-text"></i>
-                    </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>Email Marketing</h4>
-                    <a href="/email-marketing-services/"> <button class="button2 ">Learn More</button></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper amazon-i">
-                    <i class="fa-brands fa-amazon"></i>
-                    </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>Amazon Ads</h4>
-                    <a href="/amazon-marketing-services/"> <button class="button2 ">Learn More</button></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper snapchat-i">
-                    <i class="fa-brands fa-snapchat"></i>
-                    </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>Snapchat Ads</h4>
-                    <a href="/snapchat-ads-services/"> <button class="button2 ">Learn More</button></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper pinterest-i">
-                    <i class="fa-brands fa-youtube"></i>
-                    </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>Youtube Ads</h4>
-                    <a href="/youtube-ads-services/"> <button class="button2 ">Learn More</button></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col">
-                <div class="omni-card">
-                    <div class="omni-image-wrapper twitter-i">
-                    <i class="fa-brands fa-x-twitter"></i>
-                    </div>
-                    <div class="learn-more-button-wrapper">
-                        <h4>Twitter (X) Ads</h4>
-                    <a href="/twitter-ads-services/"> <button class="button2 ">Learn More</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section id="our-work-methodology">
+    </section>
+    <section id="our-work-methodology">
         <div class="container">
             <div class="our-work-methodology-heading text-center">
                 <h2>Our Working <span>Methodology</span></h2>
@@ -400,40 +390,40 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="working-image-wrapper">
-                        <img src="../assets/images/highvern.gif" alt="">
+                    <img src="../assets/images/highvern.gif" alt="Highvern Animated Logo">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="methodolgy-cards">
                         <div class="methodolgy-card-image-wrapper ">
-                            <img src="../assets/images/analysing.png" alt="">
+                        <img src="../assets/images/analysing.png" alt="Data Analysis Icon">
                         </div>
                         <div class="methodology-card-heading">
                             <h3>Analysis </h3>
                             <p>
-                            We understand your business, target audience, and goals. 
+                                We understand your business, target audience, and goals.
                             </p>
                         </div>
                     </div>
                     <div class="methodolgy-cards">
                         <div class="methodolgy-card-image-wrapper">
-                            <img src="../assets/images/implementation.png" alt="">
+                        <img src="../assets/images/implementation.png" alt="Implementation Process Icon">
                         </div>
                         <div class="methodology-card-heading">
                             <h3>Implementation</h3>
                             <p>
-                            Our team executes your selected services, such as SEO, content marketing, social media, and paid advertising. 
+                                Our team executes your selected services, such as SEO, content marketing, social media, and paid advertising.
                             </p>
                         </div>
                     </div>
                     <div class="methodolgy-cards">
                         <div class="methodolgy-card-image-wrapper">
-                            <img src="../assets/images/optimization.png" alt="">
+                        <img src="../assets/images/optimization.png" alt="Optimization Strategy Icon">
                         </div>
                         <div class="methodology-card-heading">
                             <h3>Tracking & Optimization</h3>
                             <p>
-                            We monitor performance, make data-driven adjustments, and report results.
+                                We monitor performance, make data-driven adjustments, and report results.
                             </p>
                         </div>
                     </div>
@@ -461,7 +451,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/seo-ads-images.webp" alt="">
+                    <img src="../assets/images/seo-ads-images.webp" alt="SEO and Advertising Illustration">
                     </div>
                 </div>
             </div>
@@ -479,7 +469,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/smm-ads-images.webp" alt="">
+                    <img src="../assets/images/smm-ads-images.webp" alt="Social Media Marketing Ads Illustration">
                     </div>
                 </div>
             </div>
@@ -501,7 +491,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/ads-management-image.webp" alt="" style="object-fit: cover; height: 560px;object-position: bottom;">
+                    <img src="../assets/images/ads-management-image.webp" alt="Ads Management Illustration" style="object-fit: cover; height: 560px; object-position: bottom;">
                     </div>
                 </div>
             </div>
@@ -521,7 +511,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/amazon-marketing-ads.jpg" alt="" style="object-position: bottom;">
+                    <img src="../assets/images/amazon-marketing-ads.jpg" alt="Amazon Marketing Ads Illustration" style="object-position: bottom;">
                     </div>
                 </div>
             </div>
@@ -540,7 +530,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/ecommerce-maketing-image-ads.webp" alt="" style="object-position: center;">
+                    <img src="../assets/images/ecommerce-maketing-image-ads.webp" alt="E-commerce Marketing Ads Illustration" style="object-position: center;">
                     </div>
                 </div>
             </div>
@@ -558,7 +548,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                        <img src="../assets/images/email-marketing-ads.jpg" alt="" style="object-position: center;">
+                    <img src="../assets/images/email-marketing-ads.jpg" alt="Email Marketing Ads Illustration" style="object-position: center;">
                     </div>
                 </div>
             </div>
@@ -571,22 +561,22 @@
     <section id="clients-testimonial">
         <div class="container">
             <div class="testimonial-heading text-center">
-         <h2>What Clients Say About Us </h2>
+                <h2>What Clients Say About Us </h2>
             </div>
             <div class="row">
                 <div class="test-slider">
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            They really helped my small business get noticed online. My website now shows up higher in searches, and I'm getting more customers than ever!" 
+                                They really helped my small business get noticed online. My website now shows up higher in searches, and I'm getting more customers than ever!"
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/images-1laura.jpg" alt="">
+                                <img src="../assets/images/images-1laura.jpg" alt="Laura's Portrait or Branding Image">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Sarah John
+                                        Sarah John
                                         <br>
                                         CTO of Teals
                                     </p>
@@ -597,15 +587,15 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "I was overwhelmed trying to manage my online ads myself. These guys took over, and now my ads are reaching the right people, and I'm seeing a great return on my investment." 
-                        </p>
+                                "I was overwhelmed trying to manage my online ads myself. These guys took over, and now my ads are reaching the right people, and I'm seeing a great return on my investment."
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                <img src="../assets/images/testi-image-2.png" alt="Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    David Lawrence 
+                                        David Lawrence
                                         <br>
                                         Marketing Manager at Authors Breeze
                                     </p>
@@ -616,15 +606,15 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "They made social media easy for me! My posts are getting more likes and shares, and I'm actually enjoying using social media now." 
-                        </p>
+                                "They made social media easy for me! My posts are getting more likes and shares, and I'm actually enjoying using social media now."
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                <img src="../assets/images/testi-image-3.jpeg" alt="Testimonial Image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Maria Griande
+                                        Maria Griande
                                         <br>
                                         SMM Specialist at AMZ Solutions Hub
                                     </p>
@@ -635,15 +625,15 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "I didn't know much about online marketing, but they explained everything clearly and helped me understand how it all works. I'm so happy with the results!" 
-                        </p>
+                                "I didn't know much about online marketing, but they explained everything clearly and helped me understand how it all works. I'm so happy with the results!"
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                <img src="../assets/images/testi-image-4.jpeg" alt="Testimonial Image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    John Sean 
+                                        John Sean
                                         <br>
                                         SEO Expert at The Logo Mart
                                     </p>
@@ -654,15 +644,15 @@
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-                            "They're a great team to work with. They're responsive, creative, and always go the extra mile to make sure I'm happy. I highly recommend them!"
-                        </p>
+                                "They're a great team to work with. They're responsive, creative, and always go the extra mile to make sure I'm happy. I highly recommend them!"
+                            </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/images-1ameli.jpg" alt="">
+                                <img src="../assets/images/images-1ameli.jpg" alt="Ameli's Portrait or Branding Image">
                                 </div>
                                 <div class="client-name">
                                     <p>
-                                    Lisa Mary 
+                                        Lisa Mary
                                         <br>
                                         Editor at Journal Publisher
                                     </p>
@@ -674,7 +664,7 @@
             </div>
         </div>
     </section>
-   
+
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

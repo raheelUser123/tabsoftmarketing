@@ -143,7 +143,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="clarity-image-wrapper">
-                        <img src="../assets/images/clarity-image.png" alt="">
+                    <img src="../assets/images/clarity-image.png" alt="Get Proposal Page Image">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -182,7 +182,7 @@
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-1.jpg" alt="">
+                                <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -202,7 +202,7 @@
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-2.png" alt="">
+                                <img src="../assets/images/testi-image-2.png" alt="Client Testimonial 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -222,7 +222,7 @@
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-3.jpeg" alt="">
+                                <img src="../assets/images/testi-image-3.jpeg" alt="Client Testimonial 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -243,7 +243,7 @@
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                    <img src="../assets/images/testi-image-4.jpeg" alt="">
+                                <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -264,7 +264,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="we-deliver-image-wrapper">
-                        <img src="../assets/images/performance.png" alt="">
+                    <img src="../assets/images/performance.png" alt="Performance Metrics">
                     </div>
                 </div>
                 <div class="col-lg-6">

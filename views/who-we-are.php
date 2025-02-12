@@ -39,7 +39,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="we-focus-card">
                         <div class="we-focus-image-wrapper">
-                            <img src="../assets/images/focus-card-image-1.png" alt="">
+                        <img src="../assets/images/focus-card-image-1.png" alt="About Us - Our Team and Mission">
                         </div>
                         <div class="focus-card-content">
                             <p class="unlock"><span>Anticipate Trends, Deliver Tomorrow</span></p>
@@ -54,7 +54,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="we-focus-card">
                         <div class="we-focus-image-wrapper">
-                            <img src="../assets/images/focus-card-image-2.png" alt="">
+                        <img src="../assets/images/focus-card-image-2.png" alt="Our Values and Vision">
                         </div>
                         <div class="focus-card-content">
                             <p class="unlock"><span>Your Goals, Our Blueprint</span></p>
@@ -69,7 +69,7 @@ include_once("includes/head.php");
                 <div class="col-lg-4">
                     <div class="we-focus-card">
                         <div class="we-focus-image-wrapper">
-                            <img src="../assets/images/focus-card-image-3.png" alt="">
+                        <img src="../assets/images/focus-card-image-3.png" alt="Team Collaboration and Growth">
                         </div>
                         <div class="focus-card-content">
                             <p class="unlock"><span>Success Stories That Speak Volumes</span></p>

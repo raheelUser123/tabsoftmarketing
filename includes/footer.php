@@ -8,22 +8,22 @@
   <!-- Section: Links  -->
   <section id="full-power-call">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-9">
-            <h3>
-                    <?php echo isset($headingText) ? $headingText : 'Outsmart the Algorithm. Outperform <br> the Competition. Outsource Your Marketing.'; ?>
-                </h3>
-            </div>
-            <div class="col-lg-3">
-                <div class="full-power-button">
-                    <a href="/get-proposal/"> 
-                        <button class="button2">Get Free Proposal</button>
-                    </a>
-                </div>
-            </div>
+      <div class="row">
+        <div class="col-lg-9">
+          <h3>
+            <?php echo isset($headingText) ? $headingText : 'Outsmart the Algorithm. Outperform <br> the Competition. Outsource Your Marketing.'; ?>
+          </h3>
         </div>
+        <div class="col-lg-3">
+          <div class="full-power-button">
+            <a href="/get-proposal/">
+              <button class="button2">Get Free Proposal</button>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
-</section>
+  </section>
   <section class="footer-widgets">
     <div class="container text-center text-md-start">
       <!-- Grid row -->
@@ -124,10 +124,10 @@
           </div>
           <div class="footer-slider-div">
             <div class="footerslider">
-              <div class="py-2 px-4"><img src="../assets/images/footer-slider-image-1.png" alt=""></div>
-              <div class="py-2 px-4"><img src="../assets/images/footer-slider-image-2.png" alt=""></div>
-              <div class="py-2 px-4"><img src="../assets/images/footer-slider-image-3.png" alt=""></div>
-              <div class="py-2 px-4"><img src="../assets/images/footer-slider-image-4.png" alt=""></div>
+              <div class="py-2 px-4"><img src="../assets/images/footer-slider-image-1.png" alt="Footer Slider Image 1"></div>
+              <div class="py-2 px-4"><img src="../assets/images/footer-slider-image-2.png" alt="Footer Slider Image 2"></div>
+              <div class="py-2 px-4"><img src="../assets/images/footer-slider-image-3.png" alt="Footer Slider Image 3"></div>
+              <div class="py-2 px-4"><img src="../assets/images/footer-slider-image-4.png" alt="Footer Slider Image 4"></div>
             </div>
           </div>
 
@@ -153,7 +153,7 @@
       </p> -->
       <p>
         <a href="/privacy-policy/" class="text-reset">Privacy Policy </a> &
-<a href="/terms-conditions/" class="text-reset">Terms & Conditions</a>
+        <a href="/terms-conditions/" class="text-reset">Terms & Conditions</a>
       </p>
 
       <p>
@@ -170,7 +170,7 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="modal-first">
-          <img src="../assets/images/pop.jpg" alt="">
+        <img src="../assets/images/pop.jpg" alt="Modal Image">
         </div>
       </div>
       <div class="col-lg-6">
@@ -1347,19 +1347,19 @@
 </script>
 <script>
   document.querySelectorAll('.accordion-button').forEach(button => {
-  button.addEventListener('click', () => {
-    const accordionItem = button.closest('.accordion-item');
-    const collapse = accordionItem.querySelector('.accordion-collapse');
+    button.addEventListener('click', () => {
+      const accordionItem = button.closest('.accordion-item');
+      const collapse = accordionItem.querySelector('.accordion-collapse');
 
-    // Close all other toggles
-    document.querySelectorAll('.accordion-collapse').forEach(item => {
-      if (item !== collapse) {
-        item.classList.remove('show');
-      }
+      // Close all other toggles
+      document.querySelectorAll('.accordion-collapse').forEach(item => {
+        if (item !== collapse) {
+          item.classList.remove('show');
+        }
+      });
+
+      // Toggle the current toggle
+      collapse.classList.toggle('show');
     });
-
-    // Toggle the current toggle
-    collapse.classList.toggle('show');
   });
-});
 </script>
