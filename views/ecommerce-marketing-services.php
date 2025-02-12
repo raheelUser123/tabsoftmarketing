@@ -551,7 +551,7 @@ include_once("includes/head.php");
                                 </div>
                             </fieldset>
 
-                            <input type="hidden" name="route" value="snapchat/" />
+                            <input type="hidden" name="route" value="ecommerce-marketing-services/" />
                             <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />

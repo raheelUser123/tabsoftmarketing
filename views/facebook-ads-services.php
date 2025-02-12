@@ -513,7 +513,7 @@ Our goal is to make your business shine on Facebook. We handle everything from <
                                 </div>
                             </fieldset>
 
-                            <input type="hidden" name="route" value="snapchat/" />
+                            <input type="hidden" name="route" value="facebook-ads-services/" />
                             <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />

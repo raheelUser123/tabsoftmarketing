@@ -490,7 +490,7 @@ We cover it all! From strategy to execution, we optimize every part of your Twit
                                 </div>
                             </fieldset>
 
-                            <input type="hidden" name="route" value="twitter/" />
+                            <input type="hidden" name="route" value="twitter-ads-services/" />
                             <input type="hidden" name="brand" value="Tabsoft Marketing" />
                             <input type="hidden" name="token" value="<?= $token; ?>" />
                             <input type="hidden" name="tag" value="sidepanel form in landing-page" />
