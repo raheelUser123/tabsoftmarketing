@@ -13,17 +13,6 @@
           Marketing Management Services
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <!-- <li class="dropdown-submenu">
-              <a class="dropdown-item dropdown-toggle" href="#" id="ecommerceDropdown" role="button">
-              Search Engine Optimization
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="ecommerceDropdown">
-                <li><a class="dropdown-item" href="/search-engine-optimization/">Search Engine Optimization </a></li>
-                <li><a class="dropdown-item" href="/local-seo/">Local Search</a></li>
-                <li><a class="dropdown-item" href="/technical-seo/">Technical SEO</a></li>
-                <li><a class="dropdown-item" href="/review-reputation-services/">Review & Reputation Management</a></li>
-              </ul>
-            </li> -->
             <li><a class="dropdown-item" href="/seo-services/">Search Engine Optimization </a></li>
                 <li><a class="dropdown-item " href="/local-seo-services/">Local Search</a></li>
                 <li><a class="dropdown-item " href="/technical-seo-services/">Technical SEO</a></li>
