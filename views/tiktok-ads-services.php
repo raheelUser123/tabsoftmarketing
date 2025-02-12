@@ -358,7 +358,7 @@ include_once("includes/head.php");
                     <div class="left-sec-content-wrapper">
                         <h6><span>Do Not Hesitate to</span></h6>
                         <h3>Speak With Our<br>Creative Ad Managers</h3>
-                        <a href="/get-proposal">
+                        <a href="/get-proposal/">
                             <p>Contact Us →</p>
                         </a>
                     </div>
