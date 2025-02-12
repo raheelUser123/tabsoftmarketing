@@ -122,7 +122,7 @@ curl_setopt_array($curl, array(
 <html lang="en-US">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>Tabsoft Marketing Secure Payment</title>
+  <title>Kindle Direct Service Secure Payment</title>
     <meta name="description" content=""> 
    
  
@@ -267,14 +267,14 @@ curl_setopt_array($curl, array(
    <div class="main_nav">
         <div class="container">   
             <nav class="navbar navbar-expand-lg navbar-light">
-			<a class="navbar-brand logo" href="/" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="images/logoo.png" alt="logoa" style="width:10%;"> </a>
+			<a class="navbar-brand logo" href="/" data-aos="fade-down" data-aos-duration="1000"> <img class="img-fluid" src="images/logoo.webp" alt="logoa" style="width:10%;"> </a>
                     
             </nav>        
         </div>
     </div>
 </header> 
 
-    <div class="about_area inner_bg" style="background-image:url('img/payment_banner.png')">
+    <div class="about_area inner_bg" style="background-image:url('img/payment_banner.webp')">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -295,12 +295,12 @@ curl_setopt_array($curl, array(
 				<div class="cardInfo">
 					<div class="card myCardPay" >
 						<div class="card-header text-center text-black">
-							<p class="card-heading" style="color:black;">Invoice from Tabsoft Marketing</p>
+							<p class="card-heading" style="color:black;">Invoice from Tab Soft Marketing</p>
 							<p style="color:black;">Billed to <?php echo $dataLeads->fname; ?> <?php echo $dataLeads->lname; ?></p>
 						</div>
 					
 						<div class="card-body text-center" style="padding-left:200px;padding-right:200px">
-							<img style="max-width:300px !important" src="img/visa_mastercard.png" alt="stripe payment icon">
+							<img style="max-width:300px !important" src="img/visa_mastercard.webp" alt="stripe payment icon">
 							<form action="stripecharge.php" method="POST" id="payment-form">
 							<input type="hidden" name="id" id="lead_id" value="<?php echo $dataLeads->id; ?>" class="form-control">
 							<input type="hidden" name="currency" id="currency" value="<?php echo $currency; ?>" class="form-control">

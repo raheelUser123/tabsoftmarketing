@@ -1,6 +1,6 @@
 <?php
 
-$domain = "https://www.Tabsoftmarketing.com";
+$domain = "www.tabsoftmarketing.com";
 
 $name = $_POST['name'] ?? '';
 $email = $_POST['email'] ?? '';
@@ -69,3 +69,4 @@ header("location:/thank-you/?successMsg=$msg");
 else{
     exit(header("location:/"));
 }
+
