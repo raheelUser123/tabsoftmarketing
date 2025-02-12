@@ -30,7 +30,7 @@ if ($request_uri === '/home/') {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-  <meta name="title" content="<?php echo isset($metaTitle) ? $metaTitle : 'Award-Winning Digital Marketing Firm | Tabsoft Marketing'; ?>">
+  <title><?php echo isset($metaTitle) ? $metaTitle : 'Award-Winning Digital Marketing Firm | Tabsoft Marketing'; ?></title>
   <meta name="description" content="<?php echo isset($metaDescription) ? $metaDescription : 'Specializing in Digital Marketing and Ad Management, we don’t just build your online presence. We drive ROI with our result-driven services. '; ?>">
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
