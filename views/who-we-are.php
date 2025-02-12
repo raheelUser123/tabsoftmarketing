@@ -232,7 +232,7 @@ include_once("includes/head.php");
             <div class="row">
                 <div class="col-lg-8">
                     <p class="experience-para"><span>10+ Years of Experience</span></p>
-                    <h2>A Proven Track Record of Success                    </h2>
+                    <h2>A Proven Track Record of Success</h2>
                         <p>
                         At TabsoftAgency, we don’t just talk about results; we deliver them. Our team boasts a proven track record of success across various industries and campaign types. We're not afraid to think outside the box and explore innovative solutions to help you achieve your marketing goals. Join the growing list of businesses partnered with us to achieve digital marketing success.
                     </p>
@@ -295,7 +295,7 @@ include_once("includes/head.php");
                 </div>
                 <div class="col">
                 <div class="we-grown-image-wrapper">
-                        <img src="../assets/images/we-grown-image-7.png" alt="">
+                        <img src="../assets/images/we-grown-image-17.png" alt="">
                     </div>
                 </div>
             </div>

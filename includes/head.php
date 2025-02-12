@@ -38,8 +38,6 @@ if ($request_uri === '/home/') {
   <meta name="facebook-domain-verification" content="18q1ixhjp4q0xxpaqx3yzvrf1kfroh" />
   <link rel="shortcut icon" href="../assets/images/fav-icon.png" type="image/png">
   <link rel="stylesheet" href="../assets/css/style.css">
-  <link rel="stylesheet" href="../assets/css/amazonfba.css">
-  <link rel="stylesheet" href="../assets/css/privacy.css">
   <link rel="stylesheet" href="../assets/css/main.js">
   <link rel="stylesheet" href="" name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
   <link rel="icon" href="../assets/images/Tab-Soft-Marketing-fav-icon.png" type="image/png">

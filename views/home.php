@@ -8,9 +8,9 @@
         <div class="container">
             <div class="row-im">
                 <div class="col-lg-12">
-                    <div class="icon-wrapper-3">
-                        <img src="../assets/images/shape-3.png" alt="">
-                    </div>
+                    <!-- <div class="icon-wrapper-3">
+                        <img src="../assets/images/shape-3-hero.png" alt="">
+                    </div> -->
                     <div class="row">
                         <div class="col-lg-7">
                             <div class="hero-sec-content">
