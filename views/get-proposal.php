@@ -4,6 +4,11 @@
 
 <body>
     <?php include_once("includes/header.php") ?>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
     <section id="get-proposal-hero-section">
         <div class="container">
             <div class="row">
