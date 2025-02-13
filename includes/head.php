@@ -56,7 +56,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
   <link href=" https://fonts.cdnfonts.com/css/sofia-pro" rel="stylesheet">
 
-
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "TabSoft Marketing",
+  "alternateName": "Tabsoft Marketing",
+  "url": "https://www.tabsoftmarketing.com/",
+  "logo": "https://www.tabsoftmarketing.com/assets/images/Tab-Soft-Marketing.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "(888) 205-2301",
+    "contactType": "customer service",
+    "contactOption": "TollFree",
+    "areaServed": ["US","GB","CA"],
+    "availableLanguage": "en"
+  },
+  "sameAs": [
+    "https://www.facebook.com/Tabsoftmarketing",
+    "https://www.instagram.com/tabsoftmarketing/"
+  ]
+}
+</script>
   <style>
     .jun {
       visibility: hidden;
