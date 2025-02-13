@@ -427,7 +427,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="vertical-slider-month">
                         <h6><span>Month 2</span></h6>
-                        <h2>Strategy Developme</h2>
+                        <h2>Strategy Development</h2>
                         <ul>
                             <li><i class="bi bi-check"></i> Collaborate with the client to define specific objectives (e.g., brand awareness, conversions).</li>
                             <li><i class="bi bi-check"></i> Research and define the target audience’s demographics, interests, and online behaviors.</li>
