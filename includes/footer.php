@@ -37,15 +37,15 @@
             Follow Us
           </h6>
           <div class="footer-social-links">
-            <a href="https://www.facebook.com/Tabsoftagency/" target="_blank">
+            <a href="https://www.facebook.com/Tabsoftmarketing/" target="_blank">
               <i class="bi bi-facebook"></i>
             </a>
-            <a href="https://www.instagram.com/Tabsoftagency/">
+            <a href="https://www.instagram.com/Tabsoftmarketing/" target="_blank">
               <i class="bi bi-instagram"></i>
             </a>
-            <a href="https://www.linkedin.com/company/Tabsoftagency/">
+            <!-- <a href="https://www.linkedin.com/company/Tabsoftagency/" target="_blank">
               <i class="bi bi-linkedin"></i>
-            </a>
+            </a> -->
             <!-- <a href="">
               <i class="bi bi-twitter-x"></i>
             </a> -->
