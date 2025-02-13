@@ -1,26 +1,19 @@
 <IfModule mod_rewrite.c>
-
    RewriteEngine On
 
-# Force www: from http://stackoverflow.com/a/4958847/1078583
-RewriteCond %{HTTP_HOST} !^$
-RewriteCond %{HTTP_HOST} !^www\. [NC]
-RewriteCond %{HTTPS}s ^on(s)|
-RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+   # Redirect all traffic to https://www.tabsoftmarketing.com
+   RewriteCond %{HTTPS} off [OR]
+   RewriteCond %{HTTP_HOST} !^www\.tabsoftmarketing\.com$ [NC]
+   RewriteRule ^(.*)$ https://www.tabsoftmarketing.com/$1 [R=301,L]
 
-# Force SSL: From http://stackoverflow.com/q/24322035/
-RewriteCond %{HTTPS} off
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L,NE]
-
-
-
+   # Process WordPress or other dynamic routes
    RewriteCond %{REQUEST_FILENAME} !-f
    RewriteCond %{REQUEST_FILENAME} !-d
    RewriteRule ^(.*)$ index.php [L,QSA]
-
 </IfModule>
+
 <IfModule mod_deflate.c>
-# Compress HTML, CSS, JavaScript, Text, XML and fonts
+# Compress HTML, CSS, JavaScript, Text, XML, and fonts
 AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/rss+xml
 AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
