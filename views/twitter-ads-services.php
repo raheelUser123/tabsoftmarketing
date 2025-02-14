@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$metaUrl = "https://www.tabsoftmarketing.com/twitter-ads-services/";
 $metaTitle = "Twitter (X) Ad Management Services | Tabsoft Marketing";
 $metaDescription = "Advertise your brand with our tailored Twitter (X) ad management services, delivering creative, data-driven campaigns that reach the right audience.";
 include_once("includes/head.php");
@@ -8,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -535,7 +536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Client Testimonial 2">
+                                    <img src="../assets/images/testi-image-2.png" alt="Client Testimonial 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -555,7 +556,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Client Testimonial 3">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Client Testimonial 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -576,7 +577,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial 4">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -592,6 +593,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+    <script type="application/ld+json">
+        {
+            @context: "http://schema.org/",
+            @type: "FAQPage",
+            mainEntity: [{
+                    @type: "Question",
+                    name: "What makes your Twitter (X) ad management services different?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Our services stand out because we focus on tailored strategies, creative ad designs, and real-time data optimization to ensure your campaigns reach the right audience and deliver measurable results."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How do you determine the right audience for my ads?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "We use a combination of data analysis, audience research, and behavioral insights to pinpoint exactly who your ideal customers are, ensuring your ads get to the people who matter most."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "Will I be able to track the performance of my ads?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Absolutely! We provide detailed reports with clear metrics so you can track the effectiveness of your campaigns, understand what’s working, and make informed decisions moving forward."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How much budget should I allocate for my Twitter (X) ads?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "The ideal budget depends on your goals, target audience, and the scope of your campaign. We’ll work with you to create a budget that maximizes ROI without overspending."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How long does it take to see results from Twitter (X) ads?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "While some results can be seen within days, we recommend allowing a few weeks for optimal performance, as we continually monitor and adjust your campaigns to improve results over time."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

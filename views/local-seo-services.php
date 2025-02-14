@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$metaUrl = "https://www.tabsoftmarketing.com/local-seo-services/";
 $metaTitle = "Boost Visibility with Tabsoft Marketing Local SEO Services.";
 $metaDescription = "Dire need for result-driven local SEO services? Tabsoft Marketing is a leading digital marketing firm known for helping businesses grow online.";
 include_once("includes/head.php");
@@ -530,6 +531,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+    <script type="application/ld+json">
+{
+	""@context"": ""http://schema.org/"",
+	""@type"": ""FAQPage"",
+	""mainEntity"": [
+		{
+			""@type"": ""Question"",
+			""name"": ""What is local SEO?"",
+			""acceptedAnswer"": {
+				""@type"": ""Answer"",
+				""text"": ""Local SEO helps businesses like yours get found by customers searching online in your area. Think of it as making sure your business shows up when someone searches ""restaurants near me"" or ""plumbers in [your city].""""
+			}
+		},
+		{
+			""@type"": ""Question"",
+			""name"": ""Why is local SEO important for my business?"",
+			""acceptedAnswer"": {
+				""@type"": ""Answer"",
+				""text"": ""Most people search online before visiting a store or using a local service. Local SEO helps you reach those customers who are actively looking for what you offer right when they need it. This can bring more customers to your door (or website).""
+			}
+		},
+		{
+			""@type"": ""Question"",
+			""name"": ""What does Tabsoft Marketing do for local SEO?"",
+			""acceptedAnswer"": {
+				""@type"": ""Answer"",
+				""text"": ""We help optimize your online presence so search engines like Google know where your business is and what you offer. We do this by optimizing your Google Business Profile, building online citations, improving your website, and more.""
+			}
+		},
+		{
+			""@type"": ""Question"",
+			""name"": ""How long does it take to see results from local SEO?"",
+			""acceptedAnswer"": {
+				""@type"": ""Answer"",
+				""text"": ""SEO takes time and consistent effort. While some improvements can be seen relatively quickly, it usually takes a few months to see significant results. We'll track your progress and keep you updated along the way.""
+			}
+		},
+		{
+			""@type"": ""Question"",
+			""name"": ""How much does local SEO cost?"",
+			""acceptedAnswer"": {
+				""@type"": ""Answer"",
+				""text"": ""The cost of local SEO depends on your specific needs and goals. We offer customized plans to fit different budgets. Contact us for a free consultation, and we will discuss your options.""
+			}
+		},
+		{
+			""@type"": ""Question"",
+			""name"": ""What is a Google Business Profile (GBP)?"",
+			""acceptedAnswer"": {
+				""@type"": ""Answer"",
+				""text"": ""Your Google Business Profile is a free listing on Google that shows important information about your business, like your address, phone number, hours, and customer reviews. It's crucial for local SEO because it often appears at the top of search results. We help you set up and optimize this profile.""
+			}
+		}
+	]
+}
+</script>															
+																
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

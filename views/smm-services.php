@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$metaUrl = "https://www.tabsoftmarketing.com/smm-services/";
 $metaTitle = " Best Social Media Marketing Services| Tabsoft Marketing";
 $metaDescription = "Elevate your online presence with our expert social media marketing services. Drive growth, engagement, and results for your brand across platforms.";
 include_once("includes/head.php");
@@ -8,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -374,7 +375,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Social Media Marketing strategy and performance analytics">
+            <img src="../assets/images/cli-seo-image.webp" alt="Social Media Marketing strategy and performance analytics">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -507,7 +508,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                    <img src="../assets/images/smm-form.gif" alt="Social media marketing form animation" style="width: 80%;">
+                        <img src="../assets/images/smm-form.gif" alt="Social media marketing form animation" style="width: 80%;">
                     </div>
 
                 </div>
@@ -586,7 +587,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-1.jpg" alt="Client testimonial image 1">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Client testimonial image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -606,7 +607,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Client testimonial image 2">
+                                    <img src="../assets/images/testi-image-2.png" alt="Client testimonial image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -626,7 +627,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Client testimonial image 3">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Client testimonial image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -647,7 +648,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -663,6 +664,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+    <script type="application/ld+json">
+        {
+            @context: "http://schema.org/",
+            @type: "FAQPage",
+            mainEntity: [{
+                    @type: "Question",
+                    name: "What social media platforms do you specialize in?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "We specialize in all major platforms, including Facebook, Instagram, Twitter/X, LinkedIn, TikTok, and Pinterest. We tailor our strategies to the platforms most relevant to your target audience."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How do you measure the success of a social media campaign?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "We track key metrics such as engagement (likes, comments, shares), reach, website traffic, lead generation, and conversions. We provide regular reports to keep you informed of our progress."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "What is included in your social media management services?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Our services typically include strategy development, content creation (including copywriting, graphic design, and video production), community management, social media advertising, and performance reporting. We offer customizable packages to meet your specific needs."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How much does social media management cost?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Our pricing varies depending on the scope of work and the specific services required. We offer customized packages to fit different budgets. Contact us for a free consultation and personalized quote."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How do I get started with Tabsoft Marketing?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Simply contact us through our website, email, or phone. We'll schedule a consultation to discuss your goals and how we can help you achieve them."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$metaUrl = "https://www.tabsoftmarketing.com/who-we-are/";
 $metaTitle = "About Us | Who Are We? | Tabsoft Marketing";
 $metaDescription = "Tabsoft is a digital marketing agency that helps businesses grow with tailored strategies, innovative solutions, and expert insights.";
 include_once("includes/head.php");

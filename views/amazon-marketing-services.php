@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$metaUrl = "https://www.tabsoftmarketing.com/amazon-marketing-services/";
 $metaTitle = "Professional Amazon Marketing Services  | Tabsoft Marketing";
 $metaDescription = "Elevate your brand with professional Amazon marketing services. Maximize visibility, increase sales, and grow your business with expert solutions.";
 include_once("includes/head.php");
 ?>
+
 
 <body>
     <!-- Google Tag Manager (noscript) -->
@@ -667,6 +669,70 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+    <script type="application/ld+json">																									
+{																									
+	@context: "http://schema.org/",																								
+	@type: "FAQPage",																								
+	mainEntity: [																								
+		{																							
+			@type: "Question",																						
+			name: "What do Amazon marketing services actually do?",																						
+			acceptedAnswer: {																						
+				@type: "Answer",																					
+				text: "We help you sell more on Amazon by improving your product visibility, driving targeted traffic to your listings, and building a strong brand presence. This includes optimizing your listings, managing advertising campaigns, and developing effective marketing strategies."																					
+			}																						
+		},																							
+		{																							
+			@type: "Question",																						
+			name: "Why should I hire someone to manage my Amazon marketing?",																						
+			acceptedAnswer: {																						
+				@type: "Answer",																					
+				text: "The Amazon marketplace is complex and competitive. We have the expertise and tools to navigate this landscape effectively, saving you time, maximizing your ROI, and helping you avoid costly mistakes."																					
+			}																						
+		},																							
+		{																							
+			@type: "Question",																						
+			name: "What's the difference between Amazon SEO and Amazon PPC?",																						
+			acceptedAnswer: {																						
+				@type: "Answer",																					
+				text: "Amazon SEO (Search Engine Optimization) focuses on improving your organic (free) ranking in search results through listing optimization. Amazon PPC (Pay-Per-Click) advertising involves paying for targeted ads to appear in prominent placements, driving immediate traffic. Both are important for a successful Amazon strategy."																					
+			}																						
+		},																							
+		{																							
+			@type: "Question",																						
+			name: "How do you measure the success of your Amazon marketing efforts?",																						
+			acceptedAnswer: {																						
+				@type: "Answer",																					
+				text: "We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our strategies and provide transparent reporting."																					
+			}																						
+		},																							
+		{																							
+			@type: "Question",																						
+			name: "How do you measure the success of your Amazon marketing efforts?",																						
+			acceptedAnswer: {																						
+				@type: "Answer",																					
+				text: "We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our strategies and provide transparent reporting."																					
+			}																						
+		},																							
+		{																							
+			@type: "Question",																						
+			name: "What if I'm just starting out on Amazon? Can you still help",																						
+			acceptedAnswer: {																						
+				@type: "Answer",																					
+				text: "Absolutely! We work with businesses of all sizes, from startups to established brands. We can help you develop a solid foundation for your Amazon business and create a tailored strategy to achieve your specific goals."																					
+			}																						
+		},																							
+		{																							
+			@type: "Question",																						
+			name: "How much do your Amazon marketing services cost?",																						
+			acceptedAnswer: {																						
+				@type: "Answer",																					
+				text: "Our pricing varies depending on the scope of services required and the specific needs of your business. We offer customized packages and can provide a personalized quote after discussing your goals and objectives."																					
+			}																						
+		}																							
+	]																								
+}																									
+</script>																									
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

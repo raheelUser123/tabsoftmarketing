@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$metaTitle = "Facebook Ad Management Services | Tabsoft Marketing |";
+$metaUrl = "https://www.tabsoftmarketing.com/facebook-ads-services/";
+$metaTitle = "Facebook Ad Management Services | Tabsoft Marketing ";
 $metaDescription = "Maximize your business growth with expert Facebook ad management services and reach the right audience.";
 include_once("includes/head.php");
 ?>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -35,8 +36,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
     <?php include_once("partner-2-global.php") ?>
-
-
     <section id="build-your-fb">
         <div class="container">
             <div class="build-your-heading text-center">
@@ -340,7 +339,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Facebook Ads Strategy and Optimization">
+            <img src="../assets/images/cli-seo-image.webp" alt="Facebook Ads Strategy and Optimization">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -461,7 +460,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper facebook-ads">
-                    <img src="../assets/images/fb-form-img.png" alt="Facebook Ads Lead Generation Form">
+                        <img src="../assets/images/fb-form-img.png" alt="Facebook Ads Lead Generation Form">
                     </div>
 
                 </div>
@@ -540,7 +539,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial - Satisfied Customer Feedback">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial - Satisfied Customer Feedback">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -560,7 +559,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Customer Testimonial - Positive Feedback">
+                                    <img src="../assets/images/testi-image-2.png" alt="Customer Testimonial - Positive Feedback">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -580,7 +579,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Customer Testimonial - Satisfied Client Review">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Customer Testimonial - Satisfied Client Review">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -599,7 +598,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial - Positive Feedback on Services">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial - Positive Feedback on Services">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -615,6 +614,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+    <script type="application/ld+json">
+        {
+            @context: "http://schema.org/",
+            @type: "FAQPage",
+            mainEntity: [{
+                    @type: "Question",
+                    name: "How do you determine the best audience for my Facebook ads?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "We use advanced audience targeting tools to analyze your ideal customer profile. This helps us reach the right people based on demographics, interests, behaviors, and past interactions with your business."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How much should I spend on Facebook ads?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "The budget depends on your goals and the scope of your campaign. We’ll help you set a budget that aligns with your objectives and maximize your ROI by optimizing your ad spend for the best results"
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How do you measure the success of my Facebook ad campaigns?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "We track key metrics such as click-through rates, conversions, return on ad spend (ROAS), and engagement to evaluate the success of your campaigns. We continuously analyze and adjust based on performance data."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "Can I change my Facebook ads once they’re live?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Absolutely! We can adjust your ad copy, creative, targeting, or budget at any time to ensure the campaign continues to perform at its best. Continuous testing and optimization are key to success."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How quickly will I see results from my Facebook ads?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Results can vary depending on the campaign type and objectives, but typically, you’ll start seeing engagement and traffic within the first few days. Conversion-based goals may take a little longer, but we’ll make sure we’re on the right track every step of the way."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How do you customize your email marketing campaigns?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "We customize email marketing campaigns based on your business objectives and audience insights. This involves segmenting your audience, crafting personalized messages, and designing emails that resonate with your target demographic to increase engagement and conversions."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

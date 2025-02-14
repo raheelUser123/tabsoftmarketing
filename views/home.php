@@ -2,6 +2,7 @@
 <html lang="en">
 <?php include_once("includes/head.php") ?>
 
+
 <body>
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
@@ -669,7 +670,95 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-
+				
+    <script type="application/ld+json">				
+{				
+	@context: "http://schema.org/",			
+	@type: "FAQPage",			
+	mainEntity: [			
+		{		
+			@type: "Question",	
+			name: "What digital marketing services does Tabsoft Marketing offer?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "Tabsoft Marketing provides a comprehensive suite of digital marketing services, including Ad Management for platforms like Instagram, YouTube, TikTok, Snapchat, and Twitter, Amazon Marketing, Ecommerce Marketing, Email Marketing, Search Engine Optimization (SEO), and Social Media Marketing."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "How can your ad management services benefit my business?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "Our ad management services are designed to maximize your visibility and engagement across multiple platforms. We create targeted campaigns that are not only creative but also backed by detailed analytics to ensure your advertisements reach the right audience and achieve high conversion rates."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "What makes your Amazon marketing strategies effective?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "Our Amazon marketing strategies focus on optimizing your product listings with A+ content, managing effective ad placements, and utilizing strategic keyword targeting. These efforts are aimed at enhancing product visibility and driving sales through informed and tactical decision-making."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "Can Tabsoft Marketing help with my business's SEO needs?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "Absolutely! Our SEO experts focus on improving your site's visibility by enhancing your search engine rankings through optimized content, strategic keyword placement, and building a robust backlink profile. We tailor our SEO strategies to meet the specific needs of your business, helping you attract more organic traffic."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "What is involved in your ecommerce marketing services?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "Our ecommerce marketing services include a range of strategies such as SEO, pay-per-click advertising, social media campaigns, and email marketing. We aim to enhance your product visibility and sales by creating targeted campaigns that attract and convert customers throughout the ecommerce funnel."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "How do you customize your email marketing campaigns?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "We customize email marketing campaigns based on your business objectives and audience insights. This involves segmenting your audience, crafting personalized messages, and designing emails that resonate with your target demographic to increase engagement and conversions."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "How often will I receive updates on my digital marketing campaigns?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "We provide regular updates and detailed reports on the performance of your digital marketing campaigns. Typically, we offer monthly reviews, but we can adjust the frequency of reports and updates according to your preferences and needs."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "What results can I expect from your social media marketing services?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "With our social media marketing services, you can expect increased brand awareness, higher engagement rates, and growth in your follower base. We strategize content and campaigns that resonate with your target audience, fostering a community around your brand and driving business growth."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "Why should I choose Tabsoft Marketing over other digital marketing firms?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to the client's specific goals. Our team of experts leverages the latest digital marketing tools and analytics to ensure optimal performance and results. Plus, our commitment to transparency and client communication ensures you are always informed and in control."
+			}	
+		},		
+		{		
+			@type: "Question",	
+			name: "How can I get started with Tabsoft Marketing?",	
+			acceptedAnswer: {	
+				@type: "Answer",
+				text: "Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or phone. We'll arrange an initial consultation to discuss your needs and objectives and then propose a tailored strategy to help your business succeed in the digital world."
+			}	
+		}		
+	]			
+}				
+</script>				
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

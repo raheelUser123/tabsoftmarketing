@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$metaUrl = "https://www.tabsoftmarketing.com/contact-us/";
 $metaTitle = "Contact Us for A Free Proposal | Tabsoft Marketing";
 $metaDescription = "Get in touch with Tabsoft Marketing for a free proposal and see how our expert team can help your business and deliver exceptional results.";
 include_once("includes/head.php");

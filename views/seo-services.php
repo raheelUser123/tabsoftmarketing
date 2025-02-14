@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
+$metaUrl = "https://www.tabsoftmarketing.com/seo-services/";
 $metaTitle = "SEO Services by Tabsoft Marketing – That Businesses Trust Most";
 $metaDescription = " Increase your site's rankings with a result-driven SEO company. We offer professional SEO services, delivering consistent results.";
 include_once("includes/head.php");
@@ -8,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -263,7 +264,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Client SEO Strategy Image">
+            <img src="../assets/images/cli-seo-image.webp" alt="Client SEO Strategy Image">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -382,7 +383,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                    <img src="../assets/images/seo-form-image.webp" alt="SEO Consultation Form Image">
+                        <img src="../assets/images/seo-form-image.webp" alt="SEO Consultation Form Image">
                     </div>
 
                 </div>
@@ -460,7 +461,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/test-image-female-1.webp" alt="Female Client Testimonial Image 1">
+                                    <img src="../assets/images/test-image-female-1.webp" alt="Female Client Testimonial Image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -479,7 +480,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/test-image-male-1.webp" alt="Male Client Testimonial Image 1">
+                                    <img src="../assets/images/test-image-male-1.webp" alt="Male Client Testimonial Image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -498,7 +499,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/test-image-female-2.webp" alt="Female Client Testimonial Image 2">
+                                    <img src="../assets/images/test-image-female-2.webp" alt="Female Client Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -517,7 +518,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/test-image-male-2.webp" alt="Male Client Testimonial Image 2">
+                                    <img src="../assets/images/test-image-male-2.webp" alt="Male Client Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -533,6 +534,84 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
+    <script type="application/ld+json">
+        {
+            @context: "http://schema.org/",
+            @type: "FAQPage",
+            mainEntity: [{
+                    @type: "Question",
+                    name: "What are SEO Services?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "SEO stands for Search Engine Optimization. It's the process of improving your website's ranking in search engine results pages (like Google, Bing, etc.) so that more people can find you when they search for products or services related to your business."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "Why should I choose Tabsoft Marketing for SEO?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "We're experts: Our team has years of experience in developing and implementing successful SEO strategies.																					
+                        Data - driven approach: We rely on data and analytics to make informed decisions and track progress.
+                        Transparent communication: We keep you updated on the progress of your campaign and provide regular reports.
+                        Customized solutions: We tailor our services to your specific needs and budget.
+                        Focus on results: Our goal is to increase your website traffic,
+                        improve your online visibility,
+                        and drive more leads and sales.
+                        "																									
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "What does the SEO process involve?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Keyword research: Identifying the most relevant keywords that your target audience is searching for.																					
+                        On - page optimization: Optimizing your website content,
+                        including titles,
+                        descriptions,
+                        and images,
+                        for search engines.
+                        Off - page optimization: Building high - quality backlinks from other reputable websites to your site.
+                        Technical SEO: Ensuring your website is technically sound and easily accessible to search engine crawlers.
+                        Ongoing monitoring and analysis: Tracking your website 's performance and making adjustments as needed."																									
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How long does it take to see results from SEO?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "SEO is an ongoing process, and results can vary depending on several factors, including the competitiveness of your industry, the current state of your website, and the scope of the project. You can typically start seeing improvements within a few months, but significant results may take longer."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How much do your SEO services cost?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Our pricing is flexible and depends on various factors, such as the scope of the project, the level of competition, and your specific business needs. We offer a range of packages to suit different budgets."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "Do you offer any guarantees?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "While we can't guarantee specific rankings, we can guarantee our commitment to delivering high-quality work and providing you with the best possible results. We use proven strategies and continuously monitor your campaign's progress to ensure we are on track to meet your goals."
+                    }
+                },
+                {
+                    @type: "Question",
+                    name: "How can I get started?",
+                    acceptedAnswer: {
+                        @type: "Answer",
+                        text: "Contact us today for a free consultation. We'll discuss your business goals, answer any questions you may have, and provide you with a personalized quote."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">
