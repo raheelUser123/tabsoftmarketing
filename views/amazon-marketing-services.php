@@ -10,9 +10,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -380,7 +380,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Amazon marketing strategy and SEO optimization">
+            <img src="../assets/images/cli-seo-image.webp" alt="Amazon marketing strategy and SEO optimization">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -508,7 +508,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                    <img src="../assets/images/amazon-marketing-form.svg" alt="Amazon Marketing Form Design" style="width: 70%;">
+                        <img src="../assets/images/amazon-marketing-form.svg" alt="Amazon Marketing Form Design" style="width: 70%;">
                     </div>
 
                 </div>
@@ -589,7 +589,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial Image 1">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial Image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -611,7 +611,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Client Testimonial Image 2">
+                                    <img src="../assets/images/testi-image-2.png" alt="Client Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -632,7 +632,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Client Testimonial Image 3">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Client Testimonial Image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -653,7 +653,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial Image 4">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial Image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -669,70 +669,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <script type="application/ld+json">																									
-{																									
-	@context: "http://schema.org/",																								
-	@type: "FAQPage",																								
-	mainEntity: [																								
-		{																							
-			@type: "Question",																						
-			name: "What do Amazon marketing services actually do?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We help you sell more on Amazon by improving your product visibility, driving targeted traffic to your listings, and building a strong brand presence. This includes optimizing your listings, managing advertising campaigns, and developing effective marketing strategies."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "Why should I hire someone to manage my Amazon marketing?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "The Amazon marketplace is complex and competitive. We have the expertise and tools to navigate this landscape effectively, saving you time, maximizing your ROI, and helping you avoid costly mistakes."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What's the difference between Amazon SEO and Amazon PPC?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Amazon SEO (Search Engine Optimization) focuses on improving your organic (free) ranking in search results through listing optimization. Amazon PPC (Pay-Per-Click) advertising involves paying for targeted ads to appear in prominent placements, driving immediate traffic. Both are important for a successful Amazon strategy."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you measure the success of your Amazon marketing efforts?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our strategies and provide transparent reporting."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you measure the success of your Amazon marketing efforts?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our strategies and provide transparent reporting."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What if I'm just starting out on Amazon? Can you still help",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Absolutely! We work with businesses of all sizes, from startups to established brands. We can help you develop a solid foundation for your Amazon business and create a tailored strategy to achieve your specific goals."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How much do your Amazon marketing services cost?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Our pricing varies depending on the scope of services required and the specific needs of your business. We offer customized packages and can provide a personalized quote after discussing your goals and objectives."																					
-			}																						
-		}																							
-	]																								
-}																									
-</script>																									
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "What do Amazon marketing services actually do?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We help you sell more on Amazon by improving your product visibility, driving targeted traffic to your listings, and building a strong brand presence. This includes optimizing your listings, managing advertising campaigns, and developing effective marketing strategies."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Why should I hire someone to manage my Amazon marketing?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The Amazon marketplace is complex and competitive. We have the expertise and tools to navigate this landscape effectively, saving you time, maximizing your ROI, and helping you avoid costly mistakes."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What's the difference between Amazon SEO and Amazon PPC?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Amazon SEO (Search Engine Optimization) focuses on improving your organic (free) ranking in search results through listing optimization. Amazon PPC (Pay-Per-Click) advertising involves paying for targeted ads to appear in prominent placements, driving immediate traffic. Both are important for a successful Amazon strategy."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do you measure the success of your Amazon marketing efforts?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We track key performance indicators (KPIs) such as sales growth, conversion rates, Advertising Cost of Sale (ACoS), organic ranking improvements, and brand awareness to measure the effectiveness of our strategies and provide transparent reporting."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What if I'm just starting out on Amazon? Can you still help?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely! We work with businesses of all sizes, from startups to established brands. We can help you develop a solid foundation for your Amazon business and create a tailored strategy to achieve your specific goals."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How much do your Amazon marketing services cost?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our pricing varies depending on the scope of services required and the specific needs of your business. We offer customized packages and can provide a personalized quote after discussing your goals and objectives."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

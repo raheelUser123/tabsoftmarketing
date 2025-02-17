@@ -666,46 +666,46 @@ include_once("includes/head.php");
     </section>
     <script type="application/ld+json">
         {
-            @context: "http://schema.org/",
-            @type: "FAQPage",
-            mainEntity: [{
-                    @type: "Question",
-                    name: "What social media platforms do you specialize in?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "We specialize in all major platforms, including Facebook, Instagram, Twitter/X, LinkedIn, TikTok, and Pinterest. We tailor our strategies to the platforms most relevant to your target audience."
+            "context": "http://schema.org/",
+            "type": "FAQPage",
+            "mainEntity": [{
+                    "type": "Question",
+                    "name": "What social media platforms do you specialize in?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "We specialize in all major platforms, including Facebook, Instagram, Twitter/X, LinkedIn, TikTok, and Pinterest. We tailor our strategies to the platforms most relevant to your target audience."
                     }
                 },
                 {
-                    @type: "Question",
-                    name: "How do you measure the success of a social media campaign?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "We track key metrics such as engagement (likes, comments, shares), reach, website traffic, lead generation, and conversions. We provide regular reports to keep you informed of our progress."
+                    "type": "Question",
+                    "name": "How do you measure the success of a social media campaign?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "We track key metrics such as engagement (likes, comments, shares), reach, website traffic, lead generation, and conversions. We provide regular reports to keep you informed of our progress."
                     }
                 },
                 {
-                    @type: "Question",
-                    name: "What is included in your social media management services?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "Our services typically include strategy development, content creation (including copywriting, graphic design, and video production), community management, social media advertising, and performance reporting. We offer customizable packages to meet your specific needs."
+                    "type": "Question",
+                    "name": "What is included in your social media management services?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Our services typically include strategy development, content creation (including copywriting, graphic design, and video production), community management, social media advertising, and performance reporting. We offer customizable packages to meet your specific needs."
                     }
                 },
                 {
-                    @type: "Question",
-                    name: "How much does social media management cost?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "Our pricing varies depending on the scope of work and the specific services required. We offer customized packages to fit different budgets. Contact us for a free consultation and personalized quote."
+                    "type": "Question",
+                    "name": "How much does social media management cost?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Our pricing varies depending on the scope of work and the specific services required. We offer customized packages to fit different budgets. Contact us for a free consultation and personalized quote."
                     }
                 },
                 {
-                    @type: "Question",
-                    name: "How do I get started with Tabsoft Marketing?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "Simply contact us through our website, email, or phone. We'll schedule a consultation to discuss your goals and how we can help you achieve them."
+                    "type": "Question",
+                    "name": "How do I get started with Tabsoft Marketing?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Simply contact us through our website, email, or phone. We'll schedule a consultation to discuss your goals and how we can help you achieve them."
                     }
                 }
             ]

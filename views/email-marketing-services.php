@@ -9,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -365,7 +365,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Email marketing strategy and campaign optimization">
+            <img src="../assets/images/cli-seo-image.webp" alt="Email marketing strategy and campaign optimization">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -498,7 +498,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                    <img src="../assets/images/email-marketing-services-form.gif" alt="Email Marketing Services Signup Form" style="width: 100%;">
+                        <img src="../assets/images/email-marketing-services-form.gif" alt="Email Marketing Services Signup Form" style="width: 100%;">
                     </div>
 
                 </div>
@@ -577,7 +577,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-1.jpg" alt="Happy Client Testimonial for Email Marketing Services">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Happy Client Testimonial for Email Marketing Services">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -597,7 +597,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Client Testimonial on Effective Email Marketing Campaigns">
+                                    <img src="../assets/images/testi-image-2.png" alt="Client Testimonial on Effective Email Marketing Campaigns">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -617,7 +617,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Happy Client Sharing Experience with Our Email Marketing Services">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Happy Client Sharing Experience with Our Email Marketing Services">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -636,7 +636,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial on Successful Email Marketing Campaigns">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial on Successful Email Marketing Campaigns">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -652,62 +652,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <script type="application/ld+json">																									
-{																									
-	@context: "http://schema.org/",																								
-	@type: "FAQPage",																								
-	mainEntity: [																								
-		{																							
-			@type: "Question",																						
-			name: "What email marketing services does Tabsoft Marketing offer?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We offer a full range of email marketing services, including strategy development, email template design, list segmentation, automation, campaign management, reporting, and analytics."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What industries do you specialize in?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We work with businesses across various industries, including (but not limited to) e-commerce, retail, technology, healthcare, and professional services. Our adaptable approach allows us to tailor our services to meet the unique needs of any sector."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you measure the success of an email marketing campaign?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We track key metrics such as open rates, click-through rates, conversion rates, unsubscribe rates, and ROI. We provide regular reports to our clients, highlighting campaign performance and identifying areas for optimization."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What email marketing platforms do you use?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We are proficient in using various leading email marketing platforms, including Mailchimp, Constant Contact, Klaviyo, and others. We choose the platform that best suits our client's needs and budget."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How much does your email marketing service cost?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Our pricing varies depending on the scope of the project and the specific services required. We offer customized packages to fit different budgets and business needs. We encourage you to contact us for a free consultation and personalized quote."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do I get started with Tabsoft Marketing?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Simply contact us through our website or give us a call. We'll schedule a free consultation to discuss your business goals and how our email marketing services can help you achieve them."																					
-			}																						
-		}																							
-	]																								
-}																									
-</script>																									
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "What email marketing services does Tabsoft Marketing offer?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We offer a full range of email marketing services, including strategy development, email template design, list segmentation, automation, campaign management, reporting, and analytics."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What industries do you specialize in?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We work with businesses across various industries, including (but not limited to) e-commerce, retail, technology, healthcare, and professional services. Our adaptable approach allows us to tailor our services to meet the unique needs of any sector."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do you measure the success of an email marketing campaign?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We track key metrics such as open rates, click-through rates, conversion rates, unsubscribe rates, and ROI. We provide regular reports to our clients, highlighting campaign performance and identifying areas for optimization."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What email marketing platforms do you use?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We are proficient in using various leading email marketing platforms, including Mailchimp, Constant Contact, Klaviyo, and others. We choose the platform that best suits our client's needs and budget."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How much does your email marketing service cost?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our pricing varies depending on the scope of the project and the specific services required. We offer customized packages to fit different budgets and business needs. We encourage you to contact us for a free consultation and personalized quote."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do I get started with Tabsoft Marketing?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Simply contact us through our website or give us a call. We'll schedule a free consultation to discuss your business goals and how our email marketing services can help you achieve them."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

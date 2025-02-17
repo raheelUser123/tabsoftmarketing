@@ -11,9 +11,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -340,7 +340,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="SEO Optimization for Better Search Rankings">
+            <img src="../assets/images/cli-seo-image.webp" alt="SEO Optimization for Better Search Rankings">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -442,7 +442,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                    <img src="../assets/images/why-partner-tiktok-image.png" alt="Why Partner with TikTok for Business Growth">
+                        <img src="../assets/images/why-partner-tiktok-image.png" alt="Why Partner with TikTok for Business Growth">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -520,7 +520,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial - Satisfied Customer Feedback">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial - Satisfied Customer Feedback">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -540,7 +540,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Positive Client Testimonial on Our Services">
+                                    <img src="../assets/images/testi-image-2.png" alt="Positive Client Testimonial on Our Services">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -560,7 +560,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="TikTok Ads campaign success testimonial">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="TikTok Ads campaign success testimonial">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -581,7 +581,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Customer testimonial about TikTok Ads results">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Customer testimonial about TikTok Ads results">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -597,54 +597,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <script type="application/ld+json">																									
-{																									
-	@context: "http://schema.org/",																								
-	@type: "FAQPage",																								
-	mainEntity: [																								
-		{																							
-			@type: "Question",																						
-			name: "How quickly can I see results from TikTok ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Results can vary based on your goals and the type of campaign, but typically, you can start seeing engagement and metrics within the first week. Our team continuously optimizes your ads to drive better performance over time."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What is the minimum budget for TikTok ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We work with various budgets! Whether you’re just starting out or looking to scale, we’ll tailor a strategy that fits your budget and maximizes results. It’s all about smart spending, not just spending more."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "Do you handle content creation for TikTok ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Yes! Our team creates eye-catching, engaging videos designed specifically for TikTok’s audience. From concept to editing, we take care of the entire process to ensure your content resonates with users."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you target the right audience?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We use advanced targeting strategies based on demographics, interests, behaviors, and more. By analyzing your brand and goals, we ensure your ads are seen by the most relevant audience, leading to better engagement and conversions."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "Can you help with influencer collaborations?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Absolutely! We can connect you with top TikTok influencers and create partnerships that amplify your brand’s reach. Our team handles the strategy and outreach to ensure a successful collaboration."																					
-			}																						
-		}																							
-	]																								
-}																									
-</script>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "How quickly can I see results from TikTok ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Results can vary based on your goals and the type of campaign, but typically, you can start seeing engagement and metrics within the first week. Our team continuously optimizes your ads to drive better performance over time."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is the minimum budget for TikTok ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We work with various budgets! Whether you’re just starting out or looking to scale, we’ll tailor a strategy that fits your budget and maximizes results. It’s all about smart spending, not just spending more."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you handle content creation for TikTok ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes! Our team creates eye-catching, engaging videos designed specifically for TikTok’s audience. From concept to editing, we take care of the entire process to ensure your content resonates with users."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do you target the right audience?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We use advanced targeting strategies based on demographics, interests, behaviors, and more. By analyzing your brand and goals, we ensure your ads are seen by the most relevant audience, leading to better engagement and conversions."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can you help with influencer collaborations?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely! We can connect you with top TikTok influencers and create partnerships that amplify your brand’s reach. Our team handles the strategy and outreach to ensure a successful collaboration."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

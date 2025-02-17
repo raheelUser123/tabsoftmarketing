@@ -9,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -81,7 +81,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <section id="reach-top-google-bing" class="review-reach-top" >
+    <section id="reach-top-google-bing" class="review-reach-top">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6">
@@ -283,7 +283,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Reputation management and client review strategy illustration">
+            <img src="../assets/images/cli-seo-image.webp" alt="Reputation management and client review strategy illustration">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -492,7 +492,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-1.jpg" alt="Client testimonial image 1">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Client testimonial image 1">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -512,7 +512,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Client testimonial image 2">
+                                    <img src="../assets/images/testi-image-2.png" alt="Client testimonial image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -532,7 +532,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Client testimonial image 3">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Client testimonial image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -553,7 +553,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -569,54 +569,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <script type="application/ld+json">																									
-{																									
-	@context: "http://schema.org/",																								
-	@type: "FAQPage",																								
-	mainEntity: [																								
-		{																							
-			@type: "Question",																						
-			name: "Why is review and reputation management important for online businesses?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Review and reputation management is crucial for online businesses as it helps build trust, attract customers, and protect the brand’s image in a competitive digital market."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How does Tabsoft Marketing handle negative online content?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Tabsoft Marketing handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What is the difference between online review management and reputation management?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Online review management focuses on managing reviews across different platforms (e.g., Google, Yelp), while reputation management covers all aspects of your online image, including reviews, social media mentions, and search engine results."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "Why are online reviews important?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Online reviews significantly impact consumer decisions. Positive reviews can increase trust and sales, while negative reviews if left unmanaged, can harm your reputation."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "Are review and reputation management services expensive?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "The cost of these services varies based on your business size, service level, and needs."																					
-			}																						
-		}																							
-	]																								
-}																									
-</script>																									
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "Why is review and reputation management important for online businesses?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Review and reputation management is crucial for online businesses as it helps build trust, attract customers, and protect the brand’s image in a competitive digital market."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How does Tabsoft Marketing handle negative online content?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Tabsoft Marketing handles negative online content by quickly addressing concerns, responding thoughtfully, and using smart strategies to protect your reputation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is the difference between online review management and reputation management?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Online review management focuses on managing reviews across different platforms (e.g., Google, Yelp), while reputation management covers all aspects of your online image, including reviews, social media mentions, and search engine results."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Why are online reviews important?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Online reviews significantly impact consumer decisions. Positive reviews can increase trust and sales, while negative reviews if left unmanaged, can harm your reputation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Are review and reputation management services expensive?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The cost of these services varies based on your business size, service level, and needs."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

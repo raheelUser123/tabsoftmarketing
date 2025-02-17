@@ -9,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -533,7 +533,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client testimonial image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -550,51 +550,44 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </section>
     <script type="application/ld+json">
-{
-	""@context"": ""http://schema.org/"",
-	""@type"": ""FAQPage"",
-	""mainEntity"": [
-		{
-			""@type"": ""Question"",
-			""name"": ""What is Technical SEO?"",
-			""acceptedAnswer"": {
-				""@type"": ""Answer"",
-				""text"": ""Technical SEO is a digital marketing strategy that optimizes a website's infrastructure to improve its crawlability, indexing, and overall performance in search engine rankings.""
-			}
-		},
-		{
-			""@type"": ""Question"",
-			""name"": ""What strategies do technical SEO agencies use?"",
-			""acceptedAnswer"": {
-				""@type"": ""Answer"",
-				""text"": ""Some of the optimization strategies used to boost search engine rankings by technical SEO agencies like us are;
-improve site speed
-optimize mobile performance
-enhance crawlability
-ensure secure connections (HTTPS)
-optimize URL structures""
-			}
-		},
-		{
-			""@type"": ""Question"",
-			""name"": ""Should I hire a technical SEO agency?"",
-			""acceptedAnswer"": {
-				""@type"": ""Answer"",
-				""text"": ""Hiring a technical SEO agency can be beneficial if you're facing issues with site speed, mobile optimization, or crawlability and lack the expertise or time to address them yourself.""
-			}
-		},
-		{
-			""@type"": ""Question"",
-			""name"": ""How much do technical SEO agencies cost?"",
-			""acceptedAnswer"": {
-				""@type"": ""Answer"",
-				""text"": ""The cost of technical SEO agencies typically ranges from $500 to $5,000 or more per month, depending on the complexity of the services, the agency's reputation, and the size of your website.""
-			}
-		}
-	]
-}
-</script>																							
-																									
+        {
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "What is Technical SEO?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Technical SEO is a digital marketing strategy that optimizes a website's infrastructure to improve its crawlability, indexing, and overall performance in search engine rankings."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What strategies do technical SEO agencies use?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Some of the optimization strategies used to boost search engine rankings by technical SEO agencies like us are; improve site speed, optimize mobile performance, enhance crawlability, ensure secure connections (HTTPS), optimize URL structures."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Should I hire a technical SEO agency?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Hiring a technical SEO agency can be beneficial if you're facing issues with site speed, mobile optimization, or crawlability and lack the expertise or time to address them yourself."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How much do technical SEO agencies cost?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The cost of technical SEO agencies typically ranges from $500 to $5,000 or more per month, depending on the complexity of the services, the agency's reputation, and the size of your website."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

@@ -9,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -365,7 +365,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Instagram ads services strategy for maximizing brand engagement and audience reach">
+            <img src="../assets/images/cli-seo-image.webp" alt="Instagram ads services strategy for maximizing brand engagement and audience reach">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -459,7 +459,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper">
-                    <img src="../assets/images/services-instagram.webp" alt="Comprehensive Instagram ads services for boosting brand visibility and driving conversions" style="width: 100% !important;">
+                        <img src="../assets/images/services-instagram.webp" alt="Comprehensive Instagram ads services for boosting brand visibility and driving conversions" style="width: 100% !important;">
                     </div>
 
                 </div>
@@ -539,7 +539,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-1.jpg" alt="Customer testimonial showcasing satisfaction with Instagram ads services">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Customer testimonial showcasing satisfaction with Instagram ads services">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -559,7 +559,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Satisfied customer testimonial">
+                                    <img src="../assets/images/testi-image-2.png" alt="Satisfied customer testimonial">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -579,7 +579,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Happy client feedback">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Happy client feedback">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -600,7 +600,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Satisfied customer review">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Satisfied customer review">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -616,54 +616,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <script type="application/ld+json">																									
-{																									
-	@context: "http://schema.org/",																								
-	@type: "FAQPage",																								
-	mainEntity: [																								
-		{																							
-			@type: "Question",																						
-			name: "How do you determine the best audience for my Instagram ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We use advanced targeting tools to analyze your brand, audience demographics, and behaviors to pinpoint the most relevant people who will engage with your ads."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How long does it take to see results from Instagram ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "While results can vary, most clients start to see noticeable engagement and performance improvements within a few weeks of launching their campaigns."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What kind of content do you create for Instagram ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We design visually striking and on-brand content, including static images, videos, carousels, and stories, all tailored to grab attention and drive conversions."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "Can you manage ads for any type of business?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Absolutely! We work with businesses of all sizes across various industries, from e-commerce to tech, beauty, and beyond. Our approach is customized to your unique needs."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you measure the success of my Instagram ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We track key performance metrics like engagement rates, clicks, conversions, and ROI. We provide detailed reports to show how your ads are performing and offer insights for continuous improvement."																					
-			}																						
-		}																							
-	]																								
-}																									
-</script>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "How do you determine the best audience for my Instagram ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We use advanced targeting tools to analyze your brand, audience demographics, and behaviors to pinpoint the most relevant people who will engage with your ads."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does it take to see results from Instagram ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "While results can vary, most clients start to see noticeable engagement and performance improvements within a few weeks of launching their campaigns."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What kind of content do you create for Instagram ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We design visually striking and on-brand content, including static images, videos, carousels, and stories, all tailored to grab attention and drive conversions."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can you manage ads for any type of business?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely! We work with businesses of all sizes across various industries, from e-commerce to tech, beauty, and beyond. Our approach is customized to your unique needs."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do you measure the success of my Instagram ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We track key performance metrics like engagement rates, clicks, conversions, and ROI. We provide detailed reports to show how your ads are performing and offer insights for continuous improvement."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

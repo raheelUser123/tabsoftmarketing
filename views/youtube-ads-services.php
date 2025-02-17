@@ -9,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -590,54 +590,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <script type="application/ld+json">																									
-{																									
-	@context: "http://schema.org/",																								
-	@type: "FAQPage",																								
-	mainEntity: [																								
-		{																							
-			@type: "Question",																						
-			name: "How much do YouTube ads cost?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "The cost varies depending on your goals and budget. We work with you to create a strategy that maximizes your investment and delivers great results."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What types of businesses benefit from YouTube ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "YouTube ads work for businesses of all sizes and industries. Whether you’re promoting a product, service, or brand, we tailor campaigns to meet your needs."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you target the right audience?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We use YouTube’s advanced targeting tools, including demographics, interests, and behavior, to ensure your ads reach the perfect audience."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "Can you help create the video ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Absolutely! Our team specializes in creating engaging and professional video ads that capture attention and convey your message effectively."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do I track the performance of my ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We provide detailed reports and insights so you can see exactly how your ads are performing and the value they’re bringing to your business."																					
-			}																						
-		}																							
-	]																								
-}																									
-</script>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "How much do YouTube ads cost?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The cost varies depending on your goals and budget. We work with you to create a strategy that maximizes your investment and delivers great results."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What types of businesses benefit from YouTube ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "YouTube ads work for businesses of all sizes and industries. Whether you’re promoting a product, service, or brand, we tailor campaigns to meet your needs."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do you target the right audience?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We use YouTube’s advanced targeting tools, including demographics, interests, and behavior, to ensure your ads reach the perfect audience."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can you help create the video ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely! Our team specializes in creating engaging and professional video ads that capture attention and convey your message effectively."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do I track the performance of my ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We provide detailed reports and insights so you can see exactly how your ads are performing and the value they’re bringing to your business."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

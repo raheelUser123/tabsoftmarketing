@@ -533,7 +533,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <script type="application/ld+json">
 {
-	""@context"": ""http://schema.org/"",
+	""@context"": "http://schema.org/",
 	""@type"": ""FAQPage"",
 	""mainEntity"": [
 		{

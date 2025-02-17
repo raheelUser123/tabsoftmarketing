@@ -10,9 +10,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -370,7 +370,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Ecommerce marketing strategy and SEO optimization">
+            <img src="../assets/images/cli-seo-image.webp" alt="Ecommerce marketing strategy and SEO optimization">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -603,7 +603,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Client Testimonial Image 2">
+                                    <img src="../assets/images/testi-image-2.png" alt="Client Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -623,7 +623,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Customer Review - Image 3">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Customer Review - Image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -644,7 +644,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Customer Testimonial - Image 4">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Customer Testimonial - Image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -660,62 +660,61 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <script type="application/ld+json">																									
-{																									
-	@context: "http://schema.org/",																								
-	@type: "FAQPage",																								
-	mainEntity: [																								
-		{																							
-			@type: "Question",																						
-			name: "What services does Tabsoft Marketing offer?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Tabsoft Marketing offers a comprehensive range of digital marketing services, including eCommerce marketing, SEO, website design and development, social media marketing, PPC advertising, and omnichannel marketing strategies."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What types of businesses do you work with?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We work with businesses of all sizes, from small local businesses to large enterprises, across various industries. Our tailored approach ensures that we can meet the unique needs of each client."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you measure the success of your campaigns?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We use a variety of metrics to track the performance of our campaigns, including website traffic, conversion rates, search engine rankings, social media engagement, and return on investment (ROI). We provide regular reports to our clients to keep them informed of our progress."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How much does it cost to work with Tabsoft Marketing?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Our pricing varies depending on the specific services required and the scope of the project. We offer customized solutions to fit different budgets. We recommend contacting us for a free consultation to discuss your needs and receive a personalized quote."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What is your approach to eCommerce marketing?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Our eCommerce marketing approach is customer-centric and data-driven. We focus on creating engaging online experiences that drive traffic, increase conversions, and build customer loyalty. We utilize a range of strategies, including SEO, social media marketing, email marketing, and paid advertising."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How can I get started with Tabsoft Marketing?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Getting started is easy! Simply contact us through our website, phone, or email to schedule a free consultation. We'll discuss your business goals and develop a tailored strategy to help you achieve them."																					
-			}																						
-		}																							
-	]																								
-}																									
-</script>																								
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "What services does Tabsoft Marketing offer?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Tabsoft Marketing offers a comprehensive range of digital marketing services, including eCommerce marketing, SEO, website design and development, social media marketing, PPC advertising, and omnichannel marketing strategies."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What types of businesses do you work with?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We work with businesses of all sizes, from small local businesses to large enterprises, across various industries. Our tailored approach ensures that we can meet the unique needs of each client."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How do you measure the success of your campaigns?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We use a variety of metrics to track the performance of our campaigns, including website traffic, conversion rates, search engine rankings, social media engagement, and return on investment (ROI). We provide regular reports to our clients to keep them informed of our progress."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How much does it cost to work with Tabsoft Marketing?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our pricing varies depending on the specific services required and the scope of the project. We offer customized solutions to fit different budgets. We recommend contacting us for a free consultation to discuss your needs and receive a personalized quote."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is your approach to eCommerce marketing?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our eCommerce marketing approach is customer-centric and data-driven. We focus on creating engaging online experiences that drive traffic, increase conversions, and build customer loyalty. We utilize a range of strategies, including SEO, social media marketing, email marketing, and paid advertising."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How can I get started with Tabsoft Marketing?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Getting started is easy! Simply contact us through our website, phone, or email to schedule a free consultation. We'll discuss your business goals and develop a tailored strategy to help you achieve them."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

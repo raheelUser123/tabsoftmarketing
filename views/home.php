@@ -5,9 +5,9 @@
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="hero-section">
@@ -226,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-lg-4">
                     <div class="optimization-cards">
                         <div class="optimization-image-wrapper">
-                        <img src="../assets/images/pay-per-click.png" alt="Pay Per Click Advertising Icon">
+                            <img src="../assets/images/pay-per-click.png" alt="Pay Per Click Advertising Icon">
                         </div>
                         <div class="optimization-content">
                             <h4>
@@ -238,7 +238,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-lg-4">
                     <div class="optimization-cards">
                         <div class="optimization-image-wrapper">
-                        <img src="../assets/images/facebook-ecommerce-agency-image-1.png" alt="Facebook E-commerce Agency Illustration">
+                            <img src="../assets/images/facebook-ecommerce-agency-image-1.png" alt="Facebook E-commerce Agency Illustration">
                         </div>
                         <div class="optimization-content">
                             <h4>
@@ -250,7 +250,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-lg-4">
                     <div class="optimization-cards">
                         <div class="optimization-image-wrapper">
-                        <img src="../assets/images/continuous-improvement.png" alt="Continuous Improvement Icon">
+                            <img src="../assets/images/continuous-improvement.png" alt="Continuous Improvement Icon">
                         </div>
                         <div class="optimization-content">
                             <h4>
@@ -396,13 +396,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="working-image-wrapper">
-                    <img src="../assets/images/highvern.gif" alt="Highvern Animated Logo">
+                        <img src="../assets/images/highvern.gif" alt="Highvern Animated Logo">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="methodolgy-cards">
                         <div class="methodolgy-card-image-wrapper ">
-                        <img src="../assets/images/analysing.png" alt="Data Analysis Icon">
+                            <img src="../assets/images/analysing.png" alt="Data Analysis Icon">
                         </div>
                         <div class="methodology-card-heading">
                             <h3>Analysis </h3>
@@ -413,7 +413,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="methodolgy-cards">
                         <div class="methodolgy-card-image-wrapper">
-                        <img src="../assets/images/implementation.png" alt="Implementation Process Icon">
+                            <img src="../assets/images/implementation.png" alt="Implementation Process Icon">
                         </div>
                         <div class="methodology-card-heading">
                             <h3>Implementation</h3>
@@ -424,7 +424,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="methodolgy-cards">
                         <div class="methodolgy-card-image-wrapper">
-                        <img src="../assets/images/optimization.png" alt="Optimization Strategy Icon">
+                            <img src="../assets/images/optimization.png" alt="Optimization Strategy Icon">
                         </div>
                         <div class="methodology-card-heading">
                             <h3>Tracking & Optimization</h3>
@@ -457,7 +457,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                    <img src="../assets/images/seo-ads-images.webp" alt="SEO and Advertising Illustration">
+                        <img src="../assets/images/seo-ads-images.webp" alt="SEO and Advertising Illustration">
                     </div>
                 </div>
             </div>
@@ -475,7 +475,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                    <img src="../assets/images/smm-ads-images.webp" alt="Social Media Marketing Ads Illustration">
+                        <img src="../assets/images/smm-ads-images.webp" alt="Social Media Marketing Ads Illustration">
                     </div>
                 </div>
             </div>
@@ -497,7 +497,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                    <img src="../assets/images/ads-management-image.webp" alt="Ads Management Illustration" style="object-fit: cover; height: 560px; object-position: bottom;">
+                        <img src="../assets/images/ads-management-image.webp" alt="Ads Management Illustration" style="object-fit: cover; height: 560px; object-position: bottom;">
                     </div>
                 </div>
             </div>
@@ -517,7 +517,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                    <img src="../assets/images/amazon-marketing-ads.jpg" alt="Amazon Marketing Ads Illustration" style="object-position: bottom;">
+                        <img src="../assets/images/amazon-marketing-ads.jpg" alt="Amazon Marketing Ads Illustration" style="object-position: bottom;">
                     </div>
                 </div>
             </div>
@@ -536,7 +536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                    <img src="../assets/images/ecommerce-maketing-image-ads.webp" alt="E-commerce Marketing Ads Illustration" style="object-position: center;">
+                        <img src="../assets/images/ecommerce-maketing-image-ads.webp" alt="E-commerce Marketing Ads Illustration" style="object-position: center;">
                     </div>
                 </div>
             </div>
@@ -554,7 +554,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="col-lg-6">
                     <div class="google-ads-image-wrapper">
-                    <img src="../assets/images/email-marketing-ads.jpg" alt="Email Marketing Ads Illustration" style="object-position: center;">
+                        <img src="../assets/images/email-marketing-ads.jpg" alt="Email Marketing Ads Illustration" style="object-position: center;">
                     </div>
                 </div>
             </div>
@@ -578,7 +578,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/images-1laura.jpg" alt="Laura's Portrait or Branding Image">
+                                    <img src="../assets/images/images-1laura.jpg" alt="Laura's Portrait or Branding Image">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -597,7 +597,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Testimonial Image 2">
+                                    <img src="../assets/images/testi-image-2.png" alt="Testimonial Image 2">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -616,7 +616,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Testimonial Image 3">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Testimonial Image 3">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -635,7 +635,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Testimonial Image 4">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Testimonial Image 4">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -654,7 +654,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/images-1ameli.jpg" alt="Ameli's Portrait or Branding Image">
+                                    <img src="../assets/images/images-1ameli.jpg" alt="Ameli's Portrait or Branding Image">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -670,95 +670,94 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-				
-    <script type="application/ld+json">				
-{				
-	@context: "http://schema.org/",			
-	@type: "FAQPage",			
-	mainEntity: [			
-		{		
-			@type: "Question",	
-			name: "What digital marketing services does Tabsoft Marketing offer?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "Tabsoft Marketing provides a comprehensive suite of digital marketing services, including Ad Management for platforms like Instagram, YouTube, TikTok, Snapchat, and Twitter, Amazon Marketing, Ecommerce Marketing, Email Marketing, Search Engine Optimization (SEO), and Social Media Marketing."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "How can your ad management services benefit my business?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "Our ad management services are designed to maximize your visibility and engagement across multiple platforms. We create targeted campaigns that are not only creative but also backed by detailed analytics to ensure your advertisements reach the right audience and achieve high conversion rates."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "What makes your Amazon marketing strategies effective?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "Our Amazon marketing strategies focus on optimizing your product listings with A+ content, managing effective ad placements, and utilizing strategic keyword targeting. These efforts are aimed at enhancing product visibility and driving sales through informed and tactical decision-making."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "Can Tabsoft Marketing help with my business's SEO needs?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "Absolutely! Our SEO experts focus on improving your site's visibility by enhancing your search engine rankings through optimized content, strategic keyword placement, and building a robust backlink profile. We tailor our SEO strategies to meet the specific needs of your business, helping you attract more organic traffic."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "What is involved in your ecommerce marketing services?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "Our ecommerce marketing services include a range of strategies such as SEO, pay-per-click advertising, social media campaigns, and email marketing. We aim to enhance your product visibility and sales by creating targeted campaigns that attract and convert customers throughout the ecommerce funnel."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "How do you customize your email marketing campaigns?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "We customize email marketing campaigns based on your business objectives and audience insights. This involves segmenting your audience, crafting personalized messages, and designing emails that resonate with your target demographic to increase engagement and conversions."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "How often will I receive updates on my digital marketing campaigns?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "We provide regular updates and detailed reports on the performance of your digital marketing campaigns. Typically, we offer monthly reviews, but we can adjust the frequency of reports and updates according to your preferences and needs."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "What results can I expect from your social media marketing services?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "With our social media marketing services, you can expect increased brand awareness, higher engagement rates, and growth in your follower base. We strategize content and campaigns that resonate with your target audience, fostering a community around your brand and driving business growth."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "Why should I choose Tabsoft Marketing over other digital marketing firms?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to the client's specific goals. Our team of experts leverages the latest digital marketing tools and analytics to ensure optimal performance and results. Plus, our commitment to transparency and client communication ensures you are always informed and in control."
-			}	
-		},		
-		{		
-			@type: "Question",	
-			name: "How can I get started with Tabsoft Marketing?",	
-			acceptedAnswer: {	
-				@type: "Answer",
-				text: "Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or phone. We'll arrange an initial consultation to discuss your needs and objectives and then propose a tailored strategy to help your business succeed in the digital world."
-			}	
-		}		
-	]			
-}				
-</script>				
+
+    <script type="application/ld+json">
+        {
+            "context": "http://schema.org/",
+            "type": "FAQPage",
+            "mainEntity": [{
+                    "type": "Question",
+                    "name": "What digital marketing services does Tabsoft Marketing offer?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Tabsoft Marketing provides a comprehensive suite of digital marketing services, including Ad Management for platforms like Instagram, YouTube, TikTok, Snapchat, and Twitter, Amazon Marketing, Ecommerce Marketing, Email Marketing, Search Engine Optimization (SEO), and Social Media Marketing."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "How can your ad management services benefit my business?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Our ad management services are designed to maximize your visibility and engagement across multiple platforms. We create targeted campaigns that are not only creative but also backed by detailed analytics to ensure your advertisements reach the right audience and achieve high conversion rates."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "What makes your Amazon marketing strategies effective?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Our Amazon marketing strategies focus on optimizing your product listings with A+ content, managing effective ad placements, and utilizing strategic keyword targeting. These efforts are aimed at enhancing product visibility and driving sales through informed and tactical decision-making."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "Can Tabsoft Marketing help with my business's SEO needs?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Absolutely! Our SEO experts focus on improving your site's visibility by enhancing your search engine rankings through optimized content, strategic keyword placement, and building a robust backlink profile. We tailor our SEO strategies to meet the specific needs of your business, helping you attract more organic traffic."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "What is involved in your ecommerce marketing services?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Our ecommerce marketing services include a range of strategies such as SEO, pay-per-click advertising, social media campaigns, and email marketing. We aim to enhance your product visibility and sales by creating targeted campaigns that attract and convert customers throughout the ecommerce funnel."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "How do you customize your email marketing campaigns?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "We customize email marketing campaigns based on your business objectives and audience insights. This involves segmenting your audience, crafting personalized messages, and designing emails that resonate with your target demographic to increase engagement and conversions."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "How often will I receive updates on my digital marketing campaigns?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "We provide regular updates and detailed reports on the performance of your digital marketing campaigns. Typically, we offer monthly reviews, but we can adjust the frequency of reports and updates according to your preferences and needs."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "What results can I expect from your social media marketing services?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "With our social media marketing services, you can expect increased brand awareness, higher engagement rates, and growth in your follower base. We strategize content and campaigns that resonate with your target audience, fostering a community around your brand and driving business growth."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "Why should I choose Tabsoft Marketing over other digital marketing firms?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Tabsoft Marketing stands out due to our customized approach, where each strategy is tailored to the client's specific goals. Our team of experts leverages the latest digital marketing tools and analytics to ensure optimal performance and results. Plus, our commitment to transparency and client communication ensures you are always informed and in control."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "How can I get started with Tabsoft Marketing?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Getting started with Tabsoft Marketing is easy! Simply contact us via our website, email, or phone. We'll arrange an initial consultation to discuss your needs and objectives and then propose a tailored strategy to help your business succeed in the digital world."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">

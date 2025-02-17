@@ -593,46 +593,46 @@ include_once("includes/head.php");
     </section>
     <script type="application/ld+json">
         {
-            @context: "http://schema.org/",
-            @type: "FAQPage",
-            mainEntity: [{
-                    @type: "Question",
-                    name: "What makes your Twitter (X) ad management services different?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "Our services stand out because we focus on tailored strategies, creative ad designs, and real-time data optimization to ensure your campaigns reach the right audience and deliver measurable results."
+            "@context": "http://schema.org/",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                    "@type": "Question",
+                    "name": "What makes your Twitter (X) ad management services different?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our services stand out because we focus on tailored strategies, creative ad designs, and real-time data optimization to ensure your campaigns reach the right audience and deliver measurable results."
                     }
                 },
                 {
-                    @type: "Question",
-                    name: "How do you determine the right audience for my ads?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "We use a combination of data analysis, audience research, and behavioral insights to pinpoint exactly who your ideal customers are, ensuring your ads get to the people who matter most."
+                    "@type": "Question",
+                    "name": "How do you determine the right audience for my ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "We use a combination of data analysis, audience research, and behavioral insights to pinpoint exactly who your ideal customers are, ensuring your ads get to the people who matter most."
                     }
                 },
                 {
-                    @type: "Question",
-                    name: "Will I be able to track the performance of my ads?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "Absolutely! We provide detailed reports with clear metrics so you can track the effectiveness of your campaigns, understand what’s working, and make informed decisions moving forward."
+                    "@type": "Question",
+                    "name": "Will I be able to track the performance of my ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely! We provide detailed reports with clear metrics so you can track the effectiveness of your campaigns, understand what’s working, and make informed decisions moving forward."
                     }
                 },
                 {
-                    @type: "Question",
-                    name: "How much budget should I allocate for my Twitter (X) ads?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "The ideal budget depends on your goals, target audience, and the scope of your campaign. We’ll work with you to create a budget that maximizes ROI without overspending."
+                    "@type": "Question",
+                    "name": "How much budget should I allocate for my Twitter (X) ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The ideal budget depends on your goals, target audience, and the scope of your campaign. We’ll work with you to create a budget that maximizes ROI without overspending."
                     }
                 },
                 {
-                    @type: "Question",
-                    name: "How long does it take to see results from Twitter (X) ads?",
-                    acceptedAnswer: {
-                        @type: "Answer",
-                        text: "While some results can be seen within days, we recommend allowing a few weeks for optimal performance, as we continually monitor and adjust your campaigns to improve results over time."
+                    "@type": "Question",
+                    "name": "How long does it take to see results from Twitter (X) ads?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "While some results can be seen within days, we recommend allowing a few weeks for optimal performance, as we continually monitor and adjust your campaigns to improve results over time."
                     }
                 }
             ]

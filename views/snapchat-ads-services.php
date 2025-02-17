@@ -9,9 +9,9 @@ include_once("includes/head.php");
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <?php include_once("includes/header.php") ?>
     <section id="service-hero-section">
@@ -340,7 +340,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <div class="seo-category-review-div">
         <div class="cli-seo-image-wrapper">
-        <img src="../assets/images/cli-seo-image.webp" alt="Grow Your Business with Snapchat Ads Services">
+            <img src="../assets/images/cli-seo-image.webp" alt="Grow Your Business with Snapchat Ads Services">
         </div>
         <div class="cli-seo-content">
             <p>
@@ -465,7 +465,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="unrivaled-image-wrapper snapchat-form-image-wrapper">
-                    <img src="../assets/images/snapchat-form-image.webp" alt="Get a Free Consultation for Snapchat Ads Services">
+                        <img src="../assets/images/snapchat-form-image.webp" alt="Get a Free Consultation for Snapchat Ads Services">
                     </div>
 
                 </div>
@@ -544,7 +544,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial - Successful Snapchat Ads Campaign">
+                                    <img src="../assets/images/testi-image-1.jpg" alt="Client Testimonial - Successful Snapchat Ads Campaign">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -564,7 +564,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-2.png" alt="Client Testimonial - Effective Snapchat Ads Campaign">
+                                    <img src="../assets/images/testi-image-2.png" alt="Client Testimonial - Effective Snapchat Ads Campaign">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -583,7 +583,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-3.jpeg" alt="Client Feedback - Successful Snapchat Ad Campaign">
+                                    <img src="../assets/images/testi-image-3.jpeg" alt="Client Feedback - Successful Snapchat Ad Campaign">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -604,7 +604,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
                             <div class="testimonial-client-section">
                                 <div class="testi-image-wrapper">
-                                <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial - Snapchat Ads Success Story">
+                                    <img src="../assets/images/testi-image-4.jpeg" alt="Client Testimonial - Snapchat Ads Success Story">
                                 </div>
                                 <div class="client-name">
                                     <p>
@@ -620,54 +620,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </section>
-    <script type="application/ld+json">																									
-{																									
-	@context: "http://schema.org/",																								
-	@type: "FAQPage",																								
-	mainEntity: [																								
-		{																							
-			@type: "Question",																						
-			name: "How can Snapchat ads help my business?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Snapchat ads can increase brand awareness, drive website traffic, boost sales, and engage a younger, active audience. With the right targeting and creative content, Snapchat is a powerful tool for growing your business."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "What types of ads can I run on Snapchat?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "You can run a variety of ads on Snapchat, including Story Ads, Collection Ads, Filter & Lens Ads, and Video Ads. Each format is designed to engage users in different ways, depending on your campaign goals."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you target the right audience on Snapchat?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We use Snapchat’s advanced targeting options, such as demographics, interests, behaviors, location, and even custom audiences based on your website visitors or app users, ensuring your ads reach the most relevant users."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How do you measure the success of Snapchat ad campaigns?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "We track key metrics like impressions, clicks, conversions, and engagement rates, providing you with detailed reports to show how your ads are performing. We also use Snapchat Pixel to track actions on your website."																					
-			}																						
-		},																							
-		{																							
-			@type: "Question",																						
-			name: "How much should I spend on Snapchat ads?",																						
-			acceptedAnswer: {																						
-				@type: "Answer",																					
-				text: "Your budget depends on your goals and the scale of your campaign. Whether you have a small budget or are looking to invest heavily, we help you maximize your spending for the best return on investment. We’ll work with you to create a budget that fits your needs."																					
-			}																						
-		}																							
-	]																								
-}																									
-</script>																									
+    <script type="application/ld+json">
+        {
+            "context": "http://schema.org/",
+            "type": "FAQPage",
+            "mainEntity": [{
+                    "type": "Question",
+                    "name": "How can Snapchat ads help my business?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Snapchat ads can increase brand awareness, drive website traffic, boost sales, and engage a younger, active audience. With the right targeting and creative content, Snapchat is a powerful tool for growing your business."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "What types of ads can I run on Snapchat?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "You can run a variety of ads on Snapchat, including Story Ads, Collection Ads, Filter & Lens Ads, and Video Ads. Each format is designed to engage users in different ways, depending on your campaign goals."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "How do you target the right audience on Snapchat?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "We use Snapchat’s advanced targeting options, such as demographics, interests, behaviors, location, and even custom audiences based on your website visitors or app users, ensuring your ads reach the most relevant users."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "How do you measure the success of Snapchat ad campaigns?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "We track key metrics like impressions, clicks, conversions, and engagement rates, providing you with detailed reports to show how your ads are performing. We also use Snapchat Pixel to track actions on your website."
+                    }
+                },
+                {
+                    "type": "Question",
+                    "name": "How much should I spend on Snapchat ads?",
+                    "acceptedAnswer": {
+                        "type": "Answer",
+                        "text": "Your budget depends on your goals and the scale of your campaign. Whether you have a small budget or are looking to invest heavily, we help you maximize your spending for the best return on investment. We’ll work with you to create a budget that fits your needs."
+                    }
+                }
+            ]
+        }
+    </script>
     <section id="ppc-faqs">
         <div class="container">
             <div class="ppc-faqs-content text-center">
