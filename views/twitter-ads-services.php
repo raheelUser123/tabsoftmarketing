@@ -571,8 +571,6 @@ include_once("includes/head.php");
                     <div class="">
                         <div class="testimonial-div">
                             <p class="test-p">
-
-
                                 "I was amazed by how quickly they understood our brand and delivered ads that truly resonated with our audience. Our ROI has never been better!"
                             </p>
                             <div class="testimonial-client-section">
