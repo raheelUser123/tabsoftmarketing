@@ -273,7 +273,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/countup.js@2.0.7/dist/countUp.min.js"></script>
 
 
 
@@ -282,54 +281,18 @@
   AOS.init();
 </script>
 
-<script>
-  var modal = document.getElementById("quoteModal");
-
-
-  var buttons = document.getElementsByClassName("quote-button");
-
-
-  var span = document.getElementsByClassName("close")[0];
-
-
-  function openModal() {
-    modal.style.display = "block";
-  }
-
-
-  function closeModal() {
-    modal.style.display = "none";
-  }
-
-
-  for (var i = 0; i < buttons.length; i++) {
-    buttons[i].onclick = openModal;
-  }
-
-
-  span.onclick = closeModal;
-
-
-  window.onclick = function(event) {
-    if (event.target == modal) {
-      closeModal();
-    }
-  }
-
+<!-- <script>
   $(".phone-country").intlTelInput({
     geoIpLookup: function(s) {
       $.get("https://ipinfo.io", function() {}, "jsonp").always(function(i) {
-        s(i && i.country ? i.country : ""), (e = i.ip);
-
-
-
+        s(i && i.country ? i.country : "");
       });
     },
     initialCountry: "auto",
-    nationalMode: !0,
-    separateDialCode: !0,
+    nationalMode: true,
+    separateDialCode: true,
   });
-</script>
+</script> -->
 
 <script>
   $('.telsubmit').on('submit', function(e) {
@@ -723,7 +686,7 @@
     });
   });
 </script>
-<script>
+<!-- <script>
   function startCounting(elementId, start, end, interval, sign = "", suffix = "") {
     let current = start;
 
@@ -758,9 +721,9 @@
   startCounting('counter1', 0, 1079, 20, '', '%'); // Order Volume with %
   startCounting('counter2', 0, 21.57, 50, '', '%'); // Cost Per Order with %
   startCounting('counter3', 0, 24, 50, '$', 'M'); // Revenue with $ and M
-</script>
+</script> -->
 
-<script>
+<!-- <script>
   function startCounting(elementId, start, end, interval, sign = "", suffix = "") {
     let current = start;
 
@@ -788,7 +751,7 @@
   startCounting('counter4', 1, 585, 10, '%'); // First counter
   startCounting('counter5', 1, 1012, 10, '%'); // Second counter
   startCounting('counter6', 0.01, 2.9, 20, '$', 'M'); // Third counter
-</script>
+</script> -->
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     // Handle dropdowns for Bootstrap 5 nested menus
@@ -814,7 +777,7 @@
     });
   });
 </script>
-<script>
+<!-- <script>
   function startCounting(elementId, start, end, interval, sign = "", suffix = "") {
     let current = start;
 
@@ -849,8 +812,8 @@
   startCounting('counter7', 0, 230, 20, '', '%'); // Order Volume with %
   startCounting('counter8', 0, +185, 50, '', '%'); // Cost Per Order with %
   startCounting('counter9', 0, +53, 50, '', '%'); // Revenue with $ and M
-</script>
-<script>
+</script> -->
+<!-- <script>
   function startCounting(elementId, start, end, interval, sign = "", suffix = "") {
     let current = start;
 
@@ -885,7 +848,7 @@
   startCounting('counter10', 0, -78, 20, '', '%'); // Order Volume with %
   startCounting('counter11', 0, +40, 50, '', '%'); // Cost Per Order with %
   startCounting('counter12', 0, 75, 50, '', '%'); // Revenue with $ and M
-</script>
+</script> -->
 <script>
   $(document).ready(function() {
     // First Slider (Left Moving)
@@ -965,7 +928,7 @@
     });
   });
 </script>
-<script>
+<!-- <script>
   function startCountdown() {
     const endDate = new Date();
     endDate.setDate(endDate.getDate() + 30); // 30 days from now
@@ -999,7 +962,7 @@
   }
 
   startCountdown();
-</script>
+</script> -->
 <script>
   $(document).ready(function() {
     $('.shopify-slider-google').slick({
@@ -1155,48 +1118,6 @@
     evt.currentTarget.className += " active";
   }
 </script>
-
-
-
-<script>
-  // Get the element with id="defaultOpen" and click on it
-  document.getElementById("defaultOpen").click();
-</script>
-<script>
-  function animateNumberRolling(finalNumber, duration = 2000, elementId) {
-    const numberElement = document.getElementById(elementId);
-    let startNumber = 0;
-    const incrementTime = Math.ceil(duration / finalNumber); // Calculate the time per increment
-
-    const timer = setInterval(() => {
-      startNumber++;
-      numberElement.textContent = startNumber;
-
-      if (startNumber >= finalNumber) {
-        clearInterval(timer); // Stop the animation when final number is reached
-      }
-    }, incrementTime);
-  }
-
-  // Use IntersectionObserver to trigger the animation when the section appears
-  document.addEventListener('DOMContentLoaded', () => {
-    const observer = new IntersectionObserver((entries, observer) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          // Trigger the animation when the section is in view
-          animateNumberRolling(150, 2000, 'milestone-counter'); // 150 as final number, 2 seconds duration
-          observer.unobserve(entry.target); // Stop observing once the animation has started
-        }
-      });
-    }, {
-      threshold: 0.1
-    }); // Start when 10% of the element is visible
-
-    // Observe the element with the ID 'milestone-counter'
-    const counterElement = document.getElementById('milestone-counter');
-    observer.observe(counterElement);
-  });
-</script>
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 <script>
   window.addEventListener('load', function() {
@@ -1330,10 +1251,11 @@
   })
 </script>
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const leftSection = document.querySelector(".left-section");
-    const rightSection = document.querySelector(".right-section");
+document.addEventListener("DOMContentLoaded", function() {
+  const leftSection = document.querySelector(".left-section");
+  const rightSection = document.querySelector(".right-section");
 
+  if (leftSection && rightSection) {
     // Ensure the left section remains visible
     leftSection.style.position = "sticky";
     leftSection.style.top = "0";
@@ -1343,7 +1265,11 @@
       console.log("Scrolling inside the right section...");
       // You can apply additional effects here (e.g., animations or dynamic changes)
     });
-  });
+  } else {
+    console.error("Elements not found: left-section or right-section");
+  }
+});
+
 </script>
 <script>
   document.querySelectorAll('.accordion-button').forEach(button => {
