@@ -6,9 +6,6 @@ $metaTitle = "TikTok Ad Management Services | Tabsoft Marketing";
 $metaDescription = "Utilize the power of TikTok ads with expert management services and let your brand thrive on the world’s fastest-growing platform.";
 include_once("includes/head.php");
 ?>
-
-</head>
-
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TW29QTLD"
