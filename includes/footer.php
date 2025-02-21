@@ -112,7 +112,7 @@
 
             <div class="foot-slid-div-2">
               <h6 class="text-uppercase fw-bold mb-4">Contact Information</h6>
-              <p><a href="https://maps.app.goo.gl/1Q5MMi9gYgh8A1HT9"><i class="fas fa-home me-3"></i>4952 10th Ave N Greenacres FL 33463</a></p>
+              <p><a href="https://maps.app.goo.gl/R63meTCMnTEWQhJK6" target="_blank"><i class="fas fa-home me-3"></i>4952 10th Ave N, Greenacres, <br> FL 33463, United States</a></p>
               <p>
                 <a href="mailto:query@tabsoftmarketing.com">
                   <i class="fas fa-envelope me-3"></i>
