@@ -13,7 +13,7 @@ if(!isset($_REQUEST['TOKEN'])){
 $token=$_REQUEST['TOKEN'];
 $curl = curl_init();
 curl_setopt_array($curl, array(
-	CURLOPT_URL => "https://crm.crm.tealslab.com/api/leads/$token",
+	CURLOPT_URL => "https://crm.tealslab.com/api/leads/$token",
 	CURLOPT_RETURNTRANSFER => true,
 	CURLOPT_ENCODING => "",
 	CURLOPT_MAXREDIRS => 10,
@@ -96,7 +96,7 @@ $brandurl = array(
 $brandurl = json_encode($brandurl);
 $curl = curl_init();
 curl_setopt_array($curl, array(
-	CURLOPT_URL => "https://crm.crm.tealslab.com/api/accountkey",
+	CURLOPT_URL => "https://crm.tealslab.com/api/accountkey",
 	CURLOPT_RETURNTRANSFER => true,
 	CURLOPT_ENCODING => "",
 	CURLOPT_MAXREDIRS => 10,
